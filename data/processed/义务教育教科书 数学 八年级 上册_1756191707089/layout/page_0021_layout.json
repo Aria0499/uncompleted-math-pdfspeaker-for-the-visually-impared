@@ -1,0 +1,1024 @@
+{
+  "page_id": 21,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle A + \\angle B = 9 0 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/57f3f57674f46fb55623b5146cd216636f2d03883d540da02578b4db9fa354f4.jpg"
+        }
+      },
+      "bbox": [
+        388,
+        67,
+        562,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        843,
+        205,
+        1221,
+        270
+      ],
+      "model_image_bbox": [
+        439,
+        107,
+        636,
+        140
+      ],
+      "pdf_page_bbox": [
+        202.36,
+        49.38,
+        293.11,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "也就是说，直角三角形的两个锐角互余."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        97,
+        530,
+        118
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        297,
+        1152,
+        362
+      ],
+      "model_image_bbox": [
+        141,
+        155,
+        599,
+        188
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        71.48,
+        276.42,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "直角三角形可以用符号“Rt△”表示，直角三角形ABC可以写成"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle A B C"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        125,
+        872,
+        173
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        176,
+        383,
+        1895,
+        531
+      ],
+      "model_image_bbox": [
+        91,
+        200,
+        987,
+        276
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        92.12,
+        454.79,
+        127.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例3如图13.3-6， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C = \\angle D = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，AD，BC相交于点E.比较 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C A E"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle D B E"
+          },
+          {
+            "type": "text",
+            "content": "的大小."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        182,
+        872,
+        230
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        176,
+        558,
+        1895,
+        706
+      ],
+      "model_image_bbox": [
+        91,
+        291,
+        987,
+        368
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        134.13,
+        454.79,
+        169.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解：在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle A C E"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        239,
+        343,
+        258
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        271,
+        733,
+        745,
+        792
+      ],
+      "model_image_bbox": [
+        141,
+        382,
+        388,
+        412
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        176.13,
+        178.89,
+        190.13
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle C A E = 9 0 ^ { \\circ } - \\angle A E C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/d52c25653e8d7aa869a8bef93fea2bcd8bb6878142f7dbce0a24585446ccd6c0.jpg"
+        }
+      },
+      "bbox": [
+        218,
+        267,
+        454,
+        286
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        473,
+        819,
+        986,
+        878
+      ],
+      "model_image_bbox": [
+        246,
+        427,
+        513,
+        457
+      ],
+      "pdf_page_bbox": [
+        113.7,
+        196.77,
+        236.78,
+        210.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle B D E"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        296,
+        302,
+        315
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        271,
+        909,
+        656,
+        967
+      ],
+      "model_image_bbox": [
+        141,
+        473,
+        341,
+        504
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        218.14,
+        157.51,
+        232.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/80370fc3d0b0bb73e1215974e028b9cdfecf829cbe0a6dc075c6d9498477dcae.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        609,
+        239,
+        869,
+        333
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1323,
+        733,
+        1889,
+        1022
+      ],
+      "model_image_bbox": [
+        689,
+        382,
+        983,
+        532
+      ],
+      "pdf_page_bbox": [
+        317.63,
+        176.13,
+        453.23,
+        245.41
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle D B E = 9 0 ^ { \\circ } - \\angle B E D .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/7c8a20f1509b9fc5a4cce2dbf84aed55d982cef0802f27844d5ee88aaf012840.jpg"
+        }
+      },
+      "bbox": [
+        216,
+        324,
+        457,
+        343
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        469,
+        995,
+        993,
+        1053
+      ],
+      "model_image_bbox": [
+        244,
+        518,
+        517,
+        548
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        238.77,
+        238.35,
+        252.77
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\because \\angle A E C = \\angle B E D ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/3c0422401137e42cc54bfadedfc877443fb53e2e7804e19a6ff64f7f701fc424.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        352,
+        358,
+        371
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        276,
+        1080,
+        778,
+        1139
+      ],
+      "model_image_bbox": [
+        143,
+        563,
+        405,
+        593
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        259.41,
+        186.72,
+        273.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图13.3-6"
+          }
+        ]
+      },
+      "bbox": [
+        683,
+        347,
+        776,
+        364
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1484,
+        1065,
+        1687,
+        1117
+      ],
+      "model_image_bbox": [
+        773,
+        555,
+        878,
+        582
+      ],
+      "pdf_page_bbox": [
+        356.22,
+        255.72,
+        404.72,
+        268.25
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle C A E = \\angle D B E .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/9aacf0538ba0fe8e67f540b65cd77ead849d1d9e05d6591b6d49740505c279ba.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        380,
+        356,
+        401
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        276,
+        1166,
+        773,
+        1231
+      ],
+      "model_image_bbox": [
+        143,
+        608,
+        402,
+        641
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        280.04,
+        185.67,
+        295.52
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        418,
+        201,
+        442
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        213,
+        1283,
+        436,
+        1357
+      ],
+      "model_image_bbox": [
+        110,
+        668,
+        227,
+        707
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        308.05,
+        104.83,
+        325.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，如果一个三角形是直角三角形，那么这个三角形有两个角互余．反过来，有两个角互余的三角形是直角三角形吗？试说明理由."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        453,
+        847,
+        503
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        223,
+        1391,
+        1841,
+        1544
+      ],
+      "model_image_bbox": [
+        116,
+        724,
+        958,
+        804
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        333.84,
+        441.75,
+        370.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由三角形的内角和定理可得（请你自己完成证明）："
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        519,
+        636,
+        538
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        271,
+        1593,
+        1382,
+        1652
+      ],
+      "model_image_bbox": [
+        141,
+        830,
+        719,
+        860
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        382.48,
+        331.71,
+        396.48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "有两个角互余的三角形是直角三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        546,
+        508,
+        565
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        271,
+        1676,
+        1104,
+        1735
+      ],
+      "model_image_bbox": [
+        141,
+        873,
+        575,
+        904
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        402.38,
+        264.95,
+        416.38
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        103,
+        588,
+        206,
+        612
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        223,
+        1805,
+        447,
+        1879
+      ],
+      "model_image_bbox": [
+        116,
+        940,
+        233,
+        979
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        433.33,
+        107.44,
+        451.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C B = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D \\perp A B"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为D. "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C D"
+          },
+          {
+            "type": "text",
+            "content": "与"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "有什么关系？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        625,
+        847,
+        675
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        223,
+        1919,
+        1841,
+        2072
+      ],
+      "model_image_bbox": [
+        116,
+        1000,
+        958,
+        1080
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        460.6,
+        441.75,
+        497.44
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cc418ea5e2171263d16843de51a9f2f6bc6bd7a57b1f2c2cc41920d4e3eba6a2.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        213,
+        704,
+        444,
+        809
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        463,
+        2161,
+        965,
+        2484
+      ],
+      "model_image_bbox": [
+        241,
+        1126,
+        502,
+        1294
+      ],
+      "pdf_page_bbox": [
+        111.09,
+        518.81,
+        231.57,
+        596.19
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/77f1cfbf75d654526c4ffccacc878ff52452d259d8d89d22ff0b29b4957e6120.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        574,
+        677,
+        739,
+        807
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1247,
+        2079,
+        1606,
+        2478
+      ],
+      "model_image_bbox": [
+        649,
+        1083,
+        836,
+        1291
+      ],
+      "pdf_page_bbox": [
+        299.37,
+        498.92,
+        385.43,
+        594.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，点D，E分别在边AB，AC上，且"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1 = \\angle 2"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D E"
+          },
+          {
+            "type": "text",
+            "content": "是直角三角形吗？为什么?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        847,
+        847,
+        897
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        223,
+        2601,
+        1841,
+        2754
+      ],
+      "model_image_bbox": [
+        116,
+        1355,
+        958,
+        1435
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        624.2,
+        441.75,
+        661.05
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "14"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        271,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        140.82,
+        703.05
+      ]
+    }
+  ]
+}

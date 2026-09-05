@@ -1,0 +1,778 @@
+{
+  "page_id": 39,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "14.2 三角形全等的判定"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        69,
+        577,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        211,
+        1254,
+        313
+      ],
+      "model_image_bbox": [
+        91,
+        110,
+        653,
+        163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        50.85,
+        300.94,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "性质和判定是几何研究的主要内容.在上一节，我们学习了全等三角形的性质，知道了全等三角形的对应边相等、对应角相等.反过来，具备什么条件的两个三角形全等呢?我们从构成三角形的元素——边、角的关系出发，研究三角形全等的判定方法."
+          }
+        ]
+      },
+      "bbox": [
+        257,
+        159,
+        874,
+        293
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        558,
+        488,
+        1900,
+        899
+      ],
+      "model_image_bbox": [
+        290,
+        254,
+        989,
+        468
+      ],
+      "pdf_page_bbox": [
+        134.04,
+        117.18,
+        455.84,
+        215.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "根据全等三角形的定义，如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "满足三条边分别相等，三个角分别相等，即"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        319,
+        869,
+        369
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        176,
+        979,
+        1889,
+        1133
+      ],
+      "model_image_bbox": [
+        91,
+        510,
+        983,
+        590
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        235.09,
+        453.23,
+        271.94
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "A B = A ^ { \\prime } B ^ { \\prime } , ~ B C = B ^ { \\prime } C ^ { \\prime } , ~ C A = C ^ { \\prime } A ^ { \\prime } ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/b0fa4bca0cd15842b60ad0d8b5674876f172528cb9a677fadd04217b02b12176.jpg"
+        }
+      },
+      "bbox": [
+        282,
+        375,
+        665,
+        395
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        613,
+        1151,
+        1445,
+        1213
+      ],
+      "model_image_bbox": [
+        319,
+        600,
+        752,
+        632
+      ],
+      "pdf_page_bbox": [
+        147.08,
+        276.36,
+        346.83,
+        291.1
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\scriptstyle \\angle A = \\angle A ^ { \\prime } , \\angle B = \\angle B ^ { \\prime } , \\angle C = \\angle C ^ { \\prime } ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/785a596af88a34161b54f48be47dd6964c3645ecbd7b7d8b47f06da8120156b9.jpg"
+        }
+      },
+      "bbox": [
+        275,
+        404,
+        675,
+        425
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        597,
+        1240,
+        1467,
+        1305
+      ],
+      "model_image_bbox": [
+        311,
+        646,
+        764,
+        680
+      ],
+      "pdf_page_bbox": [
+        143.43,
+        297.73,
+        352.05,
+        313.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "就能判定 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\cong } \\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "(图14.2-1)."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        434,
+        508,
+        454
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        176,
+        1332,
+        1104,
+        1394
+      ],
+      "model_image_bbox": [
+        91,
+        694,
+        575,
+        726
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        319.84,
+        264.95,
+        334.58
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一定要满足三条边分别相等，三个角也分别相等，才能保证两个三角形全等吗？上述六个条件中，有些条件是相关的.能否在上述六个条件中选择部分条件，简捷地判定两个三角形全等呢？"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        463,
+        579,
+        597
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        169,
+        1421,
+        1258,
+        1833
+      ],
+      "model_image_bbox": [
+        88,
+        740,
+        655,
+        955
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        341.21,
+        301.98,
+        439.96
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4c742ea400f917ae90635170bd6391b366b38fdb73639b966afbbefd60d04070.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        597,
+        463,
+        857,
+        557
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1297,
+        1421,
+        1863,
+        1710
+      ],
+      "model_image_bbox": [
+        675,
+        740,
+        970,
+        891
+      ],
+      "pdf_page_bbox": [
+        311.37,
+        341.21,
+        446.97,
+        410.48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们按照条件由少到多的顺序进行研究."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        604,
+        530,
+        625
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        271,
+        1854,
+        1152,
+        1919
+      ],
+      "model_image_bbox": [
+        141,
+        966,
+        599,
+        1000
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        445.12,
+        276.42,
+        460.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/faddd90b2694841fa32c3ba543008f8bf11c0622448a5c2d1991c281b71fa912.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        640,
+        135,
+        666
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        213,
+        1965,
+        293,
+        2045
+      ],
+      "model_image_bbox": [
+        110,
+        1024,
+        152,
+        1065
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        471.65,
+        70.41,
+        490.81
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究1"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        642,
+        213,
+        664
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        213,
+        1971,
+        463,
+        2039
+      ],
+      "model_image_bbox": [
+        110,
+        1027,
+        241,
+        1062
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        473.12,
+        111.09,
+        489.34
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "先任意画出一个 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，再画一个 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "满足上述六个条件中的一个（一边或一角分别相等）或两个（两边、一边一角或两角分别相等)．你画出的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "一定全等吗?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        675,
+        850,
+        755
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        223,
+        2072,
+        1847,
+        2318
+      ],
+      "model_image_bbox": [
+        116,
+        1080,
+        962,
+        1208
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        497.44,
+        443.32,
+        556.4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过画图容易举出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "不全等的例子，因此满足上述六个条件中的一个或两个， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "不一定全等.满足上述六个条件中的三个，能保证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "全等吗？"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        769,
+        872,
+        847
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        176,
+        2361,
+        1895,
+        2601
+      ],
+      "model_image_bbox": [
+        91,
+        1230,
+        987,
+        1355
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        566.72,
+        454.79,
+        624.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们分情况进行讨论."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        855,
+        346,
+        876
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        2625,
+        752,
+        2690
+      ],
+      "model_image_bbox": [
+        141,
+        1368,
+        391,
+        1401
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        630.09,
+        180.46,
+        645.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        939,
+        304,
+        954
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        271,
+        2883,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1502,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        692.0,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

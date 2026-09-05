@@ -1,0 +1,718 @@
+{
+  "page_id": 32,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "任务2了解平面图形重心位置的分布特点"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        67,
+        609,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        367,
+        205,
+        1323,
+        270
+      ],
+      "model_image_bbox": [
+        191,
+        107,
+        689,
+        140
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        49.38,
+        317.63,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过查资料、做实验、讨论等小组合作活动，探究下列问题."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        95,
+        781,
+        116
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        367,
+        291,
+        1697,
+        356
+      ],
+      "model_image_bbox": [
+        191,
+        152,
+        884,
+        185
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        70.01,
+        407.33,
+        85.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）你能利用物理知识，设计一个发现三角形的重心位置的实验吗?"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        123,
+        855,
+        144
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        367,
+        377,
+        1858,
+        442
+      ],
+      "model_image_bbox": [
+        191,
+        196,
+        967,
+        230
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        90.65,
+        445.93,
+        106.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）怎样确定其他常见的几何图形（如线段、正方形、长方形、平行四边形等）的重心位置？这些图形的重心位置有什么共同特点？你能尝试说明为什么三角形的重心也满足上述特点吗?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        151,
+        918,
+        227
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        265,
+        463,
+        1995,
+        697
+      ],
+      "model_image_bbox": [
+        138,
+        241,
+        1039,
+        363
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        111.28,
+        478.78,
+        167.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）如果有人问你“一个平面图形的重心指的是什么？位于它的什么位置?”，你会怎样回答？"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        232,
+        918,
+        281
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        712,
+        1995,
+        862
+      ],
+      "model_image_bbox": [
+        138,
+        371,
+        1039,
+        449
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        170.97,
+        478.78,
+        207.08
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "任务3确定一些平面图形的重心位置"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        286,
+        565,
+        307
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        367,
+        878,
+        1228,
+        942
+      ],
+      "model_image_bbox": [
+        191,
+        457,
+        639,
+        491
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        210.77,
+        294.68,
+        226.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过查资料、做实验、讨论等小组合作活动，利用前面获得的结论，选择一些平面图形，尝试确定它们的重心位置."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        314,
+        918,
+        362
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        271,
+        964,
+        1995,
+        1111
+      ],
+      "model_image_bbox": [
+        141,
+        502,
+        1039,
+        579
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        231.4,
+        478.78,
+        266.78
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）你选择的是什么图形？能否根据它的形状确定其重心位置？如果能，你的依据是什么？如何验证你找到的重心位置的准确性?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        369,
+        916,
+        418
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        1133,
+        1991,
+        1283
+      ],
+      "model_image_bbox": [
+        138,
+        590,
+        1036,
+        668
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        271.94,
+        477.74,
+        308.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）当不能根据图形的形状确定它的重心位置时，你能通过把它分割成已知重心位置的图形来寻找它的重心位置吗？如果能，你是如何做的？如果不能，你遇到了什么困难?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        423,
+        918,
+        500
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        265,
+        1299,
+        1995,
+        1535
+      ],
+      "model_image_bbox": [
+        138,
+        676,
+        1039,
+        800
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        311.73,
+        478.78,
+        368.48
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动二 确定平面组合图形的重心位置"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        508,
+        587,
+        529
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        367,
+        1560,
+        1276,
+        1624
+      ],
+      "model_image_bbox": [
+        191,
+        812,
+        664,
+        846
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        374.37,
+        306.15,
+        389.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "平面组合图形由简单平面图形组成，如果能发现平面组合图形的重心位置与被分成的简单平面图形的重心位置之间的关系，就可以确定平面组合图形的重心位置了.为了更加明确地表达位置之间的数量关系，可以建立平面直角坐标系，用坐标来研究重心的位置."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        538,
+        918,
+        642
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        265,
+        1652,
+        1995,
+        1971
+      ],
+      "model_image_bbox": [
+        138,
+        860,
+        1039,
+        1027
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        396.48,
+        478.78,
+        473.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "任务1把一个图形分成两部分，确定这个图形的重心位置与它的两部分的重心位置之间的关系."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        647,
+        916,
+        696
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        265,
+        1986,
+        1991,
+        2137
+      ],
+      "model_image_bbox": [
+        138,
+        1035,
+        1036,
+        1113
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        476.81,
+        477.74,
+        512.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过小组合作活动，选择一个已知重心位置的平面图形，将它分成已知重心位置的两部分，建立平面直角坐标系，探究图形的重心位置与两部分的重心位置坐标之间的关系."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        703,
+        918,
+        779
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        265,
+        2158,
+        1995,
+        2392
+      ],
+      "model_image_bbox": [
+        138,
+        1124,
+        1039,
+        1246
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        518.08,
+        478.78,
+        574.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）你选择的是什么图形？你是按照什么标准把图形分成两部分的？图形的重心位置和两部分的重心位置分别位于哪里?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        784,
+        916,
+        833
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        265,
+        2407,
+        1991,
+        2558
+      ],
+      "model_image_bbox": [
+        138,
+        1254,
+        1036,
+        1332
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        577.77,
+        477.74,
+        613.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）你是如何建立平面直角坐标系的？图形的重心位置的横坐标x、纵坐标y与两部分的重心位置的横坐标 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "x _ { 1 } , \\ x _ { 2 }"
+          },
+          {
+            "type": "text",
+            "content": "、纵坐标 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "y _ { 1 } , \\textrm { ~ y } _ { 2 }"
+          },
+          {
+            "type": "text",
+            "content": "之间有什么数量关系？例如，能写成 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "{ } ^ { * } x = ( \\mathrm { ~  ~ \\rho ~ } ) ~ x _ { 1 } + \\mathrm { ~  ~ \\left( ~ \\rho ~ \\right) ~ } ~ x _ { 2 } , ~ y = \\mathrm { ~  ~ \\left( ~ \\rho ~ \\right) ~ } ~ y _ { 1 } + \\mathrm { ~  ~ \\left( ~ \\rho ~ \\right) ~ } ~ y _ { 2 } { } ^ { , }"
+          },
+          {
+            "type": "text",
+            "content": "的"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        840,
+        918,
+        916
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        265,
+        2579,
+        1995,
+        2813
+      ],
+      "model_image_bbox": [
+        138,
+        1344,
+        1039,
+        1465
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        619.04,
+        478.78,
+        675.05
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "综合与实践确定匀质薄板的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        570,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1239,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        645,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        297.28,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        954
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

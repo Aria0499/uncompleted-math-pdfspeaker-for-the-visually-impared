@@ -1,0 +1,1054 @@
+{
+  "page_id": 36,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/010c49e0000b23847463dd48eaad07bb4c5f75dc577b40b63c1663a5bbd05c19.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        309,
+        670,
+        351,
+        723
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        671,
+        2057,
+        763,
+        2220
+      ],
+      "model_image_bbox": [
+        349,
+        1072,
+        397,
+        1156
+      ],
+      "pdf_page_bbox": [
+        161.16,
+        493.76,
+        183.06,
+        532.82
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "14.1 全等三角形及其性质"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        69,
+        668,
+        102
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        211,
+        1452,
+        313
+      ],
+      "model_image_bbox": [
+        141,
+        110,
+        756,
+        163
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        50.85,
+        348.4,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.1-1，对开的大门、设计的图案中都有形状、大小相同的图形的形象，你能再举出一些类似的例子吗?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        157,
+        916,
+        208
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        482,
+        1991,
+        638
+      ],
+      "model_image_bbox": [
+        138,
+        251,
+        1036,
+        332
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        115.7,
+        477.74,
+        153.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/105fbed66403610d0f68d7db753b290a556cac15219e36b332a556561e49c90e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        149,
+        220,
+        280,
+        336
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        323,
+        675,
+        608,
+        1031
+      ],
+      "model_image_bbox": [
+        168,
+        352,
+        316,
+        537
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        162.13,
+        146.03,
+        247.62
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/d07740008272b88767caa0b0750f7e4db2d2b51ec4ae7040ff42d626fa2a4dc9.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.1-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        321,
+        218,
+        491,
+        338
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        697,
+        669,
+        1067,
+        1037
+      ],
+      "model_image_bbox": [
+        363,
+        348,
+        555,
+        540
+      ],
+      "pdf_page_bbox": [
+        167.42,
+        160.66,
+        256.08,
+        249.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8d3929d97c29f2eb93b76d57a1d354b0218af65b3428f8287435d449d1d32f24.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        528,
+        218,
+        712,
+        333
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1147,
+        669,
+        1547,
+        1022
+      ],
+      "model_image_bbox": [
+        597,
+        348,
+        805,
+        532
+      ],
+      "pdf_page_bbox": [
+        275.38,
+        160.66,
+        371.35,
+        245.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/448bd6d187bb4a1e791e4082f147d333f8a599f82720b597f6826414434a9aab.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        719,
+        215,
+        889,
+        336
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1563,
+        660,
+        1932,
+        1031
+      ],
+      "model_image_bbox": [
+        813,
+        344,
+        1006,
+        537
+      ],
+      "pdf_page_bbox": [
+        375.0,
+        158.44,
+        463.66,
+        247.62
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "形状、大小相同的图形放在一起能够完全重合.能够完全重合的两个图形叫作全等形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        378,
+        914,
+        427
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1160,
+        1987,
+        1311
+      ],
+      "model_image_bbox": [
+        141,
+        604,
+        1034,
+        683
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        278.57,
+        476.7,
+        314.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "能够完全重合的两个三角形叫作全等三角形(congruent triangles)."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        435,
+        842,
+        456
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        367,
+        1335,
+        1830,
+        1400
+      ],
+      "model_image_bbox": [
+        191,
+        696,
+        953,
+        729
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        320.57,
+        439.15,
+        336.05
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5846c3aab556a523d79811c632fca25cb17384496ee8a19a306ba5b0baac92d9.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        472,
+        179,
+        496
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        308,
+        1449,
+        389,
+        1523
+      ],
+      "model_image_bbox": [
+        160,
+        755,
+        202,
+        793
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        347.84,
+        93.36,
+        365.53
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        184,
+        473,
+        245,
+        494
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        400,
+        1452,
+        532,
+        1517
+      ],
+      "model_image_bbox": [
+        208,
+        756,
+        277,
+        790
+      ],
+      "pdf_page_bbox": [
+        95.97,
+        348.58,
+        127.78,
+        364.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在图14.1-2（1）中，把 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "沿直线BC平移，得到 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle D E F"
+          }
+        ]
+      },
+      "bbox": [
+        191,
+        508,
+        825,
+        527
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        415,
+        1560,
+        1793,
+        1618
+      ],
+      "model_image_bbox": [
+        216,
+        812,
+        933,
+        843
+      ],
+      "pdf_page_bbox": [
+        99.62,
+        374.37,
+        430.28,
+        388.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在图14.1-2（2）中，把 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "沿直线BC翻折 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，得到 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle D B C"
+          }
+        ]
+      },
+      "bbox": [
+        191,
+        536,
+        869,
+        555
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        415,
+        1646,
+        1889,
+        1704
+      ],
+      "model_image_bbox": [
+        216,
+        857,
+        983,
+        888
+      ],
+      "pdf_page_bbox": [
+        99.62,
+        395.01,
+        453.23,
+        409.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在图14.1-2（3）中，把 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "绕点A旋转，得到 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D E"
+          }
+        ]
+      },
+      "bbox": [
+        191,
+        564,
+        791,
+        585
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        415,
+        1732,
+        1719,
+        1796
+      ],
+      "model_image_bbox": [
+        216,
+        902,
+        895,
+        936
+      ],
+      "pdf_page_bbox": [
+        99.62,
+        415.64,
+        412.55,
+        431.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "各图中的两个三角形全等吗？"
+          }
+        ]
+      },
+      "bbox": [
+        194,
+        593,
+        488,
+        612
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        421,
+        1821,
+        1060,
+        1879
+      ],
+      "model_image_bbox": [
+        219,
+        948,
+        552,
+        979
+      ],
+      "pdf_page_bbox": [
+        101.18,
+        437.01,
+        254.52,
+        451.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/724e6ddd0216962a409065a62f2102c73f6486e60492f6896607e368c4ec0652.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        206,
+        664,
+        307,
+        727
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        447,
+        2039,
+        667,
+        2232
+      ],
+      "model_image_bbox": [
+        233,
+        1062,
+        347,
+        1163
+      ],
+      "pdf_page_bbox": [
+        107.44,
+        489.34,
+        160.12,
+        535.76
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/44b241cf67397871dba7ea2bfd7e78cbca81e3e260de321d103ca8b4ba59b46e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        353,
+        663,
+        452,
+        727
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        767,
+        2036,
+        982,
+        2232
+      ],
+      "model_image_bbox": [
+        399,
+        1060,
+        511,
+        1163
+      ],
+      "pdf_page_bbox": [
+        184.11,
+        488.6,
+        235.74,
+        535.76
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c801de82275b356de39edbeab13be72ec2610b72b7bb2078dc335d09cce6b948.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        484,
+        623,
+        587,
+        734
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1052,
+        1913,
+        1276,
+        2254
+      ],
+      "model_image_bbox": [
+        547,
+        996,
+        664,
+        1174
+      ],
+      "pdf_page_bbox": [
+        252.43,
+        459.12,
+        306.15,
+        540.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/34c5f00b4f08b2ff2ae51420ad9a01f524ba1fa137d0aeb53307797bca7c260f.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        592,
+        664,
+        641,
+        699
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1287,
+        2039,
+        1393,
+        2146
+      ],
+      "model_image_bbox": [
+        670,
+        1062,
+        725,
+        1118
+      ],
+      "pdf_page_bbox": [
+        308.76,
+        489.34,
+        334.31,
+        515.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b343558a44ce46d7d345d793fb7cb1d427da084b0583e5fa797c77a5ec61e838.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ]
+      },
+      "bbox": [
+        653,
+        640,
+        832,
+        730
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1419,
+        1965,
+        1808,
+        2241
+      ],
+      "model_image_bbox": [
+        739,
+        1024,
+        941,
+        1168
+      ],
+      "pdf_page_bbox": [
+        340.57,
+        471.65,
+        433.93,
+        537.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.1-2"
+          }
+        ]
+      },
+      "bbox": [
+        474,
+        767,
+        567,
+        782
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1030,
+        2355,
+        1232,
+        2401
+      ],
+      "model_image_bbox": [
+        536,
+        1227,
+        641,
+        1251
+      ],
+      "pdf_page_bbox": [
+        247.22,
+        565.24,
+        295.72,
+        576.3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一个图形经过平移、翻折、旋转后，位置变化了，但形状、大小都没有改变，即平移、翻折、旋转前后的图形全等．全等用符号“”表示，读作“全等于”．例如，图14.1-2（1）中的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle D E F"
+          },
+          {
+            "type": "text",
+            "content": "全等，记作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\underline { { \\cong } } } \\triangle D E F"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        795,
+        918,
+        873
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        265,
+        2441,
+        1995,
+        2680
+      ],
+      "model_image_bbox": [
+        138,
+        1272,
+        1039,
+        1396
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        585.88,
+        478.78,
+        643.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "把两个全等的三角形重合到一起，重合的顶点叫作对应顶点，重合的边叫"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        880,
+        914,
+        901
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        367,
+        2702,
+        1987,
+        2766
+      ],
+      "model_image_bbox": [
+        191,
+        1408,
+        1034,
+        1441
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        648.52,
+        476.7,
+        663.99
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        1504,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

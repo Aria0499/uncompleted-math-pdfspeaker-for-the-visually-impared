@@ -1,0 +1,936 @@
+{
+  "page_id": 12,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.2 与三角形有关的线段"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        69,
+        670,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        211,
+        1456,
+        313
+      ],
+      "model_image_bbox": [
+        141,
+        110,
+        758,
+        163
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        50.85,
+        349.44,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角形的边是构成三角形的元素，本节我们研究三角形三边之间的关系，并认识与三角形有关的三种重要线段."
+          }
+        ]
+      },
+      "bbox": [
+        304,
+        157,
+        916,
+        208
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        660,
+        482,
+        1991,
+        638
+      ],
+      "model_image_bbox": [
+        344,
+        251,
+        1036,
+        332
+      ],
+      "pdf_page_bbox": [
+        158.55,
+        115.7,
+        477.74,
+        153.29
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.2.1三角形的边"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        171,
+        236,
+        420,
+        258
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        371,
+        724,
+        913,
+        792
+      ],
+      "model_image_bbox": [
+        193,
+        377,
+        475,
+        412
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        173.92,
+        219.05,
+        190.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2d4d8c71a36fd90b339de491c1556ca7040af4b277db7f08a05910181980d9d0.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        265,
+        179,
+        291
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        308,
+        813,
+        389,
+        893
+      ],
+      "model_image_bbox": [
+        160,
+        424,
+        202,
+        465
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        195.29,
+        93.36,
+        214.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ]
+      },
+      "bbox": [
+        140,
+        265,
+        245,
+        291
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        304,
+        813,
+        532,
+        893
+      ],
+      "model_image_bbox": [
+        158,
+        424,
+        277,
+        465
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        195.29,
+        127.78,
+        214.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "任意画一个 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "（图13.2-1），从点B出发，沿三角形的边到点C，有几条线路可以选择？各条线路的长有什么关系？这说明三角形的边之间有什么关系？能证明你的结论吗?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        302,
+        702,
+        409
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        927,
+        1526,
+        1256
+      ],
+      "model_image_bbox": [
+        166,
+        483,
+        794,
+        654
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        222.56,
+        366.13,
+        301.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/efdbfa8188a6d837835e04019f6b43730984570ed7407909cf8561d2dc36109a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.2-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        717,
+        267,
+        894,
+        390
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1558,
+        819,
+        1943,
+        1197
+      ],
+      "model_image_bbox": [
+        811,
+        427,
+        1012,
+        624
+      ],
+      "pdf_page_bbox": [
+        373.95,
+        196.77,
+        466.27,
+        287.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在从点B到点C的线路中，由点B先到点A再到点C的线路，比由点B直接到点C的线路长，即 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B A + A C > B C"
+          },
+          {
+            "type": "text",
+            "content": "，这利用了在小学我们学过的“三角形两边的和大于第三边”的结论．下面对这个结论进行证明."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        423,
+        916,
+        503
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        1299,
+        1991,
+        1544
+      ],
+      "model_image_bbox": [
+        138,
+        676,
+        1036,
+        804
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        311.73,
+        477.74,
+        370.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "对于任意一个 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，如果把其中任意两个顶点（例如B，C）看成定点，由“两点之间，线段最短”，可得"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        510,
+        916,
+        559
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        265,
+        1566,
+        1991,
+        1716
+      ],
+      "model_image_bbox": [
+        138,
+        816,
+        1036,
+        894
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        375.85,
+        477.74,
+        411.96
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "A B + A C > B C .\\tag{①}",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/4548cbb17ded0b4e4d4abbc731f70c2aab19bb6768478ffdee21222615aead4c.jpg"
+        }
+      },
+      "bbox": [
+        437,
+        565,
+        599,
+        586
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        950,
+        1735,
+        1302,
+        1799
+      ],
+      "model_image_bbox": [
+        494,
+        904,
+        678,
+        937
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        416.38,
+        312.41,
+        431.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "同理有"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        595,
+        248,
+        614
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        367,
+        1827,
+        539,
+        1885
+      ],
+      "model_image_bbox": [
+        191,
+        952,
+        280,
+        982
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        438.49,
+        129.34,
+        452.49
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "A C + B C > A B ,\\tag{②}",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/bd022ac99de77a288c01029679318cc46de9de03e510ff3db1473cdcfca19d00.jpg"
+        }
+      },
+      "bbox": [
+        437,
+        623,
+        601,
+        644
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        950,
+        1913,
+        1306,
+        1977
+      ],
+      "model_image_bbox": [
+        494,
+        996,
+        680,
+        1030
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        459.12,
+        313.45,
+        474.6
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "A B + B C > A C .\\tag{③}",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/9af23fd6a6e78b9b98e30c24688a0bf8da05e2411bb31a1e14684720d94ada1f.jpg"
+        }
+      },
+      "bbox": [
+        437,
+        651,
+        599,
+        671
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        950,
+        1999,
+        1302,
+        2060
+      ],
+      "model_image_bbox": [
+        494,
+        1041,
+        678,
+        1073
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        479.76,
+        312.41,
+        494.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "这样，我们就证明了，三角形两边的和大于第三边."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        680,
+        687,
+        699
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        367,
+        2088,
+        1493,
+        2146
+      ],
+      "model_image_bbox": [
+        191,
+        1088,
+        777,
+        1118
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        501.13,
+        358.31,
+        515.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "进一步，由不等式②③，移项可得"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        708,
+        523,
+        729
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        367,
+        2174,
+        1137,
+        2238
+      ],
+      "model_image_bbox": [
+        191,
+        1132,
+        592,
+        1166
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        521.76,
+        272.77,
+        537.24
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "B C { > } A B { - } A C ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/c0ea3a940a6877c5f4731d56667d6963a22e22592c75b53d74a84b7b995d464a.jpg"
+        }
+      },
+      "bbox": [
+        437,
+        736,
+        601,
+        756
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        950,
+        2260,
+        1306,
+        2321
+      ],
+      "model_image_bbox": [
+        494,
+        1177,
+        680,
+        1209
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        542.4,
+        313.45,
+        557.14
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "B C { > } A C { - } A B .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/ad348b76dbc51c907e661a8c4360548ce1d5687cc4a9c6b7fd5c7eed53060ca7.jpg"
+        }
+      },
+      "bbox": [
+        437,
+        765,
+        599,
+        784
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        950,
+        2349,
+        1302,
+        2407
+      ],
+      "model_image_bbox": [
+        494,
+        1224,
+        678,
+        1254
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        563.77,
+        312.41,
+        577.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "这就是说，三角形两边的差小于第三边."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        793,
+        574,
+        814
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        367,
+        2435,
+        1247,
+        2499
+      ],
+      "model_image_bbox": [
+        191,
+        1268,
+        649,
+        1302
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        584.4,
+        299.37,
+        599.88
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/58824582387e8acce15a23d37a2ca36068956efe00fffa02e59d6e4b3e538220.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        831,
+        179,
+        854
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        308,
+        2552,
+        389,
+        2622
+      ],
+      "model_image_bbox": [
+        160,
+        1329,
+        202,
+        1366
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        612.41,
+        93.36,
+        629.36
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        142,
+        831,
+        243,
+        854
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        308,
+        2552,
+        528,
+        2622
+      ],
+      "model_image_bbox": [
+        160,
+        1329,
+        275,
+        1366
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        612.41,
+        126.74,
+        629.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "上面的结论表明了三角形三边之间的关系．反过来，对于三条线段，当它们满足什么条件时，这三条线段能组成三角形?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        866,
+        891,
+        914
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        319,
+        2659,
+        1937,
+        2806
+      ],
+      "model_image_bbox": [
+        166,
+        1385,
+        1008,
+        1462
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        638.2,
+        464.7,
+        673.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        872,
+        954
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1895,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        987,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        454.79,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "5"
+          }
+        ]
+      },
+      "bbox": [
+        894,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        1943,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1012,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        466.27,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

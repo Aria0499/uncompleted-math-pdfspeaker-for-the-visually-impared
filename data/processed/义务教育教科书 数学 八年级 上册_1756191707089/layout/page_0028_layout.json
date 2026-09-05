@@ -1,0 +1,1039 @@
+{
+  "page_id": 28,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.三角形中有哪几种重要的线段？你能画出这些线段吗?"
+          }
+        ]
+      },
+      "bbox": [
+        191,
+        79,
+        776,
+        100
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        415,
+        242,
+        1687,
+        307
+      ],
+      "model_image_bbox": [
+        216,
+        126,
+        878,
+        160
+      ],
+      "pdf_page_bbox": [
+        99.62,
+        58.22,
+        404.72,
+        73.7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.三角形的三个内角之间有怎样的关系？如何证明这个结论？"
+          }
+        ]
+      },
+      "bbox": [
+        191,
+        109,
+        820,
+        128
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        415,
+        334,
+        1782,
+        393
+      ],
+      "model_image_bbox": [
+        216,
+        174,
+        928,
+        204
+      ],
+      "pdf_page_bbox": [
+        99.62,
+        80.33,
+        427.67,
+        94.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.直角三角形的两个锐角有怎样的关系？得出这个结论的依据是什么？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        137,
+        891,
+        187
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        420,
+        1937,
+        574
+      ],
+      "model_image_bbox": [
+        166,
+        219,
+        1008,
+        299
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        100.96,
+        464.7,
+        137.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.三角形的一个外角与和它不相邻的两个内角有怎样的关系？这个结论能由三角形的内角和定理得出吗?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        194,
+        891,
+        244
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        595,
+        1937,
+        749
+      ],
+      "model_image_bbox": [
+        166,
+        310,
+        1008,
+        390
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        142.97,
+        464.7,
+        179.82
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习题 (13)"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        464,
+        293,
+        619,
+        321
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1008,
+        899,
+        1345,
+        985
+      ],
+      "model_image_bbox": [
+        525,
+        468,
+        700,
+        513
+      ],
+      "pdf_page_bbox": [
+        242.0,
+        215.93,
+        322.84,
+        236.56
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        137,
+        355,
+        250,
+        376
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        297,
+        1090,
+        543,
+        1154
+      ],
+      "model_image_bbox": [
+        155,
+        568,
+        283,
+        601
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        261.62,
+        130.39,
+        277.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．下列四个条件："
+          }
+        ]
+      },
+      "bbox": [
+        137,
+        387,
+        304,
+        406
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        297,
+        1188,
+        660,
+        1246
+      ],
+      "model_image_bbox": [
+        155,
+        619,
+        344,
+        649
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        285.2,
+        158.55,
+        299.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "①在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A , \\angle B"
+          },
+          {
+            "type": "text",
+            "content": "都是锐角；"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        413,
+        520,
+        432
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        352,
+        1268,
+        1130,
+        1326
+      ],
+      "model_image_bbox": [
+        183,
+        660,
+        588,
+        691
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        304.36,
+        271.21,
+        318.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "② "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的三个内角的度数之比是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 : 2 : 3"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        439,
+        579,
+        458
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        352,
+        1348,
+        1258,
+        1406
+      ],
+      "model_image_bbox": [
+        183,
+        702,
+        655,
+        732
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        323.52,
+        301.98,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "③在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A - \\angle B = \\angle C"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        465,
+        491,
+        484
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        352,
+        1428,
+        1067,
+        1486
+      ],
+      "model_image_bbox": [
+        183,
+        744,
+        555,
+        774
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        342.68,
+        256.08,
+        356.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "④ "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的三个外角的度数之比是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "3 : 4 : 5 \\ :"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        491,
+        577,
+        508
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        352,
+        1507,
+        1254,
+        1560
+      ],
+      "model_image_bbox": [
+        183,
+        785,
+        653,
+        812
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        361.84,
+        300.94,
+        374.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "其中能确定 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是直角三角形的是 （只填序号)."
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        517,
+        761,
+        536
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        352,
+        1587,
+        1654,
+        1646
+      ],
+      "model_image_bbox": [
+        183,
+        827,
+        861,
+        857
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        381.0,
+        396.9,
+        395.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，AD，AE分别是边BC上的中线和高， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A E { = } 2 , \\ S _ { \\triangle A B D } { = }"
+          },
+          {
+            "type": "text",
+            "content": "1.5.求BC和DC的长."
+          }
+        ]
+      },
+      "bbox": [
+        137,
+        541,
+        901,
+        586
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        297,
+        1661,
+        1958,
+        1799
+      ],
+      "model_image_bbox": [
+        155,
+        865,
+        1019,
+        937
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        398.69,
+        469.92,
+        431.85
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ce5b8af6840935984d1302548e00abef46473dc0b404e78f330b1bfdcbbe03f6.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        280,
+        590,
+        432,
+        682
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        608,
+        1811,
+        939,
+        2094
+      ],
+      "model_image_bbox": [
+        316,
+        944,
+        489,
+        1091
+      ],
+      "pdf_page_bbox": [
+        146.03,
+        434.8,
+        225.31,
+        502.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/139fac432cdeff9a09910a3c9a3060d3a199e22f08ad76a076fadea5cf5f9142.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        619,
+        593,
+        786,
+        684
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1345,
+        1821,
+        1708,
+        2100
+      ],
+      "model_image_bbox": [
+        700,
+        948,
+        889,
+        1094
+      ],
+      "pdf_page_bbox": [
+        322.84,
+        437.01,
+        409.94,
+        504.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，填空："
+          }
+        ]
+      },
+      "bbox": [
+        137,
+        718,
+        285,
+        736
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        297,
+        2204,
+        619,
+        2260
+      ],
+      "model_image_bbox": [
+        155,
+        1148,
+        322,
+        1177
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        529.13,
+        148.64,
+        542.4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由三角形两边的和大于第三边，得"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        744,
+        486,
+        763
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        352,
+        2284,
+        1056,
+        2343
+      ],
+      "model_image_bbox": [
+        183,
+        1190,
+        550,
+        1220
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        548.29,
+        253.47,
+        562.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "A B + A D >"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        770,
+        390,
+        789
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        352,
+        2364,
+        847,
+        2423
+      ],
+      "model_image_bbox": [
+        183,
+        1232,
+        441,
+        1262
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        567.45,
+        203.41,
+        581.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "P D + C D >"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        796,
+        388,
+        815
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        352,
+        2444,
+        843,
+        2502
+      ],
+      "model_image_bbox": [
+        183,
+        1273,
+        439,
+        1304
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        586.61,
+        202.36,
+        600.62
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "将不等式左边、右边分别相加，得"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        822,
+        486,
+        842
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        352,
+        2524,
+        1056,
+        2585
+      ],
+      "model_image_bbox": [
+        183,
+        1315,
+        550,
+        1347
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        605.77,
+        253.47,
+        620.51
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "A B + A D + P D + C D >"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        848,
+        496,
+        868
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        352,
+        2604,
+        1078,
+        2665
+      ],
+      "model_image_bbox": [
+        183,
+        1356,
+        561,
+        1388
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        624.94,
+        258.69,
+        639.67
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "即 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B + A C >"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        875,
+        412,
+        894
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        352,
+        2687,
+        895,
+        2745
+      ],
+      "model_image_bbox": [
+        183,
+        1400,
+        466,
+        1430
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        644.83,
+        214.88,
+        658.84
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第三章三形"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        1584,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "21"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教章出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        991
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3043
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1585
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        730.32
+      ]
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "page_id": 10,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "角.三边都相等的三角形叫作等边三角形（equilateral triangle)，等边三角形是特殊的等腰三角形，即底边和腰相等的等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        67,
+        914,
+        118
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        265,
+        205,
+        1987,
+        362
+      ],
+      "model_image_bbox": [
+        138,
+        107,
+        1034,
+        188
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        49.38,
+        476.7,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "因此，可以先按“是否有边相等”，将三角形分成两类：三边都不相等的三角形和等腰三角形；再将等腰三角形分为底边和腰不相等的等腰三角形和等边三角形，得到三角形按边的相等关系分类如下："
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        125,
+        658,
+        232
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        383,
+        1430,
+        712
+      ],
+      "model_image_bbox": [
+        138,
+        200,
+        744,
+        371
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        92.12,
+        343.18,
+        170.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三边都不相等的三角形三角形 底边和腰不相等的等腰三角形等腰三角形等边三角形"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        239,
+        648,
+        317
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        293,
+        733,
+        1408,
+        973
+      ],
+      "model_image_bbox": [
+        152,
+        382,
+        733,
+        507
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        176.13,
+        337.97,
+        233.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1b749ba9639060f4f1e5fae08e43f650014c46ed1a91f564cf7981c5cb784454.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "三角形"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        680,
+        125,
+        879,
+        263
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1478,
+        383,
+        1910,
+        807
+      ],
+      "model_image_bbox": [
+        769,
+        200,
+        995,
+        420
+      ],
+      "pdf_page_bbox": [
+        354.66,
+        92.12,
+        458.44,
+        193.82
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例如图13.1-3，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，点D在边BC上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B D = A D = D C = A C"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        324,
+        656,
+        373
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        271,
+        995,
+        1426,
+        1145
+      ],
+      "model_image_bbox": [
+        141,
+        518,
+        742,
+        596
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        238.77,
+        342.14,
+        274.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）写出以点C为顶点的三角形；"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        381,
+        515,
+        402
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        367,
+        1170,
+        1119,
+        1234
+      ],
+      "model_image_bbox": [
+        191,
+        609,
+        582,
+        643
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        280.78,
+        268.6,
+        296.25
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/40d0b0a8a4b7f828d7511c4b01c277360ca66c7c52934ea1b4ec6a103a4594cd.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        707,
+        317,
+        914,
+        406
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1537,
+        973,
+        1987,
+        1246
+      ],
+      "model_image_bbox": [
+        800,
+        507,
+        1034,
+        649
+      ],
+      "pdf_page_bbox": [
+        368.74,
+        233.61,
+        476.7,
+        299.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）写出以AB为边的三角形；"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        409,
+        488,
+        430
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        367,
+        1256,
+        1060,
+        1320
+      ],
+      "model_image_bbox": [
+        191,
+        654,
+        552,
+        688
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        301.41,
+        254.52,
+        316.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图13.1-3"
+          }
+        ]
+      },
+      "bbox": [
+        766,
+        421,
+        859,
+        439
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1665,
+        1292,
+        1867,
+        1348
+      ],
+      "model_image_bbox": [
+        867,
+        673,
+        972,
+        702
+      ],
+      "pdf_page_bbox": [
+        399.51,
+        310.26,
+        448.01,
+        323.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）找出图中的等腰三角形和等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        439,
+        597,
+        458
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        367,
+        1348,
+        1297,
+        1406
+      ],
+      "model_image_bbox": [
+        191,
+        702,
+        675,
+        732
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        323.52,
+        311.37,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解：（1）以点C为顶点的三角形是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C , \\triangle A D C"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        467,
+        705,
+        487
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        367,
+        1434,
+        1532,
+        1495
+      ],
+      "model_image_bbox": [
+        191,
+        747,
+        798,
+        779
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        344.16,
+        367.69,
+        358.9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）以AB为边的三角形是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C , \\triangle A B D"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        494,
+        633,
+        515
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        1517,
+        1376,
+        1581
+      ],
+      "model_image_bbox": [
+        191,
+        790,
+        716,
+        824
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        364.05,
+        330.14,
+        379.53
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）等腰三角形是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D C"
+          },
+          {
+            "type": "text",
+            "content": "；等边三角形是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D C"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        522,
+        771,
+        543
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        367,
+        1603,
+        1676,
+        1667
+      ],
+      "model_image_bbox": [
+        191,
+        835,
+        872,
+        868
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        384.69,
+        402.12,
+        400.16
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        562,
+        250,
+        586
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        319,
+        1725,
+        543,
+        1799
+      ],
+      "model_image_bbox": [
+        166,
+        899,
+        283,
+        937
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        414.17,
+        130.39,
+        431.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = B C = C A"
+          },
+          {
+            "type": "text",
+            "content": "，点0在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "内， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O A = O B ="
+          },
+          {
+            "type": "text",
+            "content": "OC，找出图中的等腰三角形和等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        598,
+        889,
+        649
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        319,
+        1836,
+        1932,
+        1993
+      ],
+      "model_image_bbox": [
+        166,
+        956,
+        1006,
+        1038
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        440.7,
+        463.66,
+        478.28
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cf0d9793697b2826094ef58028ae92bd901f385823dd8722ed12c15fcee1193a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        280,
+        657,
+        466,
+        769
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        608,
+        2017,
+        1013,
+        2361
+      ],
+      "model_image_bbox": [
+        316,
+        1051,
+        527,
+        1230
+      ],
+      "pdf_page_bbox": [
+        146.03,
+        484.18,
+        243.04,
+        566.72
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9f35c3a9beb07f80bfb8ea75440ae3a27dc4ec2741d7e574d041fe26590e9c72.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        528,
+        664,
+        759,
+        767
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1147,
+        2039,
+        1650,
+        2355
+      ],
+      "model_image_bbox": [
+        597,
+        1062,
+        859,
+        1227
+      ],
+      "pdf_page_bbox": [
+        275.38,
+        489.34,
+        395.86,
+        565.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C"
+          },
+          {
+            "type": "text",
+            "content": "是直角， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为D，点E在线段BD上，找出图中的锐角三角形、直角三角形和钝角三角形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        812,
+        891,
+        862
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        319,
+        2493,
+        1937,
+        2647
+      ],
+      "model_image_bbox": [
+        166,
+        1299,
+        1008,
+        1379
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        598.41,
+        464.7,
+        635.25
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "3"
+          }
+        ]
+      },
+      "bbox": [
+        894,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1943,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1012,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        466.27,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

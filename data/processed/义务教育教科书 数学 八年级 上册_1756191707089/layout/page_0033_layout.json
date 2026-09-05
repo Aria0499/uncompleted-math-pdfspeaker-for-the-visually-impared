@@ -1,0 +1,582 @@
+{
+  "page_id": 33,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "形式吗？两者之间的关系与你选择的分割图形的标准有关吗？如果不能发现x与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "x _ { 1 } , ~ x _ { 2 } , ~ y"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "y _ { 1 } , \\textrm { ~ y } _ { 2 }"
+          },
+          {
+            "type": "text",
+            "content": "之间的关系，换一种方式建立平面直角坐标系试试看."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        67,
+        874,
+        118
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        169,
+        205,
+        1900,
+        362
+      ],
+      "model_image_bbox": [
+        88,
+        107,
+        989,
+        188
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        49.38,
+        455.84,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）换一个标准把图形分成两部分，你能得到图形重心位置的横、纵坐标与两部分的重心位置的横、纵坐标之间的什么数量关系？这种关系是否与前面得到的关系具有一致性?"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        123,
+        874,
+        199
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        377,
+        1900,
+        611
+      ],
+      "model_image_bbox": [
+        91,
+        196,
+        989,
+        318
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        90.65,
+        455.84,
+        146.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（4）你能根据前面的探究结论，猜想这个图形的重心位置的横、纵坐标与分成的两部分的重心位置的横、纵坐标之间的数量关系吗？如果能，你能用式子把这个关系表达出来，并进一步验证它的正确性吗？如果不能，可能的原因是什么？"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        204,
+        874,
+        307
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        169,
+        626,
+        1900,
+        942
+      ],
+      "model_image_bbox": [
+        88,
+        326,
+        989,
+        491
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        150.34,
+        455.84,
+        226.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "任务2确定一个工程用薄板类工件的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        314,
+        614,
+        335
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        964,
+        1334,
+        1028
+      ],
+      "model_image_bbox": [
+        141,
+        502,
+        695,
+        536
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        231.4,
+        320.23,
+        246.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "要求：以小组合作的形式，选择一个组合图形的薄板、薄壳工件（或工件的横截面），也可以从图8提供的工件或横截面中选择一个，通过推理、计算确定它的重心位置."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        340,
+        874,
+        418
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        169,
+        1044,
+        1900,
+        1283
+      ],
+      "model_image_bbox": [
+        88,
+        544,
+        989,
+        668
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        250.56,
+        455.84,
+        308.05
+      ]
+    },
+    {
+      "type": "chart",
+      "content": {
+        "image_source": {
+          "path": "images/caea2c766a314ee17175a7d6a5da5d667e6a2cd2187b400595f54d76ba459fde.jpg"
+        },
+        "content": "",
+        "chart_caption": [
+          {
+            "type": "text",
+            "content": "“L”形角钢的横截面"
+          }
+        ],
+        "chart_footnote": []
+      },
+      "bbox": [
+        95,
+        432,
+        292,
+        588
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        206,
+        1326,
+        634,
+        1805
+      ],
+      "model_image_bbox": [
+        107,
+        691,
+        330,
+        940
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        318.36,
+        152.29,
+        433.33
+      ]
+    },
+    {
+      "type": "chart",
+      "content": {
+        "image_source": {
+          "path": "images/3942368ed9821bf25e00d93bd70eabe8fa7f7358a475e3d95de277832fcb4f64.jpg"
+        },
+        "content": "",
+        "chart_caption": [
+          {
+            "type": "text",
+            "content": "“Z”形薄板"
+          },
+          {
+            "type": "text",
+            "content": "图8"
+          }
+        ],
+        "chart_footnote": []
+      },
+      "bbox": [
+        316,
+        432,
+        547,
+        590
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        686,
+        1326,
+        1189,
+        1811
+      ],
+      "model_image_bbox": [
+        357,
+        691,
+        619,
+        944
+      ],
+      "pdf_page_bbox": [
+        164.81,
+        318.36,
+        285.29,
+        434.8
+      ]
+    },
+    {
+      "type": "chart",
+      "content": {
+        "image_source": {
+          "path": "images/8e8af540a00408958ddceb34607735a57a7d726dfe9ab73c4ef5881c0008a525.jpg"
+        },
+        "content": "",
+        "chart_caption": [
+          {
+            "type": "text",
+            "content": "由小正方形薄板拼接成的薄板"
+          }
+        ],
+        "chart_footnote": []
+      },
+      "bbox": [
+        587,
+        442,
+        862,
+        583
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1276,
+        1357,
+        1873,
+        1790
+      ],
+      "model_image_bbox": [
+        664,
+        707,
+        975,
+        932
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        325.73,
+        449.58,
+        429.64
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动三 跳高运动员为什么采用“背越式”（选做）"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        670,
+        653,
+        690
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        276,
+        2057,
+        1419,
+        2118
+      ],
+      "model_image_bbox": [
+        143,
+        1072,
+        739,
+        1104
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        493.76,
+        340.57,
+        508.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图9，当跳高运动员采用“背越式”越过横杆时，成绩往往比采用“跨越式”和“滚式”要好．试通过查资料、讨论等小组合作活动，探究其中的原因."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        701,
+        872,
+        750
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        176,
+        2152,
+        1895,
+        2303
+      ],
+      "model_image_bbox": [
+        91,
+        1121,
+        987,
+        1200
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        516.6,
+        454.79,
+        552.71
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3d1c15c071e56f5850e0ce9d715bbc68f9e78a00a030aaffde279e0acf331aba.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        137,
+        755,
+        818,
+        892
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        297,
+        2318,
+        1778,
+        2739
+      ],
+      "model_image_bbox": [
+        155,
+        1208,
+        925,
+        1427
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        556.4,
+        426.63,
+        657.36
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "综合与实践确定匀质薄板的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        939,
+        427,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        2883,
+        928,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1502,
+        483,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        692.0,
+        222.7,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

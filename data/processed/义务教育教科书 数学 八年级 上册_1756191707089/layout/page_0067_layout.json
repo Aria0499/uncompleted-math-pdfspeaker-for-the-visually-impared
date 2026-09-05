@@ -1,0 +1,848 @@
+{
+  "page_id": 67,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "后分别到达C，D两地.C，D两地到路段AB的距离CE，DF相等吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        117,
+        78,
+        852,
+        97
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        254,
+        239,
+        1852,
+        297
+      ],
+      "model_image_bbox": [
+        132,
+        124,
+        964,
+        155
+      ],
+      "pdf_page_bbox": [
+        61.02,
+        57.48,
+        444.36,
+        71.48
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ce773c0683d7cd06898e49e13e73a445195e2c132ebff59e72592bebbceaf551.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第9题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        211,
+        105,
+        324,
+        223
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        458,
+        322,
+        704,
+        684
+      ],
+      "model_image_bbox": [
+        238,
+        168,
+        366,
+        356
+      ],
+      "pdf_page_bbox": [
+        110.05,
+        77.38,
+        168.98,
+        164.34
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/bf3abe74f6bc7e37a3b656481f86d597bf598b7754e54d6361854b8ef4db41ab.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第10题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        511,
+        130,
+        742,
+        225
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1110,
+        399,
+        1613,
+        690
+      ],
+      "model_image_bbox": [
+        578,
+        208,
+        839,
+        360
+      ],
+      "pdf_page_bbox": [
+        266.51,
+        95.8,
+        386.99,
+        165.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "10.如图，点C是AB的中点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D / / B E"
+          },
+          {
+            "type": "text",
+            "content": "，且 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D { = } B E"
+          },
+          {
+            "type": "text",
+            "content": ".求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D / / C E"
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        269,
+        756,
+        288
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        202,
+        826,
+        1643,
+        884
+      ],
+      "model_image_bbox": [
+        105,
+        430,
+        855,
+        460
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        198.24,
+        394.29,
+        212.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "11.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C B = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C { = } B C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp C E , B E \\perp C E"
+          },
+          {
+            "type": "text",
+            "content": "，垂足分别为D，E， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D ="
+          },
+          {
+            "type": "text",
+            "content": "2.5，DE=1.7.求BE 的长."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        295,
+        859,
+        340
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        202,
+        905,
+        1867,
+        1044
+      ],
+      "model_image_bbox": [
+        105,
+        472,
+        972,
+        544
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        217.4,
+        448.01,
+        250.56
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ab9364acea4582973606a610ef7ad74f1300a6b3458e0a80b973d9301182fb20.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第11题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        189,
+        348,
+        353,
+        475
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        410,
+        1068,
+        767,
+        1458
+      ],
+      "model_image_bbox": [
+        213,
+        556,
+        399,
+        760
+      ],
+      "pdf_page_bbox": [
+        98.57,
+        256.46,
+        184.11,
+        350.05
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9a3aabd74d63dfe688d1306ebff30f6f205545df29e4d1d8ddcd877e2f54144e.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第12题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        538,
+        375,
+        764,
+        475
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1169,
+        1151,
+        1660,
+        1458
+      ],
+      "model_image_bbox": [
+        609,
+        600,
+        864,
+        760
+      ],
+      "pdf_page_bbox": [
+        280.6,
+        276.36,
+        398.47,
+        350.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "12.如图的三角形纸片ABC中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } 8 ~ \\mathrm { c m }"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C { = } 6 ~ \\mathrm { c m }"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = 5 ~ { \\mathrm { c m } }"
+          },
+          {
+            "type": "text",
+            "content": "．沿过点B的直线折叠这个三角形，使点C落在AB边上的点E处，折痕为BD.求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A E D"
+          },
+          {
+            "type": "text",
+            "content": "的周长."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        519,
+        859,
+        590
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        202,
+        1593,
+        1867,
+        1811
+      ],
+      "model_image_bbox": [
+        105,
+        830,
+        972,
+        944
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        382.48,
+        448.01,
+        434.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "13.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\cong } \\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": ",AD, "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } D ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "分别是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "的对应边上的中线.AD与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } D ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "有什么关系？证明你的结论."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        597,
+        859,
+        644
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        202,
+        1833,
+        1867,
+        1977
+      ],
+      "model_image_bbox": [
+        105,
+        955,
+        972,
+        1030
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        439.96,
+        448.01,
+        474.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7a61eb00385223b9149a46d03368d02154d22946d0c5eb72bcfdfb2fb4c6f5a2.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        223,
+        652,
+        341,
+        748
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        484,
+        2002,
+        741,
+        2297
+      ],
+      "model_image_bbox": [
+        252,
+        1043,
+        386,
+        1196
+      ],
+      "pdf_page_bbox": [
+        116.31,
+        480.49,
+        177.85,
+        551.24
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/46fe7f95cffe527c8102a3334821d8bedf610b1738c7c4f6a15c9a3f7b85e7f8.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第13题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        366,
+        651,
+        488,
+        750
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        795,
+        1999,
+        1060,
+        2303
+      ],
+      "model_image_bbox": [
+        414,
+        1041,
+        552,
+        1200
+      ],
+      "pdf_page_bbox": [
+        190.89,
+        479.76,
+        254.52,
+        552.71
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ce860dfd1380cd6ee9012b1b3272417b7c89bdee780ae7348a12ba46b100b89a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第14题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        562,
+        654,
+        727,
+        750
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1221,
+        2008,
+        1580,
+        2303
+      ],
+      "model_image_bbox": [
+        636,
+        1046,
+        822,
+        1200
+      ],
+      "pdf_page_bbox": [
+        293.11,
+        481.97,
+        379.17,
+        552.71
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        93,
+        791,
+        211,
+        814
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        202,
+        2429,
+        458,
+        2499
+      ],
+      "model_image_bbox": [
+        105,
+        1265,
+        238,
+        1302
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        582.93,
+        110.05,
+        599.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "14.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，AD是它的角平分线.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "S _ { \\triangle A B D } : S _ { \\triangle A C D } = A B : A C ."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        824,
+        798,
+        843
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        202,
+        2530,
+        1734,
+        2588
+      ],
+      "model_image_bbox": [
+        105,
+        1318,
+        903,
+        1348
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        607.25,
+        416.2,
+        621.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "15.求证：如果两个三角形有两条边和其中一边上的中线分别相等，那么这两个三角形全等."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        848,
+        859,
+        894
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        202,
+        2604,
+        1867,
+        2745
+      ],
+      "model_image_bbox": [
+        105,
+        1356,
+        972,
+        1430
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        624.94,
+        448.01,
+        658.84
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        3,
+        636,
+        31
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        784,
+        9,
+        1382,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        719,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        331.71,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "60"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章 全等三形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        636,
+        991
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        784,
+        2957,
+        1382,
+        3043
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        719,
+        1585
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        331.71,
+        730.32
+      ]
+    }
+  ]
+}

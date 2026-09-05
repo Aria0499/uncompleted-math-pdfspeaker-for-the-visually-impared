@@ -1,0 +1,546 @@
+{
+  "page_id": 17,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        79,
+        216,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        228,
+        242,
+        469,
+        313
+      ],
+      "model_image_bbox": [
+        118,
+        126,
+        244,
+        163
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        58.22,
+        112.66,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.一个等腰三角形的一边长为6，周长为20，求其他两边的长."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        112,
+        690,
+        130
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        223,
+        343,
+        1500,
+        399
+      ],
+      "model_image_bbox": [
+        116,
+        179,
+        781,
+        208
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        82.54,
+        359.87,
+        95.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.（1）已知等腰三角形的一边长为5，一边长为6，求它的周长；"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        137,
+        710,
+        156
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        223,
+        420,
+        1543,
+        479
+      ],
+      "model_image_bbox": [
+        116,
+        219,
+        803,
+        249
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        100.96,
+        370.3,
+        114.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）已知等腰三角形的一边长为4，一边长为9，求它的周长."
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        164,
+        599,
+        208
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        293,
+        503,
+        1302,
+        638
+      ],
+      "model_image_bbox": [
+        152,
+        262,
+        678,
+        332
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        120.86,
+        312.41,
+        153.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "7.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，若 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = 2 , \\ B C = 4"
+          },
+          {
+            "type": "text",
+            "content": "，则"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的高AD与CE 的比是多少？（提示：利用三角形的面积公式.)"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        215,
+        599,
+        286
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        223,
+        660,
+        1302,
+        878
+      ],
+      "model_image_bbox": [
+        116,
+        344,
+        678,
+        457
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        158.44,
+        312.41,
+        210.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/33c37dd2c994f97315e3640df87af2c52ebae1a6335a29e10676c09e9d4f60f6.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第7题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        614,
+        166,
+        847,
+        265
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1334,
+        509,
+        1841,
+        813
+      ],
+      "model_image_bbox": [
+        695,
+        265,
+        958,
+        424
+      ],
+      "pdf_page_bbox": [
+        320.23,
+        122.33,
+        441.75,
+        195.29
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        103,
+        309,
+        218,
+        329
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        223,
+        948,
+        473,
+        1010
+      ],
+      "model_image_bbox": [
+        116,
+        494,
+        246,
+        526
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        227.72,
+        113.7,
+        242.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "8.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，AD是它的角平分线，DE//AC，DE交AB 于点E， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D F / / A B"
+          },
+          {
+            "type": "text",
+            "content": "，DF交AC于点F.图中 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 2"
+          },
+          {
+            "type": "text",
+            "content": "有什么关系？ 为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        340,
+        589,
+        413
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        223,
+        1044,
+        1280,
+        1268
+      ],
+      "model_image_bbox": [
+        116,
+        544,
+        666,
+        660
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        250.56,
+        307.19,
+        304.36
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7a48367eb9a4815290d7e49287d12ea4dc5ffdfe078786ab28bd7f824ed12fa1.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第8题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        604,
+        342,
+        850,
+        440
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1313,
+        1050,
+        1847,
+        1351
+      ],
+      "model_image_bbox": [
+        683,
+        547,
+        962,
+        704
+      ],
+      "pdf_page_bbox": [
+        315.02,
+        252.04,
+        443.32,
+        324.26
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "10"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

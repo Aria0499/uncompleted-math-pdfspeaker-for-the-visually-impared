@@ -1,0 +1,798 @@
+{
+  "page_id": 82,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        78,
+        248,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        239,
+        539,
+        313
+      ],
+      "model_image_bbox": [
+        166,
+        124,
+        280,
+        163
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        57.48,
+        129.34,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．分别写出下列各点关于x轴和y轴对称的点的坐标：(—2，6)，(1，—2)，(1，3)，(—4，—2)，(1，0)."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        116,
+        710,
+        164
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        356,
+        1543,
+        503
+      ],
+      "model_image_bbox": [
+        166,
+        185,
+        803,
+        262
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        85.49,
+        370.3,
+        120.86
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B O"
+          },
+          {
+            "type": "text",
+            "content": "关于x轴对称，点A的坐标为(1，—2)，写出点B的坐标."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        173,
+        891,
+        192
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        531,
+        1937,
+        589
+      ],
+      "model_image_bbox": [
+        166,
+        276,
+        1008,
+        307
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        127.49,
+        464.7,
+        141.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3cc55eb1b09db15d0771de82d53ded4c375813e062314ca2341dc035d08dbf35.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        201,
+        203,
+        405,
+        376
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        436,
+        623,
+        880,
+        1154
+      ],
+      "model_image_bbox": [
+        227,
+        324,
+        458,
+        601
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        149.6,
+        211.23,
+        277.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/252419479e2f63e8b4b293f113cc53aebe60a4d86c590472f98aaab8cc147294.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        491,
+        210,
+        837,
+        376
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1067,
+        644,
+        1819,
+        1154
+      ],
+      "model_image_bbox": [
+        555,
+        336,
+        947,
+        601
+      ],
+      "pdf_page_bbox": [
+        256.08,
+        154.76,
+        436.54,
+        277.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，利用关于坐标轴对称的点的坐标的特点，分别画出与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "关于x 轴和y轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        420,
+        891,
+        470
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        1289,
+        1937,
+        1443
+      ],
+      "model_image_bbox": [
+        166,
+        672,
+        1008,
+        752
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        309.52,
+        464.7,
+        346.37
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "习题15.2"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        164,
+        531,
+        316,
+        555
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        356,
+        1630,
+        686,
+        1704
+      ],
+      "model_image_bbox": [
+        185,
+        849,
+        357,
+        888
+      ],
+      "pdf_page_bbox": [
+        85.53,
+        391.32,
+        164.81,
+        409.01
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        149,
+        574,
+        260,
+        595
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        323,
+        1762,
+        565,
+        1827
+      ],
+      "model_image_bbox": [
+        168,
+        918,
+        294,
+        952
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        423.01,
+        135.6,
+        438.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，将各图形补成关于直线对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        605,
+        584,
+        626
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        319,
+        1857,
+        1269,
+        1922
+      ],
+      "model_image_bbox": [
+        166,
+        968,
+        661,
+        1001
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        445.86,
+        304.59,
+        461.33
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/66565b0d7be08b12026883cfa340236f5a3713a83cac42dfc07972b20337d97d.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        226,
+        633,
+        277,
+        722
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        491,
+        1943,
+        602,
+        2217
+      ],
+      "model_image_bbox": [
+        255,
+        1012,
+        313,
+        1155
+      ],
+      "pdf_page_bbox": [
+        117.87,
+        466.49,
+        144.47,
+        532.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2b57c1697e1db30163acc7f771dafdc4c953e40543afc7fe4e00d5d331cb5f7e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        375,
+        631,
+        491,
+        720
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        815,
+        1937,
+        1067,
+        2211
+      ],
+      "model_image_bbox": [
+        424,
+        1009,
+        555,
+        1152
+      ],
+      "pdf_page_bbox": [
+        195.58,
+        465.02,
+        256.08,
+        530.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a3891d0da86701ee1f6f076266f6e93b4076ce7e1b7e499164bd9648a84e86ca.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        567,
+        633,
+        621,
+        722
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1232,
+        1943,
+        1350,
+        2217
+      ],
+      "model_image_bbox": [
+        641,
+        1012,
+        702,
+        1155
+      ],
+      "pdf_page_bbox": [
+        295.72,
+        466.49,
+        323.88,
+        532.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7e92fdf1ef16dddd1a84b990897b339666c351eeac3f5e5fff76ad010d340922.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        722,
+        631,
+        813,
+        722
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1569,
+        1937,
+        1767,
+        2217
+      ],
+      "model_image_bbox": [
+        817,
+        1009,
+        920,
+        1155
+      ],
+      "pdf_page_bbox": [
+        376.56,
+        465.02,
+        424.02,
+        532.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.在下列各图中的适当位置添加最少的小方格，使得到的图形关于虚线成轴对称."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        758,
+        882,
+        777
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        319,
+        2327,
+        1917,
+        2386
+      ],
+      "model_image_bbox": [
+        166,
+        1212,
+        998,
+        1243
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        558.61,
+        460.01,
+        572.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1dba27a03e637856781883f69efde974a84effb9f3910b45fae409a38bbdb6ca.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        230,
+        795,
+        385,
+        862
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        500,
+        2441,
+        836,
+        2647
+      ],
+      "model_image_bbox": [
+        260,
+        1272,
+        435,
+        1379
+      ],
+      "pdf_page_bbox": [
+        119.96,
+        585.88,
+        200.8,
+        635.25
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ebcc2ed8677b62d0cbb7b792f1fdaf8745873b736bdc5226855395c7300280ee.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第2题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        471,
+        789,
+        597,
+        883
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1023,
+        2423,
+        1297,
+        2711
+      ],
+      "model_image_bbox": [
+        533,
+        1262,
+        675,
+        1412
+      ],
+      "pdf_page_bbox": [
+        245.65,
+        581.46,
+        311.37,
+        650.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/d2e57e722a9775435f81147564c1d577a410e05065db9ac07b43dea79c152e41.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        712,
+        782,
+        808,
+        869
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1547,
+        2401,
+        1756,
+        2668
+      ],
+      "model_image_bbox": [
+        805,
+        1251,
+        914,
+        1390
+      ],
+      "pdf_page_bbox": [
+        371.35,
+        576.3,
+        421.41,
+        640.41
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1584,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "75"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

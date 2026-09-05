@@ -1,0 +1,574 @@
+{
+  "page_id": 62,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5c3fcc3b211c02399920c9fc9e090f612eb7036a74ef838678275cb243fb3cf6.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        233,
+        470,
+        872,
+        569
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        506,
+        1443,
+        1895,
+        1747
+      ],
+      "model_image_bbox": [
+        263,
+        752,
+        987,
+        910
+      ],
+      "pdf_page_bbox": [
+        121.52,
+        346.37,
+        454.79,
+        419.33
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "不同几何体系中的一三角形的内角和。"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        120,
+        375,
+        157,
+        767
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        260,
+        1151,
+        341,
+        2355
+      ],
+      "model_image_bbox": [
+        135,
+        600,
+        177,
+        1227
+      ],
+      "pdf_page_bbox": [
+        62.59,
+        276.36,
+        81.88,
+        565.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在欧氏几何中，第五公设为：同一平面内一条直线和另外两条直线相交，如果在某一侧的两个内角的和小于180°，那么这两条直线无限延长后在这一侧相交．第五公设不像其他几个公设那样，看上去简单明了，所以自古希腊时代，数学家们就想方设法地要“证明”它，但都未成功．19 世纪初，罗巴切夫斯基（Lobachevsky，1792—1856）、波尔约(Bolyai，1802—1860)、高斯（Gauss，1777—1855）等数学家从“证明”转向“替代”，于是，当定义不相交的直线为平行线，在新系统中，使用新的平行公设时，新的公理系统——非欧几何就诞生了."
+          }
+        ]
+      },
+      "bbox": [
+        73,
+        126,
+        926,
+        317
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        158,
+        386,
+        2013,
+        973
+      ],
+      "model_image_bbox": [
+        82,
+        201,
+        1048,
+        507
+      ],
+      "pdf_page_bbox": [
+        38.07,
+        92.86,
+        482.96,
+        233.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e6fd1124b9ef52d6fe81689cf21cd0bb88c0b214410f0e5308bdec635fdf63b8.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        235,
+        340,
+        496,
+        395
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        510,
+        1044,
+        1078,
+        1213
+      ],
+      "model_image_bbox": [
+        266,
+        544,
+        561,
+        632
+      ],
+      "pdf_page_bbox": [
+        122.56,
+        250.56,
+        258.69,
+        291.1
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7a1e5661d5fed6d59ebc7f827a53dd4db8ebc77f874c2b3821796746278686ee.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "过给定直线外一点，可以并且只能作一条直线与已知直线平行.(等价于第五公设.)"
+          }
+        ]
+      },
+      "bbox": [
+        523,
+        359,
+        601,
+        381
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1137,
+        1102,
+        1306,
+        1170
+      ],
+      "model_image_bbox": [
+        592,
+        574,
+        680,
+        609
+      ],
+      "pdf_page_bbox": [
+        272.77,
+        264.57,
+        313.45,
+        280.78
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/eb6b6a2d6b4076af409feb23f6733a4cb1e6720c92f563231ae3514f3cc66a65.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "欧氏几何中，三角形的内角和等于180°"
+          },
+          {
+            "type": "text",
+            "content": "替代公设：过给定直线外一 点，至少可以作两条直线与 已知直线平行."
+          },
+          {
+            "type": "text",
+            "content": "双曲几何中，三角形的内角和小于180°."
+          }
+        ]
+      },
+      "bbox": [
+        631,
+        343,
+        864,
+        395
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1371,
+        1053,
+        1878,
+        1213
+      ],
+      "model_image_bbox": [
+        714,
+        548,
+        978,
+        632
+      ],
+      "pdf_page_bbox": [
+        329.1,
+        252.77,
+        450.62,
+        291.1
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/949241a34981ddfe2be5552fc4bde74c75a2a1cf4a9ffd5e70fd5340c9f500b2.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "替代公设：过给定直线外一点，不能作任何一条直线与已知直线平行."
+          }
+        ]
+      },
+      "bbox": [
+        292,
+        642,
+        442,
+        744
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        634,
+        1971,
+        960,
+        2284
+      ],
+      "model_image_bbox": [
+        330,
+        1027,
+        500,
+        1190
+      ],
+      "pdf_page_bbox": [
+        152.29,
+        473.12,
+        230.53,
+        548.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/70c78897a0d0b7e3b61d58acc2813c16ff6ba3b8e05b83cac4658291d1f28f31.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        523,
+        689,
+        601,
+        711
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1137,
+        2115,
+        1306,
+        2183
+      ],
+      "model_image_bbox": [
+        592,
+        1102,
+        680,
+        1137
+      ],
+      "pdf_page_bbox": [
+        272.77,
+        507.76,
+        313.45,
+        523.97
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b832926cb6de311414bb0e51d65d5f3e36796e66dd58acaa1b674cf282242863.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "球面几何中，三角形的内角和大于180°."
+          }
+        ]
+      },
+      "bbox": [
+        670,
+        638,
+        823,
+        744
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1456,
+        1959,
+        1789,
+        2284
+      ],
+      "model_image_bbox": [
+        758,
+        1020,
+        931,
+        1190
+      ],
+      "pdf_page_bbox": [
+        349.44,
+        470.18,
+        429.24,
+        548.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "面对新出现的几何，数学家们开始探索它们之间的本质联系，德国数学家希尔伯特（Hilbert，1862—1943）在《几何基础》（1899 年）一书中建立了一个完备的几何公理系统."
+          }
+        ]
+      },
+      "bbox": [
+        76,
+        829,
+        921,
+        878
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        165,
+        2545,
+        2002,
+        2696
+      ],
+      "model_image_bbox": [
+        86,
+        1326,
+        1042,
+        1404
+      ],
+      "pdf_page_bbox": [
+        39.64,
+        610.93,
+        480.35,
+        647.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "《原本》启示人们，在众多事物中，可以找出最基本的那些，并把它们作为起点，以推导出各种各样的结论，形成公理体系."
+          }
+        ]
+      },
+      "bbox": [
+        76,
+        887,
+        921,
+        935
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        165,
+        2723,
+        2002,
+        2871
+      ],
+      "model_image_bbox": [
+        86,
+        1419,
+        1042,
+        1496
+      ],
+      "pdf_page_bbox": [
+        39.64,
+        653.68,
+        480.35,
+        689.05
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        32
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章 全等三形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "55"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "page_id": 77,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "关于直线对称， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } { = } 6"
+          },
+          {
+            "type": "text",
+            "content": "·求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "的度数和AB 的长."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        78,
+        850,
+        125
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        223,
+        239,
+        1847,
+        383
+      ],
+      "model_image_bbox": [
+        116,
+        124,
+        962,
+        200
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        57.48,
+        443.32,
+        92.12
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/05b900b017125b72d600c9cd8f866d8b36f298539ba6d37beaab0e723fa983ec.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        213,
+        131,
+        405,
+        267
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        463,
+        402,
+        880,
+        819
+      ],
+      "model_image_bbox": [
+        241,
+        209,
+        458,
+        427
+      ],
+      "pdf_page_bbox": [
+        111.09,
+        96.54,
+        211.23,
+        196.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a35ca4b620bbefb4ec2d4be699a7e9bbb6af8d72c79db7419cf93d0708d5fd3b.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第4题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        542,
+        178,
+        739,
+        267
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1178,
+        546,
+        1606,
+        819
+      ],
+      "model_image_bbox": [
+        613,
+        284,
+        836,
+        427
+      ],
+      "pdf_page_bbox": [
+        282.68,
+        131.18,
+        385.43,
+        196.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，DE是AC 的垂直平分线， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A E = 3"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "的周长为13.求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的周长."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        309,
+        685,
+        354
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        223,
+        948,
+        1489,
+        1087
+      ],
+      "model_image_bbox": [
+        116,
+        494,
+        775,
+        566
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        227.72,
+        357.26,
+        260.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } A C , D B { = } D C"
+          },
+          {
+            "type": "text",
+            "content": "，点E在AD上.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E B { = } E C"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        361,
+        675,
+        380
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        223,
+        1108,
+        1467,
+        1166
+      ],
+      "model_image_bbox": [
+        116,
+        577,
+        764,
+        608
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        266.04,
+        352.05,
+        280.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.下列各命题都成立，写出它们的逆命题.这些逆命题成立吗？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        387,
+        687,
+        432
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        1188,
+        1493,
+        1326
+      ],
+      "model_image_bbox": [
+        116,
+        619,
+        777,
+        691
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        285.2,
+        358.31,
+        318.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1）同旁内角互补，两直线平行；"
+          }
+        ]
+      },
+      "bbox": [
+        130,
+        439,
+        442,
+        458
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        282,
+        1348,
+        960,
+        1406
+      ],
+      "model_image_bbox": [
+        147,
+        702,
+        500,
+        732
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        323.52,
+        230.53,
+        337.52
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/293cd6f7f497c46e9f81c24e7e28ba36aabbd2b4a2468607fb765b1b9b24008b.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        700,
+        310,
+        847,
+        458
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1521,
+        952,
+        1841,
+        1406
+      ],
+      "model_image_bbox": [
+        792,
+        496,
+        958,
+        732
+      ],
+      "pdf_page_bbox": [
+        365.09,
+        228.46,
+        441.75,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）如果两个实数相等，那么它们的平方相等；"
+          }
+        ]
+      },
+      "bbox": [
+        130,
+        465,
+        567,
+        484
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        282,
+        1428,
+        1232,
+        1486
+      ],
+      "model_image_bbox": [
+        147,
+        744,
+        641,
+        774
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        342.68,
+        295.72,
+        356.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（第5题）"
+          }
+        ]
+      },
+      "bbox": [
+        734,
+        472,
+        818,
+        489
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1595,
+        1449,
+        1778,
+        1501
+      ],
+      "model_image_bbox": [
+        830,
+        755,
+        925,
+        782
+      ],
+      "pdf_page_bbox": [
+        382.82,
+        347.84,
+        426.63,
+        360.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）全等三角形的对应边相等."
+          }
+        ]
+      },
+      "bbox": [
+        130,
+        491,
+        417,
+        510
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        282,
+        1507,
+        906,
+        1566
+      ],
+      "model_image_bbox": [
+        147,
+        785,
+        472,
+        816
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        361.84,
+        217.49,
+        375.85
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        103,
+        517,
+        216,
+        539
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        223,
+        1587,
+        469,
+        1655
+      ],
+      "model_image_bbox": [
+        116,
+        827,
+        244,
+        862
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        381.0,
+        112.66,
+        397.22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "7.下面的图形是轴对称图形吗？如果是，作出它的一条对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        548,
+        690,
+        569
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        223,
+        1682,
+        1500,
+        1747
+      ],
+      "model_image_bbox": [
+        116,
+        876,
+        781,
+        910
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        403.85,
+        359.87,
+        419.33
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/115c49d2620920a8d15e52203cfbd7ca296e4420eed79886244164c9492eccdf.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第7题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        135,
+        583,
+        815,
+        663
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        293,
+        1790,
+        1771,
+        2036
+      ],
+      "model_image_bbox": [
+        152,
+        932,
+        922,
+        1060
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        429.64,
+        425.06,
+        488.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "8.如图，AD与BC 相交于点O， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O A = O C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = \\angle C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B E = D E"
+          },
+          {
+            "type": "text",
+            "content": ".求证：OE垂直平分 BD."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        708,
+        850,
+        753
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        223,
+        2174,
+        1847,
+        2312
+      ],
+      "model_image_bbox": [
+        116,
+        1132,
+        962,
+        1204
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        521.76,
+        443.32,
+        554.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/99ae5a8e24043f846426ca3fbca7235266d1794eea1ed9cc4ebe455af8d56268.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第8题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        186,
+        769,
+        415,
+        864
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        404,
+        2361,
+        902,
+        2653
+      ],
+      "model_image_bbox": [
+        210,
+        1230,
+        469,
+        1382
+      ],
+      "pdf_page_bbox": [
+        97.01,
+        566.72,
+        216.44,
+        636.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/fe54db901d87032d13eddad895e2721209630e81b7b0916daef74969c06d8ea0.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第9题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        493,
+        814,
+        766,
+        869
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1071,
+        2499,
+        1665,
+        2668
+      ],
+      "model_image_bbox": [
+        558,
+        1302,
+        867,
+        1390
+      ],
+      "pdf_page_bbox": [
+        257.13,
+        599.88,
+        399.51,
+        640.41
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

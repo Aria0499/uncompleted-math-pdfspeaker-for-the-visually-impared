@@ -1,0 +1,884 @@
+{
+  "page_id": 74,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如果一个定理的逆命题经过证明是真命题，那么它也是一个定理，这两个定理叫作互逆定理，其中一个定理叫作另一个定理的逆定理．在几何中，有许多互逆的定理．例如，上面关于垂直平分线的两个互逆命题是互逆定理，“两直线平行，内错角相等”和“内错角相等，两直线平行”也是互逆定理."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        67,
+        916,
+        175
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        205,
+        1991,
+        537
+      ],
+      "model_image_bbox": [
+        138,
+        107,
+        1036,
+        280
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        49.38,
+        477.74,
+        128.97
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a0db74f8a6c32e080721729240201981602aa37f2b0dbd7d6cee6c33d0455ab2.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        147,
+        192,
+        184,
+        217
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        589,
+        400,
+        666
+      ],
+      "model_image_bbox": [
+        166,
+        307,
+        208,
+        347
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        141.49,
+        95.97,
+        159.92
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        144,
+        192,
+        250,
+        217
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        313,
+        589,
+        543,
+        666
+      ],
+      "model_image_bbox": [
+        163,
+        307,
+        283,
+        347
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        141.49,
+        130.39,
+        159.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C , \\ B D = D C"
+          },
+          {
+            "type": "text",
+            "content": "，点C在AE的垂直平分线上.AB，AC，CE的长度有什么关系? "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B + B D"
+          },
+          {
+            "type": "text",
+            "content": "与DE有什么关系？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        229,
+        889,
+        279
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        703,
+        1932,
+        856
+      ],
+      "model_image_bbox": [
+        166,
+        366,
+        1006,
+        446
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        168.76,
+        463.66,
+        205.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/27809815ef37bbf4ef275952c8d571f8e2d60d1d8f3079090f58da02b03a4458.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        302,
+        312,
+        476,
+        385
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        656,
+        958,
+        1034,
+        1182
+      ],
+      "model_image_bbox": [
+        341,
+        499,
+        538,
+        616
+      ],
+      "pdf_page_bbox": [
+        157.51,
+        229.93,
+        248.26,
+        283.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/eaff6fd6c1b916b32ca206ed485621a817f4204cc32a0c0b24f2706e63174526.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        611,
+        289,
+        737,
+        385
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1328,
+        887,
+        1602,
+        1182
+      ],
+      "model_image_bbox": [
+        691,
+        462,
+        834,
+        616
+      ],
+      "pdf_page_bbox": [
+        318.67,
+        212.98,
+        384.38,
+        283.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = A C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "M B = M C"
+          },
+          {
+            "type": "text",
+            "content": "．直线AM是线段BC的垂直平分线吗?为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        423,
+        894,
+        472
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        319,
+        1299,
+        1943,
+        1449
+      ],
+      "model_image_bbox": [
+        166,
+        676,
+        1012,
+        755
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        311.73,
+        466.27,
+        347.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3．写出下列命题的逆命题，并判断这些逆命题是否成立."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        480,
+        717,
+        501
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        319,
+        1474,
+        1558,
+        1538
+      ],
+      "model_image_bbox": [
+        166,
+        768,
+        811,
+        801
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        353.74,
+        373.95,
+        369.21
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）两直线平行，同位角相等；"
+          }
+        ]
+      },
+      "bbox": [
+        176,
+        510,
+        491,
+        529
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        382,
+        1566,
+        1067,
+        1624
+      ],
+      "model_image_bbox": [
+        199,
+        816,
+        555,
+        846
+      ],
+      "pdf_page_bbox": [
+        91.79,
+        375.85,
+        256.08,
+        389.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）如果两个实数相等，那么它们的绝对值相等；"
+          }
+        ]
+      },
+      "bbox": [
+        176,
+        538,
+        675,
+        557
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        382,
+        1652,
+        1467,
+        1710
+      ],
+      "model_image_bbox": [
+        199,
+        860,
+        764,
+        891
+      ],
+      "pdf_page_bbox": [
+        91.79,
+        396.48,
+        352.05,
+        410.48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）全等三角形的对应角相等."
+          }
+        ]
+      },
+      "bbox": [
+        176,
+        565,
+        488,
+        586
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        382,
+        1735,
+        1060,
+        1799
+      ],
+      "model_image_bbox": [
+        199,
+        904,
+        552,
+        937
+      ],
+      "pdf_page_bbox": [
+        91.79,
+        416.38,
+        254.52,
+        431.85
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/01431e489842046205d114158b88ed8a1be42b85fe3c9f6866bcbd36ac4c60fb.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        633,
+        179,
+        657
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        308,
+        1943,
+        389,
+        2017
+      ],
+      "model_image_bbox": [
+        160,
+        1012,
+        202,
+        1051
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        466.49,
+        93.36,
+        484.18
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        184,
+        635,
+        243,
+        656
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        400,
+        1950,
+        528,
+        2014
+      ],
+      "model_image_bbox": [
+        208,
+        1016,
+        275,
+        1049
+      ],
+      "pdf_page_bbox": [
+        95.97,
+        467.96,
+        126.74,
+        483.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如何利用直尺和圆规作线段的垂直平分线?"
+          }
+        ]
+      },
+      "bbox": [
+        194,
+        664,
+        626,
+        685
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        421,
+        2039,
+        1360,
+        2103
+      ],
+      "model_image_bbox": [
+        219,
+        1062,
+        708,
+        1096
+      ],
+      "pdf_page_bbox": [
+        101.18,
+        489.34,
+        326.49,
+        504.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.1-8，已知线段AB，要作线段AB的垂直平分线.由于“两点确定一条直线”，所以作线段AB的垂直平分线，关键是确定所求作的垂直平分线上的两个点.根据与A，B距离相等的点在线段AB的垂直平分线上，可以作出这样的两个点."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        701,
+        692,
+        836
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        265,
+        2152,
+        1504,
+        2567
+      ],
+      "model_image_bbox": [
+        138,
+        1121,
+        783,
+        1337
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        516.6,
+        360.91,
+        616.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5523dc85bc764423b74c23e651b6073ebef40e46ffcb3f9d6be17aca0c98247e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        729,
+        699,
+        891,
+        829
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1584,
+        2146,
+        1937,
+        2545
+      ],
+      "model_image_bbox": [
+        825,
+        1118,
+        1008,
+        1326
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        515.13,
+        464.7,
+        610.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图15.1-8."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        843,
+        373,
+        862
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        367,
+        2588,
+        810,
+        2647
+      ],
+      "model_image_bbox": [
+        191,
+        1348,
+        422,
+        1379
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        621.25,
+        194.54,
+        635.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.1-8"
+          }
+        ]
+      },
+      "bbox": [
+        764,
+        843,
+        857,
+        861
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1660,
+        2588,
+        1863,
+        2644
+      ],
+      "model_image_bbox": [
+        864,
+        1348,
+        970,
+        1377
+      ],
+      "pdf_page_bbox": [
+        398.47,
+        621.25,
+        446.97,
+        634.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）分别以点A和点B为圆心，大于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "{ \\frac { 1 } { 2 } } A B"
+          },
+          {
+            "type": "text",
+            "content": "的长为半径作弧，两弧相交于"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        871,
+        914,
+        909
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        367,
+        2674,
+        1987,
+        2791
+      ],
+      "model_image_bbox": [
+        191,
+        1393,
+        1034,
+        1454
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        641.89,
+        476.7,
+        669.89
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "67"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

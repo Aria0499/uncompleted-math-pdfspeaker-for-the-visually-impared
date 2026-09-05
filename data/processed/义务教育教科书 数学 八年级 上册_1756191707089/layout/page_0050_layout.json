@@ -1,0 +1,703 @@
+{
+  "page_id": 50,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        78,
+        248,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        239,
+        539,
+        313
+      ],
+      "model_image_bbox": [
+        166,
+        124,
+        280,
+        163
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        57.48,
+        129.34,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，C是路段AB的中点，两人从C同时出发，以相同的速度分别沿两条直线行走，并同时到达D，E两地，且 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D A \\perp A B , ~ E B \\perp A B"
+          },
+          {
+            "type": "text",
+            "content": "D，E到路段AB的距离相等吗？为什么?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        116,
+        891,
+        192
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        356,
+        1937,
+        589
+      ],
+      "model_image_bbox": [
+        166,
+        185,
+        1008,
+        307
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        85.49,
+        464.7,
+        141.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f8690faf55763f7c9279da882010c547bc9ad4354620d8d371615fe5e20ac86e.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        248,
+        203,
+        407,
+        328
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        539,
+        623,
+        884,
+        1007
+      ],
+      "model_image_bbox": [
+        280,
+        324,
+        460,
+        524
+      ],
+      "pdf_page_bbox": [
+        129.34,
+        149.6,
+        212.27,
+        241.72
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/febc2d83853262b9e54996ed169e03d914edbb5d58241a6e25f594a7f7f37807.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        609,
+        215,
+        791,
+        328
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1323,
+        660,
+        1719,
+        1007
+      ],
+      "model_image_bbox": [
+        689,
+        344,
+        895,
+        524
+      ],
+      "pdf_page_bbox": [
+        317.63,
+        158.44,
+        412.55,
+        241.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = C D , \\ A E \\bot B C , \\ D F \\bot B C"
+          },
+          {
+            "type": "text",
+            "content": "，垂足分别为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E \\colon F \\thinspace , \\ C E { = } { B F }"
+          },
+          {
+            "type": "text",
+            "content": "求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A E { = } D F"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        375,
+        889,
+        423
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        1151,
+        1932,
+        1299
+      ],
+      "model_image_bbox": [
+        166,
+        600,
+        1006,
+        676
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        276.36,
+        463.66,
+        311.73
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "习题14.2"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        164,
+        493,
+        314,
+        519
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        356,
+        1514,
+        682,
+        1593
+      ],
+      "model_image_bbox": [
+        185,
+        788,
+        355,
+        830
+      ],
+      "pdf_page_bbox": [
+        85.53,
+        363.32,
+        163.77,
+        382.48
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        149,
+        538,
+        260,
+        559
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        323,
+        1652,
+        565,
+        1716
+      ],
+      "model_image_bbox": [
+        168,
+        860,
+        294,
+        894
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        396.48,
+        135.6,
+        411.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，M是AB的中点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A M C = \\angle B M D"
+          },
+          {
+            "type": "equation_inline",
+            "content": "M C = M D"
+          },
+          {
+            "type": "text",
+            "content": ".求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = B D"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        569,
+        842,
+        588
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        319,
+        1747,
+        1830,
+        1805
+      ],
+      "model_image_bbox": [
+        166,
+        910,
+        953,
+        940
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        419.33,
+        439.15,
+        433.33
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7bb90624a518edb1255eaa24bc3e386d334fdf917104cf023dbcf79965a9e2d0.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第1题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        253,
+        635,
+        469,
+        720
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        550,
+        1950,
+        1019,
+        2211
+      ],
+      "model_image_bbox": [
+        286,
+        1016,
+        530,
+        1152
+      ],
+      "pdf_page_bbox": [
+        131.95,
+        467.96,
+        244.61,
+        530.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9f1e959b2057c660a62d43a00a76af90ca31010229239464615e84621825108a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        614,
+        598,
+        786,
+        720
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1334,
+        1836,
+        1708,
+        2211
+      ],
+      "model_image_bbox": [
+        695,
+        956,
+        889,
+        1152
+      ],
+      "pdf_page_bbox": [
+        320.23,
+        440.7,
+        409.94,
+        530.61
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = A C , \\ A D = A E"
+          },
+          {
+            "type": "text",
+            "content": "，求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = \\angle C"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        765,
+        597,
+        784
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        319,
+        2349,
+        1297,
+        2407
+      ],
+      "model_image_bbox": [
+        166,
+        1224,
+        675,
+        1254
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        563.77,
+        311.37,
+        577.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3. 如图，把两根钢条的中点连在一起，可以做成一个测量工件内槽宽的工具(卡钳)．在图中，要测量工件内槽宽AB，只需要测量哪些量？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        791,
+        692,
+        862
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        319,
+        2429,
+        1504,
+        2647
+      ],
+      "model_image_bbox": [
+        166,
+        1265,
+        783,
+        1379
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        582.93,
+        360.91,
+        635.25
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a069a54e27d461599176a394675798d47ba84c4924a4aedc98249aba10fc3d94.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        707,
+        791,
+        879,
+        875
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1537,
+        2429,
+        1910,
+        2687
+      ],
+      "model_image_bbox": [
+        800,
+        1265,
+        995,
+        1400
+      ],
+      "pdf_page_bbox": [
+        368.74,
+        582.93,
+        458.44,
+        644.83
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1504,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "43"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        636,
+        993
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        784,
+        2957,
+        1382,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        719,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        331.71,
+        731.79
+      ]
+    }
+  ]
+}

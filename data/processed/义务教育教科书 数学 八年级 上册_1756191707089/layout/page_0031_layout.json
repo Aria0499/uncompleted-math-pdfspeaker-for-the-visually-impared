@@ -1,0 +1,956 @@
+{
+  "page_id": 31,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ee267daffbd03e25b7d08edadc3d79a0cc5fd0f4803ab703b28435c9152fc0f0.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        206,
+        71,
+        368,
+        135
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        447,
+        218,
+        800,
+        414
+      ],
+      "model_image_bbox": [
+        233,
+        113,
+        416,
+        216
+      ],
+      "pdf_page_bbox": [
+        107.44,
+        52.32,
+        191.93,
+        99.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/185a8803b69ded401c0329e5c38317d11cdbc3827ceb57605a833b50f5aec7b1.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        380,
+        67,
+        565,
+        133
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        826,
+        205,
+        1228,
+        408
+      ],
+      "model_image_bbox": [
+        430,
+        107,
+        639,
+        212
+      ],
+      "pdf_page_bbox": [
+        198.19,
+        49.38,
+        294.68,
+        98.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a39c650e04d233f13630ea5988f3fdde4a605dd7800e4c333941107d9aa94e63.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图6"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        579,
+        74,
+        746,
+        135
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1258,
+        227,
+        1621,
+        414
+      ],
+      "model_image_bbox": [
+        655,
+        118,
+        844,
+        216
+      ],
+      "pdf_page_bbox": [
+        301.98,
+        54.53,
+        389.08,
+        99.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "接下来，我们一起来探究解决这个问题."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        173,
+        530,
+        194
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        531,
+        1152,
+        595
+      ],
+      "model_image_bbox": [
+        141,
+        276,
+        599,
+        310
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        127.49,
+        276.42,
+        142.97
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动目标"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        206,
+        223,
+        229
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        228,
+        632,
+        484,
+        703
+      ],
+      "model_image_bbox": [
+        118,
+        329,
+        252,
+        366
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        151.81,
+        116.31,
+        168.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "发现确定匀质薄板、薄壳（厚度可忽略）重心位置的方法."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        248,
+        712,
+        269
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        271,
+        761,
+        1547,
+        826
+      ],
+      "model_image_bbox": [
+        141,
+        396,
+        805,
+        430
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        182.76,
+        371.35,
+        198.24
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动准备"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        281,
+        221,
+        305
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        228,
+        862,
+        480,
+        936
+      ],
+      "model_image_bbox": [
+        118,
+        449,
+        250,
+        488
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        207.08,
+        115.26,
+        224.77
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "1.材料用具"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        322,
+        255,
+        343
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        276,
+        988,
+        554,
+        1053
+      ],
+      "model_image_bbox": [
+        143,
+        515,
+        288,
+        548
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        237.3,
+        133.0,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "质地均匀的薄纸板、直尺、量角器、剪刀、细线."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        350,
+        621,
+        371
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        271,
+        1074,
+        1350,
+        1139
+      ],
+      "model_image_bbox": [
+        141,
+        560,
+        702,
+        593
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        257.93,
+        323.88,
+        273.41
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "2.资料学习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        378,
+        255,
+        397
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        276,
+        1160,
+        554,
+        1219
+      ],
+      "model_image_bbox": [
+        143,
+        604,
+        288,
+        635
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        278.57,
+        133.0,
+        292.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "查阅资料，了解重心的概念以及工程中确定物体重心位置的方法."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        404,
+        781,
+        425
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        271,
+        1240,
+        1697,
+        1305
+      ],
+      "model_image_bbox": [
+        141,
+        646,
+        884,
+        680
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        297.73,
+        407.33,
+        313.2
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动任务"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        437,
+        223,
+        461
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        228,
+        1342,
+        484,
+        1415
+      ],
+      "model_image_bbox": [
+        118,
+        699,
+        252,
+        737
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        322.05,
+        116.31,
+        339.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由于许多工程用薄板的形状是由常见的简单平面图形组合而成的（如图6中的型钢截面），所以我们可以先想办法确定一些简单平面图形的重心位置，再探究确定平面组合图形重心位置的方法."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        479,
+        872,
+        555
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        176,
+        1471,
+        1895,
+        1704
+      ],
+      "model_image_bbox": [
+        91,
+        766,
+        987,
+        888
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        353.0,
+        454.79,
+        409.01
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动一 确定简单平面图形的重心位置"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        564,
+        542,
+        585
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        276,
+        1732,
+        1178,
+        1796
+      ],
+      "model_image_bbox": [
+        143,
+        902,
+        613,
+        936
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        415.64,
+        282.68,
+        431.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们已经知道，三角形的重心位于三条中线的交点处，那么其他平面图形的重心在什么位置呢?"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        593,
+        872,
+        642
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        176,
+        1821,
+        1895,
+        1971
+      ],
+      "model_image_bbox": [
+        91,
+        948,
+        987,
+        1027
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        437.01,
+        454.79,
+        473.12
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "任务1认识平面图形的重心"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        649,
+        427,
+        668
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        271,
+        1993,
+        928,
+        2051
+      ],
+      "model_image_bbox": [
+        141,
+        1038,
+        483,
+        1068
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        478.28,
+        222.7,
+        492.28
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过查资料、做实验、讨论等小组合作活动，探究下列问题."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        675,
+        734,
+        696
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        271,
+        2072,
+        1595,
+        2137
+      ],
+      "model_image_bbox": [
+        141,
+        1080,
+        830,
+        1113
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        497.44,
+        382.82,
+        512.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）在物理学中，物体的重心指的是什么？匀质薄板的重心位置与薄板的哪些方面有关?"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        703,
+        626,
+        751
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        176,
+        2158,
+        1360,
+        2306
+      ],
+      "model_image_bbox": [
+        91,
+        1124,
+        708,
+        1201
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        518.08,
+        326.49,
+        553.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）用一个支点顶住一个三角形匀质薄板（图7)，慢慢调整薄板，使其能够在支点上保持平衡.此时，薄板与支点接触的点就是薄板的重心．三角形匀质薄板的重心位置与三角形的重心位置有什么关系?"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        758,
+        626,
+        861
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        169,
+        2327,
+        1360,
+        2644
+      ],
+      "model_image_bbox": [
+        88,
+        1212,
+        708,
+        1377
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        558.61,
+        326.49,
+        634.52
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c54c66f9a811ff52a45e9b0e1d5a8680d0c46e5a3b6f2c3bf6823144f9643653.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        643,
+        756,
+        867,
+        836
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1397,
+        2321,
+        1884,
+        2567
+      ],
+      "model_image_bbox": [
+        727,
+        1209,
+        981,
+        1337
+      ],
+      "pdf_page_bbox": [
+        335.36,
+        557.14,
+        452.19,
+        616.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）你能仿照三角形的重心，给一般平面图形的重心下一个定义吗?"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        868,
+        626,
+        914
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        176,
+        2665,
+        1360,
+        2806
+      ],
+      "model_image_bbox": [
+        91,
+        1388,
+        708,
+        1462
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        639.67,
+        326.49,
+        673.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图7"
+          }
+        ]
+      },
+      "bbox": [
+        734,
+        847,
+        776,
+        864
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1595,
+        2601,
+        1687,
+        2653
+      ],
+      "model_image_bbox": [
+        830,
+        1355,
+        878,
+        1382
+      ],
+      "pdf_page_bbox": [
+        382.82,
+        624.2,
+        404.72,
+        636.73
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "24"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        184,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        96,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "综合与实践确定匀质薄板的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        427,
+        954
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        271,
+        2877,
+        928,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        483,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        222.7,
+        703.05
+      ]
+    }
+  ]
+}

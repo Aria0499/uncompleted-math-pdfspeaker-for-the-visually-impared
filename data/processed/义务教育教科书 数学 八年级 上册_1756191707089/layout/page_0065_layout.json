@@ -1,0 +1,751 @@
+{
+  "page_id": 65,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在本章中，我们还进一步学习了尺规作图，包括作一个角等于已知角，已知三边、已知两边和它们的夹角或已知两角和它们的夹边作三角形，作一个角的平分线，等等．我们经历了这些尺规作图的过程，理解了这些尺规作图的原理和方法．在几何学习中，作出规范的图形往往有利于图形性质的发现和问题的解决，对此你在后续的学习中会有进一步的体会."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        79,
+        850,
+        215
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        223,
+        242,
+        1847,
+        660
+      ],
+      "model_image_bbox": [
+        116,
+        126,
+        962,
+        344
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        58.22,
+        443.32,
+        158.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "请你带着下面的问题，复习一下全章的内容吧."
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        222,
+        626,
+        243
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        323,
+        681,
+        1360,
+        746
+      ],
+      "model_image_bbox": [
+        168,
+        355,
+        708,
+        388
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        163.6,
+        326.49,
+        179.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．你能举一些实际生活中全等形的例子吗?"
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        251,
+        592,
+        272
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        323,
+        770,
+        1287,
+        835
+      ],
+      "model_image_bbox": [
+        168,
+        401,
+        670,
+        435
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        184.97,
+        308.76,
+        200.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.全等三角形有什么性质？"
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        279,
+        432,
+        300
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        323,
+        856,
+        939,
+        921
+      ],
+      "model_image_bbox": [
+        168,
+        446,
+        489,
+        480
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        205.61,
+        225.31,
+        221.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.从三角形的三条边分别相等、三个角分别相等中任选三个作为条件来判定两个三角形是否全等时，哪些是能够判定的？两个直角三角形全等的条件是什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        309,
+        847,
+        387
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        948,
+        1841,
+        1188
+      ],
+      "model_image_bbox": [
+        116,
+        494,
+        958,
+        619
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        227.72,
+        441.75,
+        285.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.你对角的平分线有了哪些新的认识？你能通过判定三角形的全等证明角的平分线的性质吗?"
+          }
+        ]
+      },
+      "bbox": [
+        105,
+        394,
+        847,
+        444
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        228,
+        1209,
+        1841,
+        1363
+      ],
+      "model_image_bbox": [
+        118,
+        630,
+        958,
+        710
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        290.36,
+        441.75,
+        327.21
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.你能举例说明证明一个几何命题的一般过程吗？"
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        451,
+        660,
+        472
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        323,
+        1385,
+        1434,
+        1449
+      ],
+      "model_image_bbox": [
+        168,
+        721,
+        747,
+        755
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        332.37,
+        344.22,
+        347.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.从一些基本事实出发，通过推理论证得到图形的性质是几何研究的常用方法．结合本章的学习，你对此有什么体会？"
+          }
+        ]
+      },
+      "bbox": [
+        105,
+        479,
+        847,
+        531
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        228,
+        1471,
+        1841,
+        1630
+      ],
+      "model_image_bbox": [
+        118,
+        766,
+        958,
+        849
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        353.0,
+        441.75,
+        391.32
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习题(14)"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        422,
+        579,
+        577,
+        605
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        917,
+        1778,
+        1254,
+        1857
+      ],
+      "model_image_bbox": [
+        477,
+        926,
+        653,
+        968
+      ],
+      "pdf_page_bbox": [
+        220.09,
+        426.7,
+        300.94,
+        445.86
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        93,
+        640,
+        206,
+        661
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        202,
+        1965,
+        447,
+        2029
+      ],
+      "model_image_bbox": [
+        105,
+        1024,
+        233,
+        1057
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        471.65,
+        107.44,
+        487.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．图中有三个正方形，请你说出图中所有的全等三角形."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        671,
+        614,
+        692
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        202,
+        2060,
+        1334,
+        2125
+      ],
+      "model_image_bbox": [
+        105,
+        1073,
+        695,
+        1107
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        494.49,
+        320.23,
+        509.97
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/13c47c373ffac6420c624ff2ab1f0ec971b1d8bc297011457841421aa6c43e78.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        243,
+        699,
+        373,
+        793
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        528,
+        2146,
+        810,
+        2435
+      ],
+      "model_image_bbox": [
+        275,
+        1118,
+        422,
+        1268
+      ],
+      "pdf_page_bbox": [
+        126.74,
+        515.13,
+        194.54,
+        584.4
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a867448cddce5c40400161070c9430b675388604d998a3bf3da7a3a64a12b443.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        560,
+        699,
+        710,
+        789
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1217,
+        2146,
+        1543,
+        2423
+      ],
+      "model_image_bbox": [
+        633,
+        1118,
+        803,
+        1262
+      ],
+      "pdf_page_bbox": [
+        292.07,
+        515.13,
+        370.3,
+        581.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，在长方形ABCD中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A F \\bot B D"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为E，AF交BC于点F，连接DF."
+          }
+        ]
+      },
+      "bbox": [
+        93,
+        833,
+        857,
+        854
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        202,
+        2558,
+        1863,
+        2622
+      ],
+      "model_image_bbox": [
+        105,
+        1332,
+        970,
+        1366
+      ],
+      "pdf_page_bbox": [
+        48.5,
+        613.88,
+        446.97,
+        629.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）图中有全等三角形吗?"
+          }
+        ]
+      },
+      "bbox": [
+        117,
+        859,
+        368,
+        878
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        254,
+        2637,
+        800,
+        2696
+      ],
+      "model_image_bbox": [
+        132,
+        1374,
+        416,
+        1404
+      ],
+      "pdf_page_bbox": [
+        61.02,
+        633.04,
+        191.93,
+        647.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）图中有面积相等但不全等的三角形吗？"
+          }
+        ]
+      },
+      "bbox": [
+        120,
+        885,
+        515,
+        906
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        260,
+        2717,
+        1119,
+        2782
+      ],
+      "model_image_bbox": [
+        135,
+        1416,
+        582,
+        1449
+      ],
+      "pdf_page_bbox": [
+        62.59,
+        652.2,
+        268.6,
+        667.68
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "58"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第四章 全等三形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        304,
+        954
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        276,
+        2883,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教章出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

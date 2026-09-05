@@ -1,0 +1,692 @@
+{
+  "page_id": 83,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，以正方形 ABCD 的中心为原点建立平面直角坐标系．点A 的坐标为(1，1)，写出点B，C，D 的坐标."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        79,
+        850,
+        125
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        223,
+        242,
+        1847,
+        383
+      ],
+      "model_image_bbox": [
+        116,
+        126,
+        962,
+        200
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        58.22,
+        443.32,
+        92.12
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2450ee086750180e03fbf39863a41df10c1274c935f6fad445cb5593152113c6.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第3题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        206,
+        138,
+        375,
+        258
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        447,
+        423,
+        815,
+        792
+      ],
+      "model_image_bbox": [
+        233,
+        220,
+        424,
+        412
+      ],
+      "pdf_page_bbox": [
+        107.44,
+        101.7,
+        195.58,
+        190.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/179b4b35a688b94f24de2e6faa2fa7e3b5ff063245171ea3288122f74de529b1.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第4题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        498,
+        140,
+        744,
+        262
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1082,
+        429,
+        1617,
+        804
+      ],
+      "model_image_bbox": [
+        563,
+        224,
+        842,
+        419
+      ],
+      "pdf_page_bbox": [
+        259.73,
+        103.17,
+        388.03,
+        193.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.如图，利用关于坐标轴对称的点的坐标的特点，分别画出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "关于x轴和y 轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        298,
+        850,
+        345
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        223,
+        915,
+        1847,
+        1059
+      ],
+      "model_image_bbox": [
+        116,
+        476,
+        962,
+        552
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        219.61,
+        443.32,
+        254.25
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        352,
+        216,
+        373
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        228,
+        1080,
+        469,
+        1145
+      ],
+      "model_image_bbox": [
+        118,
+        563,
+        244,
+        596
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        259.41,
+        112.66,
+        274.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.根据下列点的坐标的变化，判断它们进行了怎样的变化."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        383,
+        648,
+        402
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        1176,
+        1408,
+        1234
+      ],
+      "model_image_bbox": [
+        116,
+        612,
+        733,
+        643
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        282.25,
+        337.97,
+        296.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1) "
+          },
+          {
+            "type": "equation_inline",
+            "content": "( - 1 , \\ 3 ) {  } ( - 1 , \\ - 3 )"
+          }
+        ]
+      },
+      "bbox": [
+        130,
+        409,
+        400,
+        427
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        282,
+        1256,
+        869,
+        1311
+      ],
+      "model_image_bbox": [
+        147,
+        654,
+        452,
+        683
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        301.41,
+        208.62,
+        314.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2) "
+          },
+          {
+            "type": "equation_inline",
+            "content": "( - 5 , ~ - 6 ) {  } ( - 5 , ~ - 1 )"
+          }
+        ]
+      },
+      "bbox": [
+        130,
+        435,
+        420,
+        454
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        282,
+        1335,
+        913,
+        1394
+      ],
+      "model_image_bbox": [
+        147,
+        696,
+        475,
+        726
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        320.57,
+        219.05,
+        334.58
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3) "
+          },
+          {
+            "type": "equation_inline",
+            "content": "( 3 , \\ 4 ) \\to ( - 3 , \\ 4 ) ;"
+          }
+        ]
+      },
+      "bbox": [
+        132,
+        461,
+        356,
+        479
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        286,
+        1415,
+        773,
+        1471
+      ],
+      "model_image_bbox": [
+        149,
+        737,
+        402,
+        766
+      ],
+      "pdf_page_bbox": [
+        68.84,
+        339.73,
+        185.67,
+        353.0
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "( - 2 , \\ 3 ) {  } ( 2 , \\ - 3 ) ."
+          }
+        ]
+      },
+      "bbox": [
+        132,
+        487,
+        373,
+        505
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        286,
+        1495,
+        810,
+        1550
+      ],
+      "model_image_bbox": [
+        149,
+        779,
+        422,
+        808
+      ],
+      "pdf_page_bbox": [
+        68.84,
+        358.9,
+        194.54,
+        372.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.如图，小球起始时位于（3，0）处，沿所示的方向击球，小球运动的轨迹如图所示，用坐标描述这个运动，找出小球运动的轨迹上几个关于直线ι对称的点．如果小球起始时位于（1，0）处，仍按原来方向击球，请你画出这时小球运动的轨迹."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        513,
+        852,
+        611
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        223,
+        1575,
+        1852,
+        1876
+      ],
+      "model_image_bbox": [
+        116,
+        820,
+        964,
+        977
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        378.06,
+        444.36,
+        450.28
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5cf120d3d9b80e0b09ebd34571b49c7c9166cd3045e397c478bd1021cfefde8c.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第6题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        189,
+        626,
+        496,
+        789
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        410,
+        1922,
+        1078,
+        2423
+      ],
+      "model_image_bbox": [
+        213,
+        1001,
+        561,
+        1262
+      ],
+      "pdf_page_bbox": [
+        98.57,
+        461.33,
+        258.69,
+        581.46
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e4ac3d36c131b22237095c1a2d43300bc11d73bd041af23828e92395d10faff5.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第7题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        604,
+        697,
+        739,
+        756
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1313,
+        2140,
+        1606,
+        2321
+      ],
+      "model_image_bbox": [
+        683,
+        1115,
+        836,
+        1209
+      ],
+      "pdf_page_bbox": [
+        315.02,
+        513.66,
+        385.43,
+        557.14
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "7.如图，已知点A，B，C，请你再找一个点D，使A，B，C，D 四点构成一个轴对称图形.这样的点 D 有几个？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        824,
+        847,
+        871
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        223,
+        2530,
+        1841,
+        2674
+      ],
+      "model_image_bbox": [
+        116,
+        1318,
+        958,
+        1393
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        607.25,
+        441.75,
+        641.89
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "page_id": 89,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.3.2 等边三角形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        69,
+        378,
+        90
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        276,
+        211,
+        821,
+        276
+      ],
+      "model_image_bbox": [
+        143,
+        110,
+        427,
+        144
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        50.85,
+        197.15,
+        66.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，三边都相等的三角形是等边三角形，等边三角形是特殊的等腰三角形．对于等边三角形，我们同样从它的边、角关系出发，研究它的性质和判定."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        98,
+        874,
+        177
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        300,
+        1900,
+        543
+      ],
+      "model_image_bbox": [
+        91,
+        156,
+        989,
+        283
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        72.22,
+        455.84,
+        130.44
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/04e5d0607ad09e6591a7e8ace811d4e90b89cf4546e56c5d9c06dfba55e9a9bd.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        192,
+        135,
+        218
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        213,
+        589,
+        293,
+        669
+      ],
+      "model_image_bbox": [
+        110,
+        307,
+        152,
+        348
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        141.49,
+        70.41,
+        160.66
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        192,
+        201,
+        217
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        206,
+        589,
+        436,
+        666
+      ],
+      "model_image_bbox": [
+        107,
+        307,
+        227,
+        347
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        141.49,
+        104.83,
+        159.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "把等腰三角形的性质用于等边三角形，能得到什么结论？一个三角形满足什么条件才是等边三角形？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        229,
+        847,
+        279
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        223,
+        703,
+        1841,
+        856
+      ],
+      "model_image_bbox": [
+        116,
+        366,
+        958,
+        446
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        168.76,
+        441.75,
+        205.61
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由等腰三角形的性质和判定方法，可以得到："
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        293,
+        579,
+        314
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        276,
+        899,
+        1258,
+        964
+      ],
+      "model_image_bbox": [
+        143,
+        468,
+        655,
+        502
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        215.93,
+        301.98,
+        231.4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "等边三角形的三个角都相等，并且每一个角都等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "6 0 ^ { \\circ }"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        322,
+        599,
+        369
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        176,
+        988,
+        1302,
+        1133
+      ],
+      "model_image_bbox": [
+        91,
+        515,
+        678,
+        590
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        237.3,
+        312.41,
+        271.94
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三个角都相等的三角形是等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        378,
+        508,
+        399
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1160,
+        1104,
+        1225
+      ],
+      "model_image_bbox": [
+        141,
+        604,
+        575,
+        638
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        278.57,
+        264.95,
+        294.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "请你自己证明这些结论."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        352,
+        857,
+        395
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1393,
+        1080,
+        1863,
+        1213
+      ],
+      "model_image_bbox": [
+        725,
+        563,
+        970,
+        632
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        259.41,
+        446.97,
+        291.1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "有一个角是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "6 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "的等腰三角形是等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        407,
+        565,
+        427
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1249,
+        1228,
+        1311
+      ],
+      "model_image_bbox": [
+        141,
+        651,
+        639,
+        683
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        299.94,
+        294.68,
+        314.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例4如图15.3-7， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形，"
+          },
+          {
+            "type": "equation_inline",
+            "content": "D E / / B C"
+          },
+          {
+            "type": "text",
+            "content": "，分别交AB，AC于点D，E.求证："
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D E"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        435,
+        592,
+        513
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        176,
+        1335,
+        1287,
+        1575
+      ],
+      "model_image_bbox": [
+        91,
+        696,
+        670,
+        820
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        320.57,
+        308.76,
+        378.06
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "证明： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\because \\quad \\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        520,
+        474,
+        541
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        1596,
+        1030,
+        1661
+      ],
+      "model_image_bbox": [
+        141,
+        832,
+        536,
+        865
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        383.22,
+        247.22,
+        398.69
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A = \\angle B = \\angle C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/c70a293849c0a645aa64e95b1b24030f20693494afeeda191b8d8486a6107bbe.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        548,
+        356,
+        569
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        276,
+        1682,
+        773,
+        1747
+      ],
+      "model_image_bbox": [
+        143,
+        876,
+        402,
+        910
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        403.85,
+        185.67,
+        419.33
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/67c63ba7c4565eea9528ecb5d54c762fd06f7e163d638164dc31abfeb5052b2d.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        678,
+        465,
+        823,
+        572
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1473,
+        1428,
+        1789,
+        1756
+      ],
+      "model_image_bbox": [
+        767,
+        744,
+        931,
+        915
+      ],
+      "pdf_page_bbox": [
+        353.61,
+        342.68,
+        429.24,
+        421.54
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\because D E / / B C ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/7cf6057dc45c8ae1203391c6988a4402aac43da25edb43ed3bb3a070589a4cf8.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        578,
+        280,
+        597
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        282,
+        1775,
+        608,
+        1833
+      ],
+      "model_image_bbox": [
+        147,
+        924,
+        316,
+        955
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        425.96,
+        146.03,
+        439.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.3-7"
+          }
+        ]
+      },
+      "bbox": [
+        702,
+        579,
+        796,
+        597
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1526,
+        1778,
+        1730,
+        1833
+      ],
+      "model_image_bbox": [
+        794,
+        926,
+        901,
+        955
+      ],
+      "pdf_page_bbox": [
+        366.13,
+        426.7,
+        415.16,
+        439.96
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A D E = \\angle B , \\angle A E D = \\angle C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/a4350d5ed9674325c09eaf71407278e44667afc2e469512361e7be9483e0b9b2.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        605,
+        486,
+        626
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        276,
+        1857,
+        1056,
+        1922
+      ],
+      "model_image_bbox": [
+        143,
+        968,
+        550,
+        1001
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        445.86,
+        253.47,
+        461.33
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A = \\angle A D E = \\angle A E D .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/0461ebf95a434b5212c24d232082c1c86787b2d48deb603e4a0ef6e265822021.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        633,
+        425,
+        654
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        276,
+        1943,
+        923,
+        2008
+      ],
+      "model_image_bbox": [
+        143,
+        1012,
+        481,
+        1046
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        466.49,
+        221.66,
+        481.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D E"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形."
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        663,
+        405,
+        684
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        276,
+        2036,
+        880,
+        2100
+      ],
+      "model_image_bbox": [
+        143,
+        1060,
+        458,
+        1094
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        488.6,
+        211.23,
+        504.08
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        100,
+        701,
+        206,
+        725
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        217,
+        2152,
+        447,
+        2226
+      ],
+      "model_image_bbox": [
+        113,
+        1121,
+        233,
+        1160
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        516.6,
+        107.44,
+        534.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.画出等边三角形的三条对称轴．你能发现什么?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        739,
+        606,
+        760
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        223,
+        2269,
+        1317,
+        2333
+      ],
+      "model_image_bbox": [
+        116,
+        1182,
+        685,
+        1216
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        544.61,
+        316.06,
+        560.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，在等边三角形ABC中，AD是BC上的高， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B D E = \\angle C D F = 6 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，图中有哪些与BD相等的线段？证明你的结论."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        767,
+        636,
+        845
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        223,
+        2355,
+        1382,
+        2594
+      ],
+      "model_image_bbox": [
+        116,
+        1227,
+        719,
+        1352
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        565.24,
+        331.71,
+        622.72
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/50179ca9023752c70161a49b4094be79ec02adec56572f26e32f50b22f3dc0ec.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        675,
+        720,
+        823,
+        824
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1467,
+        2211,
+        1789,
+        2530
+      ],
+      "model_image_bbox": [
+        764,
+        1152,
+        931,
+        1318
+      ],
+      "pdf_page_bbox": [
+        352.05,
+        530.61,
+        429.24,
+        607.25
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "82"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "page_id": 6,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/24d72c10b1e60c0a3fca849d0a1adb95be888a52bf4adef566bbbad01c9c9047.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        127,
+        248,
+        373,
+        366
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        276,
+        761,
+        810,
+        1123
+      ],
+      "model_image_bbox": [
+        143,
+        396,
+        422,
+        585
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        182.76,
+        194.54,
+        269.72
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7565d0d4686dbe81c83e6b1cc7ae2bd9cee15b199a7985e023991c0bf345a994.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        127,
+        588,
+        373,
+        706
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        276,
+        1805,
+        810,
+        2168
+      ],
+      "model_image_bbox": [
+        143,
+        940,
+        422,
+        1129
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        433.33,
+        194.54,
+        520.29
+      ]
+    },
+    {
+      "type": "index",
+      "content": {
+        "list_type": "text_list",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十五章 轴对称 61"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "15.1图形的轴对称 62"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "15.2画轴对称的图形 72"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "15.3 等腰三角形 78"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "探究与发现三角形中边与角之间的"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "不等关系 86"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 88"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 90"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "综合与实践最短路径问题 94"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十六章 整式的乘法 97"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "16.1幂的运算 98"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "16.2整式的乘法 103"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "16.3乘法公式 112"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "阅读与思考杨辉三角 118"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 119"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 120"
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        393,
+        182,
+        918,
+        750
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        854,
+        558,
+        1995,
+        2303
+      ],
+      "model_image_bbox": [
+        444,
+        291,
+        1039,
+        1200
+      ],
+      "pdf_page_bbox": [
+        204.97,
+        134.13,
+        478.78,
+        552.71
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

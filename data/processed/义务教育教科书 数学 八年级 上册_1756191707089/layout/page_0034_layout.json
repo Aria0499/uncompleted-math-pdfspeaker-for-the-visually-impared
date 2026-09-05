@@ -1,0 +1,558 @@
+{
+  "page_id": 34,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动过程"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        149,
+        72,
+        267,
+        97
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        323,
+        221,
+        580,
+        297
+      ],
+      "model_image_bbox": [
+        168,
+        115,
+        302,
+        155
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        53.06,
+        139.25,
+        71.48
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "1.组建合作团队"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        116,
+        346,
+        137
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        367,
+        356,
+        752,
+        420
+      ],
+      "model_image_bbox": [
+        191,
+        185,
+        391,
+        219
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        85.49,
+        180.46,
+        100.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "本次综合与实践活动需要团队协作．在班级中组成5～8人一组的研究小组，每位同学参加其中一个小组，每个小组确定一名负责人."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        144,
+        918,
+        192
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        442,
+        1995,
+        589
+      ],
+      "model_image_bbox": [
+        138,
+        230,
+        1039,
+        307
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        106.12,
+        478.78,
+        141.49
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "2.方案构思"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        197,
+        302,
+        218
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        604,
+        656,
+        669
+      ],
+      "model_image_bbox": [
+        191,
+        315,
+        341,
+        348
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        145.18,
+        157.51,
+        160.66
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "小组成员进行充分的讨论与交流，集思广益，形成解决上述任务的方案."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        225,
+        894,
+        246
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        367,
+        690,
+        1943,
+        755
+      ],
+      "model_image_bbox": [
+        191,
+        360,
+        1012,
+        393
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        165.81,
+        466.27,
+        181.29
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "3.方案实施"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        253,
+        302,
+        272
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        367,
+        776,
+        656,
+        835
+      ],
+      "model_image_bbox": [
+        191,
+        404,
+        341,
+        435
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        186.45,
+        157.51,
+        200.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "按照小组设计的方案进行任务分工，使每位成员都有明确的任务．根据规划的研究步骤实施，完成活动任务，形成研究报告."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        279,
+        918,
+        329
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        265,
+        856,
+        1995,
+        1010
+      ],
+      "model_image_bbox": [
+        138,
+        446,
+        1039,
+        526
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        205.61,
+        478.78,
+        242.46
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "4.展示交流"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        335,
+        302,
+        354
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        367,
+        1028,
+        656,
+        1087
+      ],
+      "model_image_bbox": [
+        191,
+        536,
+        341,
+        566
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        246.88,
+        157.51,
+        260.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "制作向全班汇报的演示文稿，选出代表向全班同学展示本组的研究成果，分享实践过程中的活动经验、遇到的困难及其解决方法，反思活动中的不足."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        361,
+        914,
+        411
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        265,
+        1108,
+        1987,
+        1262
+      ],
+      "model_image_bbox": [
+        138,
+        577,
+        1034,
+        657
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        266.04,
+        476.7,
+        302.89
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动评价"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        421,
+        267,
+        446
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        319,
+        1292,
+        580,
+        1369
+      ],
+      "model_image_bbox": [
+        166,
+        673,
+        302,
+        713
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        310.26,
+        139.25,
+        328.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过成果展示与交流，基于各组完成的研究报告，根据情况选择任务完成表、表现评分表、自我反思表等进行评价．与老师和全班同学一起，通过质疑、辩论、评价，总结成果，分享体会，分析不足，开展自我评价、同学评价和教师评价，完成本次综合与实践活动."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        463,
+        918,
+        567
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        265,
+        1421,
+        1995,
+        1741
+      ],
+      "model_image_bbox": [
+        138,
+        740,
+        1039,
+        907
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        341.21,
+        478.78,
+        417.85
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        32
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "综合与实践 确定匀质薄板的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        570,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1239,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        645,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        297.28,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "27"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教章出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

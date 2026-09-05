@@ -1,0 +1,192 @@
+{
+  "page_id": 35,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "第十四章邨全等三角形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        83,
+        69,
+        624,
+        109
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        180,
+        211,
+        1356,
+        334
+      ],
+      "model_image_bbox": [
+        93,
+        110,
+        706,
+        174
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        50.85,
+        325.45,
+        80.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "铺设地面的方砖、钢架桥中的三角形结构、足球比赛的场地……，都能在其中找到形状、大小相同的图形的形象.形状、大小相同的图形是全等形.本章我们以全等三角形为例研究全等形，重点学习全等三角形的性质和判定三角形全等的方法."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        164,
+        874,
+        270
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        169,
+        503,
+        1900,
+        829
+      ],
+      "model_image_bbox": [
+        88,
+        262,
+        989,
+        432
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        120.86,
+        455.84,
+        198.98
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "上一章我们通过推理论证得到了三角形的内角和定理等重要结论．在本章推理论证将发挥更大的作用.我们将通过证明三角形全等来证明线段相等或角相等，利用全等三角形证明角的平分线的性质.通过本章的学习，你对三角形的认识会更加丰富，推理能力会进一步提升."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        277,
+        874,
+        387
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        169,
+        850,
+        1900,
+        1188
+      ],
+      "model_image_bbox": [
+        88,
+        443,
+        989,
+        619
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        204.14,
+        455.84,
+        285.2
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c74671c9c7ac88c3e673986a42d48f8b29d9f17ee7ba1c707f7b7b02ba015d52.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        0,
+        414,
+        1000,
+        996
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        0,
+        1271,
+        2173,
+        3058
+      ],
+      "model_image_bbox": [
+        0,
+        662,
+        1131,
+        1593
+      ],
+      "pdf_page_bbox": [
+        0.0,
+        305.1,
+        521.55,
+        734.0
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    }
+  ]
+}

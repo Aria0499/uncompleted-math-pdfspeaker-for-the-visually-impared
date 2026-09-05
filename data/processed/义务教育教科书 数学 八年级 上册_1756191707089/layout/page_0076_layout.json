@@ -1,0 +1,1021 @@
+{
+  "page_id": 76,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/0d722cc70553ce4389764cfa5866320faffd2cd26a5bef32bd6e916a2bc71d26.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        341,
+        494,
+        393,
+        524
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        741,
+        1517,
+        854,
+        1609
+      ],
+      "model_image_bbox": [
+        386,
+        790,
+        444,
+        838
+      ],
+      "pdf_page_bbox": [
+        177.85,
+        364.05,
+        204.97,
+        386.16
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        78,
+        250,
+        102
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        239,
+        543,
+        313
+      ],
+      "model_image_bbox": [
+        166,
+        124,
+        283,
+        163
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        57.48,
+        130.39,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．作出下列各图形的一条对称轴，和同学比较一下，你们作出的对称轴一样吗？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        116,
+        891,
+        164
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        356,
+        1937,
+        503
+      ],
+      "model_image_bbox": [
+        166,
+        185,
+        1008,
+        262
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        85.49,
+        464.7,
+        120.86
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1905337d15de5eb7d461941968d906c45636e74dc4a0a0173be3affc6c75a348.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        194,
+        184,
+        287,
+        239
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        421,
+        565,
+        623,
+        733
+      ],
+      "model_image_bbox": [
+        219,
+        294,
+        324,
+        382
+      ],
+      "pdf_page_bbox": [
+        101.18,
+        135.6,
+        149.69,
+        176.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7b89dc084f6eed195a24f81d3ea97035d6f0ba60d78810cd9799b20d2451a533.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        316,
+        184,
+        398,
+        239
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        686,
+        565,
+        865,
+        733
+      ],
+      "model_image_bbox": [
+        357,
+        294,
+        450,
+        382
+      ],
+      "pdf_page_bbox": [
+        164.81,
+        135.6,
+        207.58,
+        176.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2863b2e30c677c20ba065551c4a104c23888f5cb6ffe8f4e9a52a368f5b6946a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        425,
+        187,
+        503,
+        237
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        923,
+        574,
+        1093,
+        727
+      ],
+      "model_image_bbox": [
+        481,
+        299,
+        569,
+        379
+      ],
+      "pdf_page_bbox": [
+        221.66,
+        137.81,
+        262.34,
+        174.66
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5c47deacb7749b8e760611316c4cbe2b56c250c542deb50e69bd8960604e49c8.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        587,
+        192,
+        697,
+        239
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1276,
+        589,
+        1515,
+        733
+      ],
+      "model_image_bbox": [
+        664,
+        307,
+        789,
+        382
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        141.49,
+        363.52,
+        176.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cd476604991c9231f3e71179ac9fdc2f3b25f35c04097645487cd88cd1a98107.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        729,
+        190,
+        842,
+        255
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1584,
+        583,
+        1830,
+        783
+      ],
+      "model_image_bbox": [
+        825,
+        304,
+        953,
+        408
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        140.02,
+        439.15,
+        187.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2fb72ee52c61419b0bc771468f032c32cd989977a4b43414fbadbef15ca59635.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        218,
+        256,
+        302,
+        335
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        473,
+        786,
+        656,
+        1028
+      ],
+      "model_image_bbox": [
+        246,
+        409,
+        341,
+        536
+      ],
+      "pdf_page_bbox": [
+        113.7,
+        188.66,
+        157.51,
+        246.88
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/d00b103664a4ec34e447c2da9b464435fec4bde64e84588f2f3ebb93f99ad607.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        388,
+        270,
+        469,
+        322
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        843,
+        829,
+        1019,
+        988
+      ],
+      "model_image_bbox": [
+        439,
+        432,
+        530,
+        515
+      ],
+      "pdf_page_bbox": [
+        202.36,
+        198.98,
+        244.61,
+        237.3
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f67f6f66a061949eb23ac107d852ec9a8ca050a2153cb6399dc2a314f806ff18.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ]
+      },
+      "bbox": [
+        587,
+        265,
+        697,
+        315
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1276,
+        813,
+        1515,
+        967
+      ],
+      "model_image_bbox": [
+        664,
+        424,
+        789,
+        504
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        195.29,
+        363.52,
+        232.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3e28b26af5ec93ef6bf287e9847385f3ba49113fd80b5ae991b5b16198384ea7.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(4）"
+          },
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ]
+      },
+      "bbox": [
+        722,
+        260,
+        845,
+        314
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1569,
+        798,
+        1837,
+        964
+      ],
+      "model_image_bbox": [
+        817,
+        416,
+        956,
+        502
+      ],
+      "pdf_page_bbox": [
+        376.56,
+        191.61,
+        440.71,
+        231.4
+      ]
+    },
+    {
+      "type": "index",
+      "content": {
+        "list_type": "text_list",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "2.如图，与图形（1）成轴对称的是哪个图形？作出它们的对称轴."
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "3.尺规作图：经过已知直线上的一点作这条直线的垂线."
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        378,
+        820,
+        428
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        313,
+        1160,
+        1782,
+        1314
+      ],
+      "model_image_bbox": [
+        163,
+        604,
+        928,
+        684
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        278.57,
+        427.67,
+        315.42
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "习题 15.1"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        164,
+        496,
+        309,
+        520
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        356,
+        1523,
+        671,
+        1596
+      ],
+      "model_image_bbox": [
+        185,
+        793,
+        349,
+        832
+      ],
+      "pdf_page_bbox": [
+        85.53,
+        365.53,
+        161.16,
+        383.22
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        149,
+        539,
+        260,
+        560
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        323,
+        1655,
+        565,
+        1719
+      ],
+      "model_image_bbox": [
+        168,
+        862,
+        294,
+        896
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        397.22,
+        135.6,
+        412.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．下的图形是轴对称图形吗？如果是，画出它的对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        572,
+        690,
+        592
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        319,
+        1756,
+        1500,
+        1818
+      ],
+      "model_image_bbox": [
+        166,
+        915,
+        781,
+        947
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        421.54,
+        359.87,
+        436.28
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/238f6e91bfb4cb4c59465646b3ef366651a6bdae00e95283d58791015e716ae8.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        171,
+        602,
+        302,
+        684
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        371,
+        1848,
+        656,
+        2100
+      ],
+      "model_image_bbox": [
+        193,
+        963,
+        341,
+        1094
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        443.65,
+        157.51,
+        504.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/bdedcaf8bf164c47bcaab661e9003e4efd076136d4c9cf08ca6c2404b0c7b2f4.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        329,
+        602,
+        459,
+        684
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        715,
+        1848,
+        997,
+        2100
+      ],
+      "model_image_bbox": [
+        372,
+        963,
+        519,
+        1094
+      ],
+      "pdf_page_bbox": [
+        171.59,
+        443.65,
+        239.39,
+        504.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5b17db82243244731a9fb9565cf0c58e6f15737f2df8df8bc7888b9e8e300f7f.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        476,
+        600,
+        599,
+        687
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1034,
+        1842,
+        1302,
+        2109
+      ],
+      "model_image_bbox": [
+        538,
+        960,
+        678,
+        1099
+      ],
+      "pdf_page_bbox": [
+        248.26,
+        442.17,
+        312.41,
+        506.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/0119e3b50d0c6750e32aa7eee5dffa0152181050a6cc8a0a78cccf1b7abe89c9.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        614,
+        600,
+        732,
+        684
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1334,
+        1842,
+        1591,
+        2100
+      ],
+      "model_image_bbox": [
+        695,
+        960,
+        828,
+        1094
+      ],
+      "pdf_page_bbox": [
+        320.23,
+        442.17,
+        381.78,
+        504.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1d6fb6eeb835500752a860abf9fdb5e477f159ad35947c7c6fc5c8e614f3de46.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        749,
+        600,
+        869,
+        684
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1628,
+        1842,
+        1889,
+        2100
+      ],
+      "model_image_bbox": [
+        847,
+        960,
+        983,
+        1094
+      ],
+      "pdf_page_bbox": [
+        390.64,
+        442.17,
+        453.23,
+        504.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.图中有阴影的三角形与哪些三角形成轴对称？如果把4个三角形看成一个整体，它是轴对称图形吗？共有几条对称轴？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        729,
+        891,
+        774
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        319,
+        2238,
+        1937,
+        2376
+      ],
+      "model_image_bbox": [
+        166,
+        1166,
+        1008,
+        1238
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        537.24,
+        464.7,
+        570.4
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ec409aa2cca192f399a13f5d947e87ae0f2e319b91af773d06056547fa58af75.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第2题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        420,
+        779,
+        619,
+        862
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        913,
+        2392,
+        1345,
+        2647
+      ],
+      "model_image_bbox": [
+        475,
+        1246,
+        700,
+        1379
+      ],
+      "pdf_page_bbox": [
+        219.05,
+        574.09,
+        322.84,
+        635.25
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        1584,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "69"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

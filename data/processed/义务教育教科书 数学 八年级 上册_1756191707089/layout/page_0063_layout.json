@@ -1,0 +1,581 @@
+{
+  "page_id": 63,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "数学活动"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        108,
+        74,
+        351,
+        109
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        234,
+        227,
+        763,
+        334
+      ],
+      "model_image_bbox": [
+        122,
+        118,
+        397,
+        174
+      ],
+      "pdf_page_bbox": [
+        56.33,
+        54.53,
+        183.06,
+        80.33
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动1利用全等设计图案"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        138,
+        415,
+        163
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        206,
+        423,
+        902,
+        500
+      ],
+      "model_image_bbox": [
+        107,
+        220,
+        469,
+        260
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        101.7,
+        216.44,
+        120.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图1是两个根据全等形设计的图案.仔细观察一下，每个图案中有哪些全等形？有哪些全等三角形？你能类似地设计一些图案吗?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        178,
+        850,
+        230
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        223,
+        546,
+        1847,
+        706
+      ],
+      "model_image_bbox": [
+        116,
+        284,
+        962,
+        368
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        131.18,
+        443.32,
+        169.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "注意一下你的身边，哪些是全等形？哪些是全等三角形？各找几个例子与同学交流."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        236,
+        847,
+        286
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        223,
+        724,
+        1841,
+        878
+      ],
+      "model_image_bbox": [
+        116,
+        377,
+        958,
+        457
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        173.92,
+        441.75,
+        210.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/82b68b8e202596667886fca36a5c47b7d3781ed7a944f7e7fb86db53d9600cd3.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        250,
+        291,
+        420,
+        409
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        543,
+        893,
+        913,
+        1256
+      ],
+      "model_image_bbox": [
+        283,
+        465,
+        475,
+        654
+      ],
+      "pdf_page_bbox": [
+        130.39,
+        214.45,
+        219.05,
+        301.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/86233da5319abb4168c4dd480d0dfe14ec2cc9e84ecb44a1b4ec77ba7e9f2c77.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        533,
+        295,
+        700,
+        413
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1158,
+        905,
+        1521,
+        1268
+      ],
+      "model_image_bbox": [
+        603,
+        472,
+        792,
+        660
+      ],
+      "pdf_page_bbox": [
+        277.99,
+        217.4,
+        365.09,
+        304.36
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动2用全等三角形证明拼图猜想"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        461,
+        523,
+        486
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        206,
+        1415,
+        1137,
+        1492
+      ],
+      "model_image_bbox": [
+        107,
+        737,
+        592,
+        777
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        339.73,
+        272.77,
+        358.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图2， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\cong } \\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "．把 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "剪下来，用它们拼图，使边BC 与边 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "重合，顶点A与顶点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "不重合，画出你拼出的图形.在你画出的图形中，连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，用测量、折纸等方法猜想BC，"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "有什么关系，然后用全等三角形的知识证明你的猜想."
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        501,
+        850,
+        612
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        217,
+        1538,
+        1847,
+        1879
+      ],
+      "model_image_bbox": [
+        113,
+        801,
+        962,
+        979
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        369.21,
+        443.32,
+        451.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/79b64831f3e118d50b18ef1ef36d361cdb448300935e1361bcabaf035c3af75a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        280,
+        619,
+        420,
+        699
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        608,
+        1900,
+        913,
+        2146
+      ],
+      "model_image_bbox": [
+        316,
+        990,
+        475,
+        1118
+      ],
+      "pdf_page_bbox": [
+        146.03,
+        456.17,
+        219.05,
+        515.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6a555c861386ac335c88c877b3c3874073f53a9bb627f84fbfa66ab0ffda93b4.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        511,
+        619,
+        658,
+        699
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1110,
+        1900,
+        1430,
+        2146
+      ],
+      "model_image_bbox": [
+        578,
+        990,
+        744,
+        1118
+      ],
+      "pdf_page_bbox": [
+        266.51,
+        456.17,
+        343.18,
+        515.13
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "56"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        954
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2929
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1526
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

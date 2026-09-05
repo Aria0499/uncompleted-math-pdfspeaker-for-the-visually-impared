@@ -1,0 +1,624 @@
+{
+  "page_id": 3,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5750122070312,
+  "pdf_page_height": 737.008056640625,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "顾问：林群田刚"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        72,
+        356,
+        93
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        217,
+        221,
+        773,
+        285
+      ],
+      "model_image_bbox": [
+        113,
+        115,
+        402,
+        148
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        53.06,
+        185.68,
+        68.54
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "主编：王长平"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        97,
+        277,
+        118
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        217,
+        297,
+        602,
+        362
+      ],
+      "model_image_bbox": [
+        113,
+        155,
+        313,
+        188
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        71.49,
+        144.48,
+        86.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "执行主编：李海东"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        121,
+        275,
+        142
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        217,
+        371,
+        597,
+        436
+      ],
+      "model_image_bbox": [
+        113,
+        193,
+        311,
+        227
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        89.18,
+        143.43,
+        104.66
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分册主编：孙延洲"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        145,
+        275,
+        166
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        217,
+        445,
+        597,
+        509
+      ],
+      "model_image_bbox": [
+        113,
+        232,
+        311,
+        265
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        106.87,
+        143.43,
+        122.34
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "编写人员（以姓氏笔画为序）：王嵘王用华刘长明孙延洲胡红芳姚芳袁亚良薛彬"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        194,
+        518,
+        265
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        217,
+        595,
+        1126,
+        813
+      ],
+      "model_image_bbox": [
+        113,
+        310,
+        586,
+        424
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        142.98,
+        270.18,
+        195.31
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "责任编辑：张伟"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        291,
+        275,
+        314
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        217,
+        893,
+        597,
+        964
+      ],
+      "model_image_bbox": [
+        113,
+        465,
+        311,
+        502
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        214.47,
+        143.43,
+        231.42
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "责任设计：王俊宏"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        315,
+        275,
+        338
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        217,
+        967,
+        597,
+        1037
+      ],
+      "model_image_bbox": [
+        113,
+        504,
+        311,
+        540
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        232.16,
+        143.43,
+        249.11
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "责任校对：田莉"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        340,
+        275,
+        362
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        217,
+        1044,
+        597,
+        1111
+      ],
+      "model_image_bbox": [
+        113,
+        544,
+        311,
+        579
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        250.58,
+        143.43,
+        266.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "责任印制：×××"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        366,
+        270,
+        387
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        217,
+        1123,
+        586,
+        1188
+      ],
+      "model_image_bbox": [
+        113,
+        585,
+        305,
+        619
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        269.74,
+        140.83,
+        285.22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "义务教育教科书 数学 八年级 上册"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        520,
+        407,
+        539
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        217,
+        1596,
+        884,
+        1655
+      ],
+      "model_image_bbox": [
+        113,
+        832,
+        460,
+        862
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        383.24,
+        212.28,
+        397.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社课程教材研究所编著"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        539,
+        425,
+        559
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        217,
+        1655,
+        923,
+        1716
+      ],
+      "model_image_bbox": [
+        113,
+        862,
+        481,
+        894
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        397.25,
+        221.67,
+        411.99
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "出版人民育版社"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        581,
+        339,
+        598
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        217,
+        1784,
+        736,
+        1836
+      ],
+      "model_image_bbox": [
+        113,
+        929,
+        383,
+        956
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        428.2,
+        176.81,
+        440.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（北京市海淀区中关村南大街17号院1号楼邮编：100081）"
+          }
+        ]
+      },
+      "bbox": [
+        110,
+        602,
+        668,
+        619
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        239,
+        1848,
+        1452,
+        1900
+      ],
+      "model_image_bbox": [
+        124,
+        963,
+        756,
+        990
+      ],
+      "pdf_page_bbox": [
+        57.37,
+        443.68,
+        348.41,
+        456.21
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "网址http://www.pep.com.cn"
+          }
+        ]
+      },
+      "bbox": [
+        100,
+        621,
+        356,
+        640
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        217,
+        1907,
+        773,
+        1965
+      ],
+      "model_image_bbox": [
+        113,
+        993,
+        402,
+        1024
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        457.68,
+        185.68,
+        471.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "版权所有·侵权必究"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        887,
+        267,
+        904
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        223,
+        2723,
+        580,
+        2776
+      ],
+      "model_image_bbox": [
+        116,
+        1419,
+        302,
+        1446
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        653.73,
+        139.26,
+        666.26
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        32
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.33,
+        23.58
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.74,
+        334.33,
+        731.85
+      ]
+    }
+  ]
+}

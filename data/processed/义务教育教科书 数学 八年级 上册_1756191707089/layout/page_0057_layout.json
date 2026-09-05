@@ -1,0 +1,910 @@
+{
+  "page_id": 57,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/18ab9abbd3d67fecd9a031487fd100cfc1f9f463e04e77a7d4e6f0fdccd19a37.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        103,
+        487,
+        142,
+        512
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        223,
+        1495,
+        308,
+        1572
+      ],
+      "model_image_bbox": [
+        116,
+        779,
+        160,
+        819
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        358.9,
+        74.06,
+        377.32
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "证明： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\because O C"
+          },
+          {
+            "type": "text",
+            "content": "是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        67,
+        491,
+        88
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        205,
+        1067,
+        270
+      ],
+      "model_image_bbox": [
+        141,
+        107,
+        555,
+        140
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        49.38,
+        256.08,
+        64.85
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A O C = \\angle B O C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/31be40b1357397c50c2022627fb1b560273e2f5b4f7731d957a1bc2d38bdd716.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        97,
+        353,
+        116
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        276,
+        297,
+        767,
+        356
+      ],
+      "model_image_bbox": [
+        143,
+        155,
+        399,
+        185
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        71.48,
+        184.11,
+        85.49
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\because P D \\perp O A , P E \\perp O B ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/116d0958f850323d618726bb6043f01e83937c0700b51d5d962186a1ff830feb.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        125,
+        398,
+        144
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        276,
+        383,
+        865,
+        442
+      ],
+      "model_image_bbox": [
+        143,
+        200,
+        450,
+        230
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        92.12,
+        207.58,
+        106.12
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle P D O = \\angle P E O = 9 0 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/405a65b29fbe49d050be81405e4db9f0b66312d5b389233120c14be5542cd383.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        152,
+        410,
+        173
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        276,
+        466,
+        891,
+        531
+      ],
+      "model_image_bbox": [
+        143,
+        243,
+        464,
+        276
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        112.02,
+        213.84,
+        127.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O P D }"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C P E"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        182,
+        373,
+        201
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        271,
+        558,
+        810,
+        617
+      ],
+      "model_image_bbox": [
+        141,
+        291,
+        422,
+        321
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        134.13,
+        194.54,
+        148.13
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\left\\{ \\begin{array} { l l } { \\angle A O C = \\angle B O C , } \\\\ { \\angle P D O = \\angle P E O , } \\\\ { O P = O P , } \\end{array} \\right.",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/6a190136dbc39fbab34ec3b8ed1190ba4da497ddaeecebf4495f229ff747470e.jpg"
+        }
+      },
+      "bbox": [
+        171,
+        210,
+        371,
+        286
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        371,
+        644,
+        806,
+        878
+      ],
+      "model_image_bbox": [
+        193,
+        336,
+        419,
+        457
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        154.76,
+        193.5,
+        210.77
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\ \\triangle { O P D } \\cong \\triangle { O P E } ( \\mathrm { A A S } ) .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/107a1c8f42079903860598b9c36d24b34699ae87b14d64383a75d05821384b32.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        295,
+        447,
+        315
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        276,
+        905,
+        971,
+        967
+      ],
+      "model_image_bbox": [
+        143,
+        472,
+        506,
+        504
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        217.4,
+        233.13,
+        232.14
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\quad P D = P E .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/47a29ab8d39351a518e596f233a9c055f350eb0b499c34f5aca9291a9dce78b1.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        324,
+        280,
+        343
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        276,
+        995,
+        608,
+        1053
+      ],
+      "model_image_bbox": [
+        143,
+        518,
+        316,
+        548
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        238.77,
+        146.03,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一般情况下，要证明一个几何命题时，可以按照类似的步骤进行，即"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        364,
+        820,
+        385
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1117,
+        1782,
+        1182
+      ],
+      "model_image_bbox": [
+        141,
+        582,
+        928,
+        616
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        268.25,
+        427.67,
+        283.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．明确命题中的已知和求证；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        392,
+        427,
+        413
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        271,
+        1203,
+        928,
+        1268
+      ],
+      "model_image_bbox": [
+        141,
+        627,
+        483,
+        660
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        288.89,
+        222.7,
+        304.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.根据题意，画出图形，并用数学符号表示已知和求证；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        421,
+        700,
+        442
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        1292,
+        1521,
+        1357
+      ],
+      "model_image_bbox": [
+        141,
+        673,
+        792,
+        707
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        310.26,
+        365.09,
+        325.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.经过分析，找出由已知推出要证的结论的途径，写出证明过程."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        449,
+        786,
+        470
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        1378,
+        1708,
+        1443
+      ],
+      "model_image_bbox": [
+        141,
+        718,
+        889,
+        752
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        330.89,
+        409.94,
+        346.37
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        100,
+        487,
+        206,
+        512
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        217,
+        1495,
+        447,
+        1572
+      ],
+      "model_image_bbox": [
+        113,
+        779,
+        233,
+        819
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        358.9,
+        107.44,
+        377.32
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，在直线MN上求作一点P，使点P在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的内部，且点P到射线OA和OB 的距离相等."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        526,
+        847,
+        574
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        223,
+        1615,
+        1841,
+        1762
+      ],
+      "model_image_bbox": [
+        116,
+        841,
+        958,
+        918
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        387.64,
+        441.75,
+        423.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2356c8c2befd230d7ff5b0e9fe16f2769ae1ff4502929654d0b08493292bb232.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        243,
+        600,
+        415,
+        684
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        528,
+        1842,
+        902,
+        2100
+      ],
+      "model_image_bbox": [
+        275,
+        960,
+        469,
+        1094
+      ],
+      "pdf_page_bbox": [
+        126.74,
+        442.17,
+        216.44,
+        504.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ba8cb1bc036d1165c6d0b46f35b2922d5d0896dccc7e68980ca894e9f988498e.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        479,
+        569,
+        710,
+        687
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1041,
+        1747,
+        1543,
+        2109
+      ],
+      "model_image_bbox": [
+        542,
+        910,
+        803,
+        1099
+      ],
+      "pdf_page_bbox": [
+        249.82,
+        419.33,
+        370.3,
+        506.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，OC是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线，点P在OC上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P D \\perp O A , \\ P E \\perp O B"
+          },
+          {
+            "type": "text",
+            "content": ",垂足分别为D，E.点F，G分别在OA，OB上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D F = E G"
+          },
+          {
+            "type": "text",
+            "content": "，连接PF，PG.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P F { = } P G"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        713,
+        850,
+        791
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        223,
+        2189,
+        1847,
+        2429
+      ],
+      "model_image_bbox": [
+        116,
+        1140,
+        962,
+        1265
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        525.45,
+        443.32,
+        582.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，角的平分线上的点到角两边的距离相等．反过来，交换这个性质的题设和结论，得到的命题还成立吗？也就是说，到角两边距离相等的点一定在角的平分线上吗?"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        833,
+        874,
+        911
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        169,
+        2558,
+        1900,
+        2797
+      ],
+      "model_image_bbox": [
+        88,
+        1332,
+        989,
+        1457
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        613.88,
+        455.84,
+        671.36
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "50"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        184,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        96,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    }
+  ]
+}

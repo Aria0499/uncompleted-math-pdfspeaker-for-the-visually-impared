@@ -1,0 +1,336 @@
+{
+  "page_id": 4,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "致同学"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        457,
+        69,
+        582,
+        98
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        993,
+        211,
+        1265,
+        300
+      ],
+      "model_image_bbox": [
+        517,
+        110,
+        658,
+        156
+      ],
+      "pdf_page_bbox": [
+        238.35,
+        50.85,
+        303.54,
+        72.22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "亲爱的同学，八年级的数学学习开始了．在本学期，我们将要学习哪些内容？快来了解一下吧."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        166,
+        914,
+        215
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        509,
+        1987,
+        660
+      ],
+      "model_image_bbox": [
+        141,
+        265,
+        1034,
+        344
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        122.33,
+        476.7,
+        158.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "相信你对三角形并不陌生，比如我们在小学已经学过“三角形的内角和等于180°”，怎样证明这个结论呢？在“三角形”中，你不仅能够解决这个问题，而且能够学到研究几何图形的重要思想和方法．“全等三角形”将带你认识全等这种图形间特殊的关系，获得判断两个三角形全等的方法，探索并证明角的平分线的性质．学习了这些内容，你的推理能力和解决问题的能力会进一步提升."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        220,
+        916,
+        378
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        675,
+        1991,
+        1160
+      ],
+      "model_image_bbox": [
+        138,
+        352,
+        1036,
+        604
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        162.13,
+        477.74,
+        278.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在我们周围的世界中，你会看到许多美丽的轴对称图形，在“轴对称”中，你将学习轴对称这种图形变化，并利用它研究等腰三角形这种特殊的三角形.学习了这些内容，你感知并描述图形运动和变化规律的能力以及推理能力会进一步提升."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        385,
+        916,
+        487
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        1182,
+        1991,
+        1495
+      ],
+      "model_image_bbox": [
+        141,
+        616,
+        1036,
+        779
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        283.73,
+        477.74,
+        358.9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们已经学习了整式这种基本的代数式，学习了整式的加减运算，在“整式的乘法”中，你将类比数的运算，进一步学习整式的乘除运算，学习一些重要的运算性质和公式，加深对“从数到式”这个由具体到抽象的过程的认识.在“因式分解”中，你将学习因式分解这种与整式乘法方向相反的变形．通过这些内容的学习，你的运算能力会进一步提升."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        493,
+        918,
+        625
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        1514,
+        1995,
+        1919
+      ],
+      "model_image_bbox": [
+        138,
+        788,
+        1039,
+        1000
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        363.32,
+        478.78,
+        460.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "数有整数与分数之分，式也有整式与分式之别．在“分式”中，你将类比分数的概念、性质、运算，学习分式的概念、性质、运算，并学习通过建立分式方程解决实际问题．通过这些内容的学习，你的运算能力以及应用数学的概念、原理和方法解决实际问题的能力会进一步提升."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        630,
+        918,
+        734
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        265,
+        1934,
+        1995,
+        2254
+      ],
+      "model_image_bbox": [
+        138,
+        1008,
+        1039,
+        1174
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        464.28,
+        478.78,
+        540.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "此外，综合与实践“确定匀质薄板的重心位置”将带你了解重心的概念，探究确定平面组合图形重心位置的方法；“最短路径问题”将带你利用轴对称和平移的相关知识解决生活中的最短路径问题，感受数学的广泛应用."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        739,
+        916,
+        814
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        265,
+        2269,
+        1991,
+        2499
+      ],
+      "model_image_bbox": [
+        138,
+        1182,
+        1036,
+        1302
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        544.61,
+        477.74,
+        599.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "数学伴着我们成长，数学伴着我们进步，数学伴着我们成功．让我们扬帆起航，开启一段新的数学之旅吧！"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        821,
+        916,
+        869
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        2521,
+        1991,
+        2668
+      ],
+      "model_image_bbox": [
+        138,
+        1313,
+        1036,
+        1390
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        605.04,
+        477.74,
+        640.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4ca4729a4b25b492666b1d8c40ab100cd9380aeac75c148ecc593512cc9d33df.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "page_id": 64,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "小结"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        469,
+        81,
+        570,
+        112
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        1019,
+        248,
+        1239,
+        343
+      ],
+      "model_image_bbox": [
+        530,
+        129,
+        645,
+        179
+      ],
+      "pdf_page_bbox": [
+        244.61,
+        59.69,
+        297.28,
+        82.54
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "一、本章知识结构图"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        140,
+        156,
+        388,
+        180
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        304,
+        479,
+        843,
+        552
+      ],
+      "model_image_bbox": [
+        158,
+        249,
+        439,
+        288
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        114.96,
+        202.36,
+        132.65
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/088183d9af4edbae1709199766384d4358813d9c1c779588fdf92d3044392106.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        245,
+        199,
+        791,
+        381
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        532,
+        611,
+        1719,
+        1170
+      ],
+      "model_image_bbox": [
+        277,
+        318,
+        895,
+        609
+      ],
+      "pdf_page_bbox": [
+        127.78,
+        146.65,
+        412.55,
+        280.78
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "二、回顾与思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        140,
+        397,
+        336,
+        421
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        304,
+        1219,
+        730,
+        1292
+      ],
+      "model_image_bbox": [
+        158,
+        635,
+        380,
+        673
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        292.57,
+        175.24,
+        310.26
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "本章我们首先通过生活实例认识了全等形，了解了全等三角形及其性质．然后，从定义出发，利用几何直观，得出了判定三角形全等的基本事实（“边角边”“角边角”“边边边”）；由“角边角”的基本事实，通过推理论证得到了“角角边”的判定方法；并通过证明三角形全等得出线段相等或角相等．最后，利用全等三角形的知识进一步研究了角的平分线."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        444,
+        894,
+        609
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        1363,
+        1943,
+        1870
+      ],
+      "model_image_bbox": [
+        166,
+        710,
+        1012,
+        974
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        327.21,
+        466.27,
+        448.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角形的三条边、三个角之间的关系刻画了三角形的性质，全等三角形的性质也是用它们的对应边、对应角之间的关系刻画的．由全等三角形的性质可知，如果两个三角形全等，那么它们的对应边相等，对应角相等．三角形全等的判定方法则指明了两个三角形的边、角分别满足什么条件时这两个三角形全等．对于直角三角形的全等，还可以用“斜边、直角边”来判定."
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        614,
+        891,
+        781
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        313,
+        1885,
+        1937,
+        2398
+      ],
+      "model_image_bbox": [
+        163,
+        982,
+        1008,
+        1249
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        452.49,
+        464.7,
+        575.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "先判定两个三角形全等，再利用全等三角形的性质，可以证明线段相等或角相等，角的平分线的性质就是用这种方法证明的．今后，我们经常使用这种利用三角形全等研究图形性质的方法，以进一步提升我们的推理能力."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        786,
+        894,
+        895
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        2413,
+        1943,
+        2748
+      ],
+      "model_image_bbox": [
+        166,
+        1257,
+        1012,
+        1432
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        579.24,
+        466.27,
+        659.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        32
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章 全等三形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教章出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "page_id": 85,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.3 等腰三角形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        69,
+        442,
+        104
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        211,
+        960,
+        319
+      ],
+      "model_image_bbox": [
+        91,
+        110,
+        500,
+        166
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        50.85,
+        230.53,
+        76.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "有些几何图形是轴对称图形，利用它们的轴对称性，可以帮助我们研究图形的性质.本节我们利用轴对称研究等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        260,
+        157,
+        874,
+        237
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        565,
+        482,
+        1900,
+        727
+      ],
+      "model_image_bbox": [
+        294,
+        251,
+        989,
+        379
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        115.7,
+        455.84,
+        174.66
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.3.1 等腰三角形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        263,
+        378,
+        286
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        276,
+        807,
+        821,
+        878
+      ],
+      "model_image_bbox": [
+        143,
+        420,
+        427,
+        457
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        193.82,
+        197.15,
+        210.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，有两边相等的三角形是等腰三角形.等腰三角形是一种特殊的三角形，它除了具有一般三角形的性质，还有一些特殊的性质."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        295,
+        872,
+        345
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        176,
+        905,
+        1895,
+        1059
+      ],
+      "model_image_bbox": [
+        91,
+        472,
+        987,
+        552
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        217.4,
+        454.79,
+        254.25
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        359,
+        201,
+        383
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        206,
+        1102,
+        436,
+        1176
+      ],
+      "model_image_bbox": [
+        107,
+        574,
+        227,
+        612
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        264.57,
+        104.83,
+        282.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.3-1，在纸上画一个等腰三角形，把它剪下来.将这个等腰三角形对折，使它的两腰重合，再展开，找出其中重合的线段和角."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        395,
+        518,
+        503
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        1213,
+        1126,
+        1544
+      ],
+      "model_image_bbox": [
+        116,
+        632,
+        586,
+        804
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        291.1,
+        270.16,
+        370.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由这些重合的线段和角，你能发现等腰三角形的性质吗？说一说你的猜想."
+          }
+        ]
+      },
+      "bbox": [
+        105,
+        510,
+        518,
+        559
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        228,
+        1566,
+        1126,
+        1716
+      ],
+      "model_image_bbox": [
+        118,
+        816,
+        586,
+        894
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        375.85,
+        270.16,
+        411.96
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/d26f49f0d719c9febf81e33b764096bcbe02acb9b288d77ad21252a2d9afa01a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.3-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        545,
+        404,
+        835,
+        491
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1184,
+        1240,
+        1815,
+        1507
+      ],
+      "model_image_bbox": [
+        616,
+        646,
+        945,
+        785
+      ],
+      "pdf_page_bbox": [
+        284.25,
+        297.73,
+        435.5,
+        361.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们可以发现等腰三角形的性质："
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        574,
+        466,
+        595
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        271,
+        1762,
+        1013,
+        1827
+      ],
+      "model_image_bbox": [
+        141,
+        918,
+        527,
+        952
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        423.01,
+        243.04,
+        438.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "等腰三角形的两个底角相等（简写成“等边对等角”）；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        602,
+        683,
+        623
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1848,
+        1484,
+        1913
+      ],
+      "model_image_bbox": [
+        141,
+        963,
+        773,
+        996
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        443.65,
+        356.22,
+        459.12
+      ]
+    },
+    {
+      "type": "list",
+      "content": {
+        "list_type": "text_list",
+        "attribute": "unordered",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "等腰三角形底边上的中线、高及顶角平分线重合（简写成“三线合”）."
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "由上面的探究过程获得启发，可以利用三角形的全等证明这些性质."
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        630,
+        859,
+        680
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        271,
+        1934,
+        1867,
+        2088
+      ],
+      "model_image_bbox": [
+        141,
+        1008,
+        972,
+        1088
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        464.28,
+        448.01,
+        501.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.3-2，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } A C"
+          },
+          {
+            "type": "text",
+            "content": "，作底边BC的中线AD，则BD=CD."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        687,
+        852,
+        708
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        2109,
+        1852,
+        2174
+      ],
+      "model_image_bbox": [
+        141,
+        1099,
+        964,
+        1132
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        506.29,
+        444.36,
+        521.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A C D"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        715,
+        375,
+        736
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        2195,
+        815,
+        2260
+      ],
+      "model_image_bbox": [
+        141,
+        1144,
+        424,
+        1177
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        526.92,
+        195.58,
+        542.4
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\left\\{ \\begin{array} { l l } { A B = A C , } \\\\ { B D = C D , } \\\\ { A D = A D , } \\end{array} \\right.",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/540339298f7d51a6f73ff4da26712b955bce49ac24763baad77e661616bddd7e.jpg"
+        }
+      },
+      "bbox": [
+        171,
+        744,
+        294,
+        821
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        371,
+        2284,
+        639,
+        2521
+      ],
+      "model_image_bbox": [
+        193,
+        1190,
+        332,
+        1313
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        548.29,
+        153.34,
+        605.04
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\Delta A B D \\cong \\Delta A C D ( \\mathrm { S S S } ) .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/75507d5f03df6119f9822c475a3607a4ee09633352cdd77f1aed4cd975e0730f.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        829,
+        429,
+        850
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        276,
+        2545,
+        932,
+        2610
+      ],
+      "model_image_bbox": [
+        143,
+        1326,
+        485,
+        1360
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        610.93,
+        223.75,
+        626.41
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle B = \\angle C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/d51b75270d3587df481f7db215acaacd776d608d43dc276737e78e715c4be911.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        857,
+        289,
+        878
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        282,
+        2631,
+        628,
+        2696
+      ],
+      "model_image_bbox": [
+        147,
+        1371,
+        327,
+        1404
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        631.57,
+        150.73,
+        647.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3faa6bb10f82043d8677fa840393246824c433941f54e32ceb0fdd4114f292de.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.3-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        685,
+        717,
+        823,
+        850
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1489,
+        2201,
+        1789,
+        2610
+      ],
+      "model_image_bbox": [
+        775,
+        1147,
+        931,
+        1360
+      ],
+      "pdf_page_bbox": [
+        357.26,
+        528.39,
+        429.24,
+        626.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "这样就证明了“等边对等角”."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        887,
+        427,
+        907
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        271,
+        2723,
+        928,
+        2785
+      ],
+      "model_image_bbox": [
+        141,
+        1419,
+        483,
+        1451
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        653.68,
+        222.7,
+        668.42
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "78"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        270,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        276,
+        2883,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

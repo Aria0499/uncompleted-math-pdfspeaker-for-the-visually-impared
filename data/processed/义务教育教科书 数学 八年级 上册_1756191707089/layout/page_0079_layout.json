@@ -1,0 +1,701 @@
+{
+  "page_id": 79,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.2 画轴对称的图形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        71,
+        533,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        218,
+        1158,
+        313
+      ],
+      "model_image_bbox": [
+        91,
+        113,
+        603,
+        163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        52.32,
+        277.99,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用轴对称的定义，并结合轴对称的性质，可以画出与已知图形关于某条直线对称的图形，并进一步解决有关的问题."
+          }
+        ]
+      },
+      "bbox": [
+        260,
+        157,
+        874,
+        236
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        565,
+        482,
+        1900,
+        724
+      ],
+      "model_image_bbox": [
+        294,
+        251,
+        989,
+        377
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        115.7,
+        455.84,
+        173.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/dabce87ccf77918c43710cb6ba469a6197eeac69ecbe075b40a8155cefd1b25a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        265,
+        135,
+        288
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        213,
+        813,
+        293,
+        884
+      ],
+      "model_image_bbox": [
+        110,
+        424,
+        152,
+        460
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        195.29,
+        70.41,
+        212.24
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        265,
+        201,
+        288
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        213,
+        813,
+        436,
+        884
+      ],
+      "model_image_bbox": [
+        110,
+        424,
+        227,
+        460
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        195.29,
+        104.83,
+        212.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "已知一个图形和一条直线，如何画出与这个图形关于这条直线对称的图形呢？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        298,
+        847,
+        348
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        223,
+        915,
+        1841,
+        1068
+      ],
+      "model_image_bbox": [
+        116,
+        476,
+        958,
+        556
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        219.61,
+        441.75,
+        256.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "可以通过折叠画出与一个图形成轴对称的图形.如图15.2-1，在一张半透明的纸的左边，画一只左脚印，把这张纸对折后描图，打开对折的纸，就可以得到与左脚印对称的右脚印，折痕所在直线就是它们的对称轴，并且连接任意一对对称点的线段被对称轴垂直平分."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        364,
+        646,
+        500
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        169,
+        1117,
+        1404,
+        1535
+      ],
+      "model_image_bbox": [
+        88,
+        582,
+        731,
+        800
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        268.25,
+        336.92,
+        368.48
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/21d8b23fa781fa2fedcdba1264a21f2eb44045ae382753fbaa938df1a981a108.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.2-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        663,
+        364,
+        867,
+        480
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1441,
+        1117,
+        1884,
+        1474
+      ],
+      "model_image_bbox": [
+        750,
+        582,
+        981,
+        768
+      ],
+      "pdf_page_bbox": [
+        345.79,
+        268.25,
+        452.19,
+        353.74
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "几何图形都可以看作由点组成．对于一些规则的几"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        505,
+        646,
+        527
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1550,
+        1404,
+        1618
+      ],
+      "model_image_bbox": [
+        141,
+        808,
+        731,
+        843
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        372.16,
+        336.92,
+        388.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "何图形，与画平移后的图形类似，只要画出图形中的一些特殊点（如线段端点）的对称点，连接这些对称点，就可以得到与原图形成轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        534,
+        872,
+        585
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        176,
+        1639,
+        1895,
+        1796
+      ],
+      "model_image_bbox": [
+        91,
+        854,
+        987,
+        936
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        393.53,
+        454.79,
+        431.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例1如图15.2-2（1)，已知 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和直线，画出与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "关于直线对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        592,
+        872,
+        640
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        176,
+        1818,
+        1895,
+        1965
+      ],
+      "model_image_bbox": [
+        91,
+        947,
+        987,
+        1024
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        436.28,
+        454.79,
+        471.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "由三个顶点的位置确定，只要分别画出这三个顶点关于直线的对称点，连接这些对称点，就能得到要画的图形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        649,
+        872,
+        697
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        176,
+        1993,
+        1895,
+        2140
+      ],
+      "model_image_bbox": [
+        91,
+        1038,
+        987,
+        1115
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        478.28,
+        454.79,
+        513.66
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/620d90ef0af1181a013cc709363d790b81c85fb19301bd0b45ed6d4a33b04941.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        243,
+        751,
+        439,
+        828
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        528,
+        2306,
+        954,
+        2542
+      ],
+      "model_image_bbox": [
+        275,
+        1201,
+        496,
+        1324
+      ],
+      "pdf_page_bbox": [
+        126.74,
+        553.45,
+        228.96,
+        610.2
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ffc15f9d54de6b48bc4f7ca98a53b0a233e4002ddd4ebcfcb99d93b6fd32ba15.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(2)"
+          },
+          {
+            "type": "text",
+            "content": "图15.2-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        515,
+        706,
+        710,
+        843
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1119,
+        2168,
+        1543,
+        2588
+      ],
+      "model_image_bbox": [
+        582,
+        1129,
+        803,
+        1348
+      ],
+      "pdf_page_bbox": [
+        268.6,
+        520.29,
+        370.3,
+        621.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "画法：如图15.2-2(2)."
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        888,
+        375,
+        907
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        276,
+        2727,
+        815,
+        2785
+      ],
+      "model_image_bbox": [
+        143,
+        1420,
+        424,
+        1451
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        654.41,
+        195.58,
+        668.42
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "72"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        954
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2929
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1526
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        270,
+        954
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        276,
+        2883,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

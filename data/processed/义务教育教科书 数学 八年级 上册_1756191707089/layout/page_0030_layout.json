@@ -1,0 +1,496 @@
+{
+  "page_id": 30,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合与实践确定勻质薄板的重心位置"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        125,
+        71,
+        719,
+        157
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        218,
+        1563,
+        482
+      ],
+      "model_image_bbox": [
+        141,
+        113,
+        813,
+        251
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        52.32,
+        375.0,
+        115.7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "物体重心的位置对于物体保持平衡、运动和稳定的状态至关重要．例如，比赛中运动员在转向时，通过调整身体重心的位置来改变滑行方向（图 1)；杂技演员在表演转盘子时，用木棍支撑盘子的重心以使盘子长时间地转动（图2)；等等."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        194,
+        918,
+        296
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        595,
+        1995,
+        909
+      ],
+      "model_image_bbox": [
+        138,
+        310,
+        1039,
+        473
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        142.97,
+        478.78,
+        218.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ba2ad868aec8d64669bac0ef824c30bc25aeefd61d97823780d337ffb43f1d38.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        184,
+        307,
+        486,
+        456
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        400,
+        942,
+        1056,
+        1400
+      ],
+      "model_image_bbox": [
+        208,
+        491,
+        550,
+        729
+      ],
+      "pdf_page_bbox": [
+        95.97,
+        226.24,
+        253.47,
+        336.05
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4eee6e478db769de53b52ae4afd7d6ced22810c9c5ca996c640c1f046ce94d31.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        552,
+        302,
+        855,
+        458
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1200,
+        927,
+        1858,
+        1406
+      ],
+      "model_image_bbox": [
+        624,
+        483,
+        967,
+        732
+      ],
+      "pdf_page_bbox": [
+        287.9,
+        222.56,
+        445.93,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在工程中，物体重心的位置也有重要的应用．例如，水坝、挡土墙等建筑的重心必须在一定的范围内，否则可能会导致坍塌（图3)；当飞机的重心位于合适的位置时，不仅有利于飞机在飞行状态下保持平衡和稳定，而且能使飞机具有良好的操纵性能（图4）；为了达到预期的搅拌效果，混凝土搅拌机转动部分的重心会设计得偏离转轴一定的距离（图5)；等等."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        508,
+        918,
+        638
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        1560,
+        1995,
+        1959
+      ],
+      "model_image_bbox": [
+        138,
+        812,
+        1039,
+        1020
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        374.37,
+        478.78,
+        470.18
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6e599f48f821735fef0be1aac1b1caa935435379bf24b099a9d19adb717d5437.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图3"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        132,
+        644,
+        385,
+        763
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        286,
+        1977,
+        836,
+        2343
+      ],
+      "model_image_bbox": [
+        149,
+        1030,
+        435,
+        1220
+      ],
+      "pdf_page_bbox": [
+        68.84,
+        474.6,
+        200.8,
+        562.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f509cf4fefe37af2197f4597a681c8de146f777625214d0a9d1cd54b5f2a168f.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图4"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        393,
+        644,
+        646,
+        763
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        854,
+        1977,
+        1404,
+        2343
+      ],
+      "model_image_bbox": [
+        444,
+        1030,
+        731,
+        1220
+      ],
+      "pdf_page_bbox": [
+        204.97,
+        474.6,
+        336.92,
+        562.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/046694dc9a59373e903ef06e723d81a04e667eecb81088c1c148018a6dcec032.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图5"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        665,
+        684,
+        901,
+        758
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1445,
+        2100,
+        1958,
+        2327
+      ],
+      "model_image_bbox": [
+        752,
+        1094,
+        1019,
+        1212
+      ],
+      "pdf_page_bbox": [
+        346.83,
+        504.08,
+        469.92,
+        558.61
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "工程中使用的许多物体具有均匀的质地，如工程中常用的工字钢、角钢、槽钢等型钢（图6)．你能通过数学的方法确定工程中薄板、薄壳等匀质物体的重心吗？"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        815,
+        916,
+        890
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        265,
+        2502,
+        1991,
+        2733
+      ],
+      "model_image_bbox": [
+        138,
+        1304,
+        1036,
+        1424
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        600.62,
+        477.74,
+        655.89
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "综合与实践确定匀质薄板的重心位置"
+          }
+        ]
+      },
+      "bbox": [
+        570,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1239,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        645,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        297.28,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

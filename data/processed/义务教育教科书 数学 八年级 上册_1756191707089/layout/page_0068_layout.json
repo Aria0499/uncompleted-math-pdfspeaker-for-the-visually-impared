@@ -1,0 +1,192 @@
+{
+  "page_id": 68,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "第十五章 轴对称"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        127,
+        69,
+        560,
+        109
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        276,
+        211,
+        1217,
+        334
+      ],
+      "model_image_bbox": [
+        143,
+        110,
+        633,
+        174
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        50.85,
+        292.07,
+        80.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们生活在一个充满对称的世界中：自然界的许多动植物按对称形生长，许多建筑都设计成对称形，艺术作品的创作往往也从对称角度考虑，我国的方块字中有些也具有对称性，……对称给我们带来很多美的感受！"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        164,
+        916,
+        243
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        503,
+        1991,
+        746
+      ],
+      "model_image_bbox": [
+        138,
+        262,
+        1036,
+        388
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        120.86,
+        477.74,
+        179.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "轴对称是一种重要的对称.本章我们将类比研究平移的方法，从生活中的对称出发，学习几何图形的轴对称及其性质，并利用轴对称来研究等腰三角形，进而通过推理论证得到等腰三角形、等边三角形的性质和判定方法，由此体会图形变化在几何研究中的作用."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        250,
+        918,
+        357
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        767,
+        1995,
+        1096
+      ],
+      "model_image_bbox": [
+        138,
+        400,
+        1039,
+        571
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        184.24,
+        478.78,
+        263.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "让我们一起探索轴对称的奥秘吧！"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        362,
+        511,
+        385
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        1111,
+        1110,
+        1182
+      ],
+      "model_image_bbox": [
+        191,
+        579,
+        578,
+        616
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        266.78,
+        266.51,
+        283.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f938bd89bba2fa48483020f51b77cfd9650e164c01cfe69ea8fc7099e387a473.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        0,
+        407,
+        1000,
+        1000
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        0,
+        1249,
+        2173,
+        3070
+      ],
+      "model_image_bbox": [
+        0,
+        651,
+        1131,
+        1599
+      ],
+      "pdf_page_bbox": [
+        0.0,
+        299.94,
+        521.55,
+        736.95
+      ]
+    }
+  ]
+}

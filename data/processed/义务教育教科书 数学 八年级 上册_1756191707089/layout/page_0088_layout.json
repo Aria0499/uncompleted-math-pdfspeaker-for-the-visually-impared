@@ -1,0 +1,918 @@
+{
+  "page_id": 88,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "code",
+      "content": {
+        "code_caption": [],
+        "code_content": [
+          {
+            "type": "text",
+            "content": "∴∠1=∠2. ∴∠B=∠C. ∴ AB=AC."
+          }
+        ],
+        "code_footnote": [],
+        "code_language": "asp"
+      },
+      "bbox": [
+        171,
+        67,
+        336,
+        145
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        371,
+        205,
+        730,
+        445
+      ],
+      "model_image_bbox": [
+        193,
+        107,
+        380,
+        232
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        49.38,
+        175.24,
+        106.86
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例3尺规作图：已知等腰三角形的底边长为a，底边上高的长为h（图15.3-6(1))，求作这个等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        152,
+        916,
+        203
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        466,
+        1991,
+        623
+      ],
+      "model_image_bbox": [
+        141,
+        243,
+        1036,
+        324
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        112.02,
+        477.74,
+        149.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：根据等腰三角形“三线合一”的性质，当底边确定时，底边所对的顶点在底边的垂直平分线上．由此，作出底边的垂直平分线，利用高的长度确定底边所对的顶点的位置，即可作出这个等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        210,
+        597,
+        345
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        644,
+        1297,
+        1059
+      ],
+      "model_image_bbox": [
+        138,
+        336,
+        675,
+        552
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        154.76,
+        311.37,
+        254.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图15.3-6(2)."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        352,
+        420,
+        373
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        1080,
+        913,
+        1145
+      ],
+      "model_image_bbox": [
+        191,
+        563,
+        475,
+        596
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        259.41,
+        219.05,
+        274.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）作线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = a"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        380,
+        380,
+        402
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        367,
+        1166,
+        826,
+        1234
+      ],
+      "model_image_bbox": [
+        191,
+        608,
+        430,
+        643
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        280.04,
+        198.19,
+        296.25
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/aae73368a7e56998f5405b193a441ffe5077eb0626ef8b9f2834da11bfc59b72.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        609,
+        241,
+        759,
+        392
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1323,
+        740,
+        1650,
+        1203
+      ],
+      "model_image_bbox": [
+        689,
+        385,
+        859,
+        627
+      ],
+      "pdf_page_bbox": [
+        317.63,
+        177.61,
+        395.86,
+        288.89
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ed980cf6355012b30cd13e3c9bf11d3aeebb9fa13bd7067ab54d148ea4375068.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        766,
+        239,
+        911,
+        401
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1665,
+        733,
+        1980,
+        1231
+      ],
+      "model_image_bbox": [
+        867,
+        382,
+        1031,
+        641
+      ],
+      "pdf_page_bbox": [
+        399.51,
+        176.13,
+        475.13,
+        295.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）作线段AB的垂直平分线MN，与AB相交于点D；"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        409,
+        597,
+        460
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        1256,
+        1297,
+        1412
+      ],
+      "model_image_bbox": [
+        138,
+        654,
+        675,
+        736
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        301.41,
+        311.37,
+        339.0
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        818,
+        404,
+        852,
+        421
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1778,
+        1240,
+        1852,
+        1292
+      ],
+      "model_image_bbox": [
+        925,
+        646,
+        964,
+        673
+      ],
+      "pdf_page_bbox": [
+        426.63,
+        297.73,
+        444.36,
+        310.26
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.3-6"
+          }
+        ]
+      },
+      "bbox": [
+        714,
+        430,
+        808,
+        447
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1552,
+        1320,
+        1756,
+        1372
+      ],
+      "model_image_bbox": [
+        808,
+        688,
+        914,
+        715
+      ],
+      "pdf_page_bbox": [
+        372.39,
+        316.89,
+        421.41,
+        329.42
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）在MN上取一点C，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D C = h"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        467,
+        547,
+        487
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        367,
+        1434,
+        1189,
+        1495
+      ],
+      "model_image_bbox": [
+        191,
+        747,
+        619,
+        779
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        344.16,
+        285.29,
+        358.9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（4）连接AC，BC，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "就是所求作的等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        494,
+        746,
+        515
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        1517,
+        1621,
+        1581
+      ],
+      "model_image_bbox": [
+        191,
+        790,
+        844,
+        824
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        364.05,
+        389.08,
+        379.53
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        532,
+        250,
+        559
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        319,
+        1633,
+        543,
+        1716
+      ],
+      "model_image_bbox": [
+        166,
+        851,
+        283,
+        894
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        392.06,
+        130.39,
+        411.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = 3 6 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle D B C = 3 6 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C = 7 2 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，分别计算 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 2"
+          },
+          {
+            "type": "text",
+            "content": "的度数，并说明图中有哪些等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        571,
+        891,
+        621
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        319,
+        1753,
+        1937,
+        1907
+      ],
+      "model_image_bbox": [
+        166,
+        913,
+        1008,
+        993
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        420.8,
+        464.7,
+        457.65
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/342d0969e6fd95c1ad071f160daad0d253ee7ef7da861e280353174c5a4bfc79.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        218,
+        638,
+        329,
+        772
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        473,
+        1959,
+        715,
+        2370
+      ],
+      "model_image_bbox": [
+        246,
+        1020,
+        372,
+        1235
+      ],
+      "pdf_page_bbox": [
+        113.7,
+        470.18,
+        171.59,
+        568.93
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/df401f64662875073c7b817140b7345f4753e91ab6e145627699028d68a4f5de.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        390,
+        687,
+        535,
+        776
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        847,
+        2109,
+        1163,
+        2383
+      ],
+      "model_image_bbox": [
+        441,
+        1099,
+        605,
+        1241
+      ],
+      "pdf_page_bbox": [
+        203.41,
+        506.29,
+        279.03,
+        571.87
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f6679c689a302e637452e18cff18b2dca892bbc057a453030856696fc6434bb8.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        594,
+        689,
+        823,
+        774
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1291,
+        2115,
+        1789,
+        2376
+      ],
+      "model_image_bbox": [
+        672,
+        1102,
+        931,
+        1238
+      ],
+      "pdf_page_bbox": [
+        309.8,
+        507.76,
+        429.24,
+        570.4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，把一张长方形的纸沿对角线折叠，重合部分是一个等腰三角形吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        814,
+        891,
+        862
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        313,
+        2499,
+        1937,
+        2647
+      ],
+      "model_image_bbox": [
+        163,
+        1302,
+        1008,
+        1379
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        599.88,
+        464.7,
+        635.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，AC和BD相交于点O，且 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B / / C D , O A { = } O B"
+          },
+          {
+            "type": "text",
+            "content": "．求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O C = O D"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        869,
+        889,
+        892
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        319,
+        2668,
+        1932,
+        2739
+      ],
+      "model_image_bbox": [
+        166,
+        1390,
+        1006,
+        1427
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        640.41,
+        463.66,
+        657.36
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "81"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        954
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

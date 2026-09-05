@@ -1,0 +1,798 @@
+{
+  "page_id": 9,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        461,
+        802,
+        496,
+        817
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        1002,
+        2462,
+        1078,
+        2509
+      ],
+      "model_image_bbox": [
+        521,
+        1283,
+        561,
+        1307
+      ],
+      "pdf_page_bbox": [
+        240.44,
+        591.04,
+        258.69,
+        602.09
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.1三角形的概念"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        71,
+        488,
+        102
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        218,
+        1060,
+        313
+      ],
+      "model_image_bbox": [
+        91,
+        113,
+        552,
+        163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        52.32,
+        254.52,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在小学，我们已经初步认识了三角形．本节我们将进一步学习三角形的有关概念及其符号表示，以及三角形的分类."
+          }
+        ]
+      },
+      "bbox": [
+        260,
+        157,
+        872,
+        208
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        565,
+        482,
+        1895,
+        638
+      ],
+      "model_image_bbox": [
+        294,
+        251,
+        987,
+        332
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        115.7,
+        454.79,
+        153.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图13.1-1，由不在同一条直线上的三条线段首尾顺次相接所组成的图形叫作三角形（triangle）．组成三角形的线段叫作三角形的边，相邻两边的公共端点叫作三角形的顶点，相邻两边所组成的角叫作三角形的内角，简称三角形的角．例如，在图13.1-1中，线段AB，BC，CA是三角形的边；点A，B，C是三角形的顶点； "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A , \\angle B , \\angle C"
+          },
+          {
+            "type": "text",
+            "content": "是三角形的角."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        236,
+        633,
+        427
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        169,
+        724,
+        1376,
+        1311
+      ],
+      "model_image_bbox": [
+        88,
+        377,
+        716,
+        683
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        173.92,
+        330.14,
+        314.68
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/bee34a73fce8b6c74766cc502658a5d0215ecba73cb5999701ca8b1ce3df810c.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.1-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        658,
+        263,
+        847,
+        355
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1430,
+        807,
+        1841,
+        1090
+      ],
+      "model_image_bbox": [
+        744,
+        420,
+        958,
+        568
+      ],
+      "pdf_page_bbox": [
+        343.18,
+        193.82,
+        441.75,
+        261.62
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "顶点是A，B，C的三角形，记作“ "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C ^ { \\prime \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，读作“三角形 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B C ^ { \\prime \\prime }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的三边有时也用a，b，c来表示.如图13.1-1，顶点A所对的边BC用a表示，顶点B所对的边AC用b表示，顶点C所对的边AB用c表示."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        434,
+        872,
+        512
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        176,
+        1332,
+        1895,
+        1572
+      ],
+      "model_image_bbox": [
+        91,
+        694,
+        987,
+        819
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        319.84,
+        454.79,
+        377.32
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6ee50c5f251fd8b69fa7abc3773aeb68baa9abc511a82a94cce3c5424740a8cf.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        527,
+        135,
+        552
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        213,
+        1618,
+        293,
+        1695
+      ],
+      "model_image_bbox": [
+        110,
+        843,
+        152,
+        883
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        388.37,
+        70.41,
+        406.8
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        527,
+        201,
+        552
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        206,
+        1618,
+        436,
+        1695
+      ],
+      "model_image_bbox": [
+        107,
+        843,
+        227,
+        883
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        388.37,
+        104.83,
+        406.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，按照三个内角的大小，可以将三角形分为锐角三角形、直角三角形和钝角三角形．如何按照边的关系对三角形进行分类呢？说一说你的想法，并与同学交流."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        564,
+        850,
+        642
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        223,
+        1732,
+        1847,
+        1971
+      ],
+      "model_image_bbox": [
+        116,
+        902,
+        962,
+        1027
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        415.64,
+        443.32,
+        473.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在三角形中，有的三角形三边都不相等（图13.1-2（1）)，有的三角形有两边相等（图13.1-2(2))，有的三角形三边都相等（图13.1-2(3))."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        656,
+        872,
+        706
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        176,
+        2014,
+        1895,
+        2168
+      ],
+      "model_image_bbox": [
+        91,
+        1049,
+        987,
+        1129
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        483.44,
+        454.79,
+        520.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cb5a033bcdeba6477f9f8c612d8d94ca0900df461f8bb6adb006e6b64b22c89d.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        243,
+        736,
+        390,
+        796
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        528,
+        2260,
+        847,
+        2444
+      ],
+      "model_image_bbox": [
+        275,
+        1177,
+        441,
+        1273
+      ],
+      "pdf_page_bbox": [
+        126.74,
+        542.4,
+        203.41,
+        586.61
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        302,
+        802,
+        334,
+        817
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        656,
+        2462,
+        726,
+        2509
+      ],
+      "model_image_bbox": [
+        341,
+        1283,
+        378,
+        1307
+      ],
+      "pdf_page_bbox": [
+        157.51,
+        591.04,
+        174.2,
+        602.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/330d33a2c2cc39ae06dfa4e99ffc5df351d942420bfbeb7cbdc29d74a0427300.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        402,
+        729,
+        552,
+        796
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        873,
+        2238,
+        1200,
+        2444
+      ],
+      "model_image_bbox": [
+        455,
+        1166,
+        624,
+        1273
+      ],
+      "pdf_page_bbox": [
+        209.66,
+        537.24,
+        287.9,
+        586.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/78294ad844f7d9435e83af3032a3186a4f6045a92141b5e4fbc4e17c63e976d3.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        577,
+        715,
+        710,
+        795
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1254,
+        2195,
+        1543,
+        2441
+      ],
+      "model_image_bbox": [
+        653,
+        1144,
+        803,
+        1272
+      ],
+      "pdf_page_bbox": [
+        300.94,
+        526.92,
+        370.3,
+        585.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ]
+      },
+      "bbox": [
+        624,
+        802,
+        656,
+        815
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1356,
+        2462,
+        1426,
+        2502
+      ],
+      "model_image_bbox": [
+        706,
+        1283,
+        742,
+        1304
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        591.04,
+        342.14,
+        600.62
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图13.1-2"
+          }
+        ]
+      },
+      "bbox": [
+        432,
+        826,
+        523,
+        845
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        939,
+        2536,
+        1137,
+        2594
+      ],
+      "model_image_bbox": [
+        489,
+        1321,
+        592,
+        1352
+      ],
+      "pdf_page_bbox": [
+        225.31,
+        608.72,
+        272.77,
+        622.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "有两边相等的三角形叫作等腰三角形（isosceles triangle)，其中相等的两边叫作腰，另一边叫作底边，两腰的夹角叫作顶角，腰和底边的夹角叫作底"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        855,
+        874,
+        906
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        169,
+        2625,
+        1900,
+        2782
+      ],
+      "model_image_bbox": [
+        88,
+        1368,
+        989,
+        1449
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        630.09,
+        455.84,
+        667.68
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "2"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        939,
+        103,
+        953
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        184,
+        2883,
+        223,
+        2926
+      ],
+      "model_image_bbox": [
+        96,
+        1502,
+        116,
+        1524
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        692.0,
+        53.72,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        271,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

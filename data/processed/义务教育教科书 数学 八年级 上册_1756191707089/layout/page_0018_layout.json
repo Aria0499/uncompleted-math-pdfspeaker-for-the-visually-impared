@@ -1,0 +1,710 @@
+{
+  "page_id": 18,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.3三角形的内角与外角"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        69,
+        665,
+        104
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        211,
+        1445,
+        319
+      ],
+      "model_image_bbox": [
+        141,
+        110,
+        752,
+        166
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        50.85,
+        346.83,
+        76.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "与边一样，三角形的角也是构成三角形的元素．本节我们学习三角形的三个内角之间的关系，并进一步学习其他与三角形有关的角."
+          }
+        ]
+      },
+      "bbox": [
+        302,
+        157,
+        918,
+        237
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        656,
+        482,
+        1995,
+        727
+      ],
+      "model_image_bbox": [
+        341,
+        251,
+        1039,
+        379
+      ],
+      "pdf_page_bbox": [
+        157.51,
+        115.7,
+        478.78,
+        174.66
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.3.1三角形的内角"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        263,
+        447,
+        286
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        367,
+        807,
+        971,
+        878
+      ],
+      "model_image_bbox": [
+        191,
+        420,
+        506,
+        457
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        193.82,
+        233.13,
+        210.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在小学，通过度量或剪拼，我们已经知道三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，这样的方法获得的结论可靠吗?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        295,
+        916,
+        345
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        265,
+        905,
+        1991,
+        1059
+      ],
+      "model_image_bbox": [
+        138,
+        472,
+        1036,
+        552
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        217.4,
+        477.74,
+        254.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由于测量常常有误差，这样验证三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，不能完全令人信服；又由于形状不同的三角形有无数个，我们不可能用上述方法一一验证所有三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "{ 1 8 0 } ^ { \\circ } ."
+          },
+          {
+            "type": "text",
+            "content": "，因此，需要通过推理的方法去证明：任意一个三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        352,
+        918,
+        458
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        1080,
+        1995,
+        1406
+      ],
+      "model_image_bbox": [
+        138,
+        563,
+        1039,
+        732
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        259.41,
+        478.78,
+        337.52
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/278dc2c92694dcb63ad863584e74daa2f124653db7a99924fa0749525eb7a7f6.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        472,
+        179,
+        498
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        308,
+        1449,
+        389,
+        1529
+      ],
+      "model_image_bbox": [
+        160,
+        755,
+        202,
+        796
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        347.84,
+        93.36,
+        367.0
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        140,
+        472,
+        245,
+        498
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        304,
+        1449,
+        532,
+        1529
+      ],
+      "model_image_bbox": [
+        158,
+        755,
+        277,
+        796
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        347.84,
+        127.78,
+        367.0
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "你还记得在小学是如何通过剪拼的方法得出三角形的内角和吗？图13.3-1给出了两种剪拼的方法.从这个操作过程中，你能发现证明的思路吗?"
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        508,
+        894,
+        588
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        313,
+        1560,
+        1943,
+        1805
+      ],
+      "model_image_bbox": [
+        163,
+        812,
+        1012,
+        940
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        374.37,
+        466.27,
+        433.33
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6a270634fac46256bb303c6c7f3a70203f4329a51effe889a8a319e1b2660fb2.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        228,
+        604,
+        503,
+        710
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        495,
+        1854,
+        1093,
+        2180
+      ],
+      "model_image_bbox": [
+        258,
+        966,
+        569,
+        1136
+      ],
+      "pdf_page_bbox": [
+        118.91,
+        445.12,
+        262.34,
+        523.24
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/dacc0526a10dbcb82a52cf3524e706e42204dee85e63b127b44dbb08ec0c4d73.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(2)"
+          },
+          {
+            "type": "text",
+            "content": "图13.3-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        520,
+        604,
+        810,
+        708
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1130,
+        1854,
+        1760,
+        2174
+      ],
+      "model_image_bbox": [
+        588,
+        966,
+        916,
+        1132
+      ],
+      "pdf_page_bbox": [
+        271.21,
+        445.12,
+        422.46,
+        521.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在图13.3-1（1）中，将 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C"
+          },
+          {
+            "type": "text",
+            "content": "剪下，分别拼在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "的左右，三个角合起来形成一个平角，出现一条过点A的直线l，移动后的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "和"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C"
+          },
+          {
+            "type": "text",
+            "content": "各有一条边在直线上．想一想，直线与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的边BC有什么关系?你能由这个图想出证明“三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ , \\mathfrak { s } }"
+          },
+          {
+            "type": "text",
+            "content": "的方法吗?"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        779,
+        918,
+        887
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        265,
+        2392,
+        1995,
+        2723
+      ],
+      "model_image_bbox": [
+        138,
+        1246,
+        1039,
+        1419
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        574.09,
+        478.78,
+        653.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由上述拼合过程得到启发，过 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的顶点A作直线l平行于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        894,
+        916,
+        914
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        2745,
+        1991,
+        2806
+      ],
+      "model_image_bbox": [
+        191,
+        1430,
+        1036,
+        1462
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        658.84,
+        477.74,
+        673.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        872,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1895,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        987,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        454.79,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "11"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        954
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

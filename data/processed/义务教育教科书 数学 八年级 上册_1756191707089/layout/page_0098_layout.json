@@ -1,0 +1,836 @@
+{
+  "page_id": 98,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.在平面直角坐标系中，如果两个图形关于x轴或y轴对称，那么对称点的坐标有什么关系？请举例说明."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        79,
+        889,
+        130
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        242,
+        1932,
+        399
+      ],
+      "model_image_bbox": [
+        166,
+        126,
+        1006,
+        208
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        58.22,
+        463.66,
+        95.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.利用等腰三角形的轴对称性，我们发现了它的哪些性质？你能通过全等三角形加以证明吗？等边三角形作为特殊的等腰三角形，有哪些特殊性质?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        137,
+        891,
+        215
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        420,
+        1937,
+        660
+      ],
+      "model_image_bbox": [
+        166,
+        219,
+        1008,
+        344
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        100.96,
+        464.7,
+        158.44
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习题 (15)"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        464,
+        263,
+        621,
+        291
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1008,
+        807,
+        1350,
+        893
+      ],
+      "model_image_bbox": [
+        525,
+        420,
+        702,
+        465
+      ],
+      "pdf_page_bbox": [
+        242.0,
+        193.82,
+        323.88,
+        214.45
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        137,
+        326,
+        250,
+        347
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        297,
+        1001,
+        543,
+        1065
+      ],
+      "model_image_bbox": [
+        155,
+        521,
+        283,
+        555
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        240.25,
+        130.39,
+        255.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1．下列图形是轴对称图形吗？如果是，画出它们的对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        137,
+        357,
+        680,
+        378
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        297,
+        1096,
+        1478,
+        1160
+      ],
+      "model_image_bbox": [
+        155,
+        571,
+        769,
+        604
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        263.09,
+        354.66,
+        278.57
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/da187caf120db5cdfe53303e72d26763fb1dd35fa0962e8e39aa5114f599478c.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        230,
+        394,
+        304,
+        472
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        500,
+        1209,
+        660,
+        1449
+      ],
+      "model_image_bbox": [
+        260,
+        630,
+        344,
+        755
+      ],
+      "pdf_page_bbox": [
+        119.96,
+        290.36,
+        158.55,
+        347.84
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/520aaef5e0470dcfdb962e4f68cf445d69892ce427170a4ed55c41a37760325f.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        378,
+        394,
+        476,
+        470
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        821,
+        1209,
+        1034,
+        1443
+      ],
+      "model_image_bbox": [
+        427,
+        630,
+        538,
+        752
+      ],
+      "pdf_page_bbox": [
+        197.15,
+        290.36,
+        248.26,
+        346.37
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/871c60610950ac56686e516ba4069e7486945a29af85e81b09f508182713b0a9.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        538,
+        394,
+        624,
+        468
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1169,
+        1209,
+        1356,
+        1437
+      ],
+      "model_image_bbox": [
+        609,
+        630,
+        706,
+        748
+      ],
+      "pdf_page_bbox": [
+        280.6,
+        290.36,
+        325.45,
+        344.89
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/aa286423c7aba7841e4d4686522944bbaccf27f0246336117912bcf827709282.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        690,
+        390,
+        808,
+        472
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1500,
+        1197,
+        1756,
+        1449
+      ],
+      "model_image_bbox": [
+        781,
+        624,
+        914,
+        755
+      ],
+      "pdf_page_bbox": [
+        359.87,
+        287.41,
+        421.41,
+        347.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.下列各命题都成立，写出它们的逆命题.这些逆命题成立吗?"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        505,
+        724,
+        524
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        293,
+        1550,
+        1573,
+        1609
+      ],
+      "model_image_bbox": [
+        152,
+        808,
+        819,
+        838
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        372.16,
+        377.6,
+        386.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）如果两个实数都是正数，那么它们的积是正数；"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        531,
+        641,
+        550
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        352,
+        1630,
+        1393,
+        1689
+      ],
+      "model_image_bbox": [
+        183,
+        849,
+        725,
+        880
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        391.32,
+        334.31,
+        405.32
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）等边三角形是锐角三角形；"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        557,
+        454,
+        574
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        352,
+        1710,
+        986,
+        1762
+      ],
+      "model_image_bbox": [
+        183,
+        891,
+        513,
+        918
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        410.48,
+        236.78,
+        423.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）如果两个角是直角，那么它们相等；"
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        583,
+        538,
+        602
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        352,
+        1790,
+        1169,
+        1848
+      ],
+      "model_image_bbox": [
+        183,
+        932,
+        609,
+        963
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        429.64,
+        280.6,
+        443.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（4）角的内部到角的两边距离相等的点在角的平分线上."
+          }
+        ]
+      },
+      "bbox": [
+        162,
+        609,
+        680,
+        628
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        352,
+        1870,
+        1478,
+        1928
+      ],
+      "model_image_bbox": [
+        183,
+        974,
+        769,
+        1004
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        448.8,
+        354.66,
+        462.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，D，E分别是AB，AC的中点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D \\perp A B"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为D， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B E \\bot A C"
+          },
+          {
+            "type": "text",
+            "content": "，垂足 为E.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C { = } A B"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        633,
+        904,
+        680
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        293,
+        1943,
+        1965,
+        2088
+      ],
+      "model_image_bbox": [
+        152,
+        1012,
+        1023,
+        1088
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        466.49,
+        471.48,
+        501.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/bc6003d716af44fe7efac5fce706430d7d8b4dec325920198bd9cc3ec9c7fe50.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第3题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        267,
+        711,
+        393,
+        812
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        580,
+        2183,
+        854,
+        2493
+      ],
+      "model_image_bbox": [
+        302,
+        1137,
+        444,
+        1299
+      ],
+      "pdf_page_bbox": [
+        139.25,
+        523.97,
+        204.97,
+        598.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b0f98568d9a87049ec52a17e55985c33d663cd0375bc9de35bb99b12fa734e36.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第4题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        515,
+        689,
+        773,
+        814
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1119,
+        2115,
+        1680,
+        2499
+      ],
+      "model_image_bbox": [
+        582,
+        1102,
+        875,
+        1302
+      ],
+      "pdf_page_bbox": [
+        268.6,
+        507.76,
+        403.16,
+        599.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.如图所示的点A，B，C，D，E中，哪两个点关于x轴对称？哪两个点关于y轴对称?"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        848,
+        906,
+        894
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        293,
+        2604,
+        1969,
+        2745
+      ],
+      "model_image_bbox": [
+        152,
+        1356,
+        1025,
+        1430
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        624.94,
+        472.53,
+        658.84
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章 轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1580,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "91"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教章出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

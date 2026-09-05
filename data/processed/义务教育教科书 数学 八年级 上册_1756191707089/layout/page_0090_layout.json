@@ -1,0 +1,1020 @@
+{
+  "page_id": 90,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用等边三角形的性质和判定，可以发现并证明直角三角形的一个性质."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        67,
+        894,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        367,
+        205,
+        1943,
+        270
+      ],
+      "model_image_bbox": [
+        191,
+        107,
+        1012,
+        140
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        49.38,
+        466.27,
+        64.85
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a6265cba1f7f263e5a4d1f06954fc80cad104663a0dc857634aa4aecae13655a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        97,
+        179,
+        121
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        308,
+        297,
+        389,
+        371
+      ],
+      "model_image_bbox": [
+        160,
+        155,
+        202,
+        193
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        71.48,
+        93.36,
+        89.17
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        181,
+        98,
+        243,
+        119
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        393,
+        300,
+        528,
+        365
+      ],
+      "model_image_bbox": [
+        204,
+        156,
+        275,
+        190
+      ],
+      "pdf_page_bbox": [
+        94.4,
+        72.22,
+        126.74,
+        87.7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.3-8，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C = 9 0 ^ { \\circ } , \\angle A = 3 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "测量 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "所对的直角边BC与斜边AB，你能得到什么结论？再画几个满足条件的三角形，你得到的结论还成立吗？证明你的结论."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        131,
+        734,
+        239
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        402,
+        1595,
+        733
+      ],
+      "model_image_bbox": [
+        166,
+        209,
+        830,
+        382
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        96.54,
+        382.82,
+        176.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/aee1570c1cd84e85e6c3dc250fc22d170a21cb8fb6ce7e34e652e646bfe5fc54.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.3-8"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        776,
+        98,
+        864,
+        211
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1687,
+        300,
+        1878,
+        647
+      ],
+      "model_image_bbox": [
+        878,
+        156,
+        978,
+        337
+      ],
+      "pdf_page_bbox": [
+        404.72,
+        72.22,
+        450.62,
+        155.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过测量发现：在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = 3 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，那么直角边BC等于斜边AB的一半．下面证明这一结论."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        255,
+        914,
+        303
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        271,
+        783,
+        1987,
+        930
+      ],
+      "model_image_bbox": [
+        141,
+        408,
+        1034,
+        484
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        187.92,
+        476.7,
+        223.3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "要证明 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = { \\frac { 1 } { 2 } } A B"
+          },
+          {
+            "type": "text",
+            "content": "，只要证明 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "2 B C = A B"
+          },
+          {
+            "type": "text",
+            "content": "．为此可以构造长为2BC的线段，证明它和AB相等即可."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        314,
+        916,
+        381
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        265,
+        964,
+        1991,
+        1170
+      ],
+      "model_image_bbox": [
+        138,
+        502,
+        1036,
+        609
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        231.4,
+        477.74,
+        280.78
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.3-9，延长BC到D，使CD=BC，连接AD，则AC是BD的垂直平分线，所以 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B ="
+          },
+          {
+            "type": "text",
+            "content": "AD.又因为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = 9 0 ^ { \\circ } - \\angle B A C = 9 0 ^ { \\circ } - 3 0 ^ { \\circ } = 6 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ",所以 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形，所以 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B D = A B"
+          },
+          {
+            "type": "text",
+            "content": ".又"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B D { = } 2 B C"
+          },
+          {
+            "type": "text",
+            "content": "，所以 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = { \\frac { 1 } { 2 } } A B"
+          },
+          {
+            "type": "text",
+            "content": "．由此可以得到："
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        388,
+        648,
+        538
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        1191,
+        1408,
+        1652
+      ],
+      "model_image_bbox": [
+        138,
+        620,
+        733,
+        860
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        285.94,
+        337.97,
+        396.48
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3faeca0f7d4692dad6c841ace95eae037ef10cbf0517973fb9112f105a873982.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.3-9"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        710,
+        390,
+        867,
+        503
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1543,
+        1197,
+        1884,
+        1544
+      ],
+      "model_image_bbox": [
+        803,
+        624,
+        981,
+        804
+      ],
+      "pdf_page_bbox": [
+        370.3,
+        287.41,
+        452.19,
+        370.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在直角三角形中，如果一个锐角等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "3 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，那么它所对的直角边等于斜边的一半."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        543,
+        643,
+        593
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1667,
+        1397,
+        1821
+      ],
+      "model_image_bbox": [
+        141,
+        868,
+        727,
+        948
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        400.16,
+        335.36,
+        437.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "你还有其他证明方法吗?"
+          }
+        ]
+      },
+      "bbox": [
+        670,
+        562,
+        886,
+        602
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1456,
+        1725,
+        1926,
+        1848
+      ],
+      "model_image_bbox": [
+        758,
+        899,
+        1002,
+        963
+      ],
+      "pdf_page_bbox": [
+        349.44,
+        414.17,
+        462.1,
+        443.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例5图15.3-10是屋架设计图的一部分，点"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        600,
+        643,
+        621
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        1842,
+        1397,
+        1907
+      ],
+      "model_image_bbox": [
+        191,
+        960,
+        727,
+        993
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        442.17,
+        335.36,
+        457.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "D是斜梁AB的中点，立柱BC，DE 垂直于横梁AC，AB=7.4m， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A ="
+          },
+          {
+            "type": "equation_inline",
+            "content": "3 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ".求立柱BC，DE的长."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        628,
+        911,
+        677
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        265,
+        1928,
+        1980,
+        2079
+      ],
+      "model_image_bbox": [
+        138,
+        1004,
+        1031,
+        1083
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        462.81,
+        475.13,
+        498.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\because D E \\bot A C , B C \\bot A C , \\angle A = 3 0 ^ { \\circ }"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        685,
+        597,
+        704
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        367,
+        2103,
+        1297,
+        2161
+      ],
+      "model_image_bbox": [
+        191,
+        1096,
+        675,
+        1126
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        504.81,
+        311.37,
+        518.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "B C = { \\frac { 1 } { 2 } } A B , D E = { \\frac { 1 } { 2 } } A D ."
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        713,
+        479,
+        750
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        371,
+        2189,
+        1041,
+        2303
+      ],
+      "model_image_bbox": [
+        193,
+        1140,
+        542,
+        1200
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        525.45,
+        249.82,
+        552.71
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "B C = \\frac { 1 } { 2 } \\times 7 . 4 = 3 . 7 ."
+          }
+        ]
+      },
+      "bbox": [
+        174,
+        760,
+        420,
+        796
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        378,
+        2333,
+        913,
+        2444
+      ],
+      "model_image_bbox": [
+        196,
+        1216,
+        475,
+        1273
+      ],
+      "pdf_page_bbox": [
+        90.75,
+        560.08,
+        219.05,
+        586.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b5da982a6448c544eced1a28ab9e2f5daf34b80e997b1699e279c7a0b1764b5c.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.3-10"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        646,
+        685,
+        911,
+        772
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1404,
+        2103,
+        1980,
+        2370
+      ],
+      "model_image_bbox": [
+        731,
+        1096,
+        1031,
+        1235
+      ],
+      "pdf_page_bbox": [
+        336.92,
+        504.81,
+        475.13,
+        568.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "又 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D = { \\frac { 1 } { 2 } } A B"
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        807,
+        348,
+        843
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        371,
+        2478,
+        756,
+        2588
+      ],
+      "model_image_bbox": [
+        193,
+        1291,
+        393,
+        1348
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        594.72,
+        181.5,
+        621.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "D E { = } \\frac { 1 } { 2 } A D { = } \\frac { 1 } { 2 } { \\times } 3 . 7 { = } 1 . 8 5 ."
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        852,
+        513,
+        890
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        371,
+        2616,
+        1115,
+        2733
+      ],
+      "model_image_bbox": [
+        193,
+        1363,
+        580,
+        1424
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        627.88,
+        267.56,
+        655.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "答：立柱BC的长是3.7 m，DE的长是1.85 m."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        897,
+        665,
+        916
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        367,
+        2754,
+        1445,
+        2813
+      ],
+      "model_image_bbox": [
+        191,
+        1435,
+        752,
+        1465
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        661.05,
+        346.83,
+        675.05
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1584,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "83"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        636,
+        991
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        784,
+        2957,
+        1382,
+        3043
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        719,
+        1585
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        331.71,
+        730.32
+      ]
+    }
+  ]
+}

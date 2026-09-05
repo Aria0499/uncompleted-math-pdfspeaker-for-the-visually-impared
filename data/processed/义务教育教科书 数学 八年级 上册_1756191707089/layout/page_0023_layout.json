@@ -1,0 +1,1067 @@
+{
+  "page_id": 23,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        103,
+        78,
+        206,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        223,
+        239,
+        447,
+        313
+      ],
+      "model_image_bbox": [
+        116,
+        124,
+        233,
+        163
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        57.48,
+        107.44,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "说出下列各图形中 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 2"
+          },
+          {
+            "type": "text",
+            "content": "的度数："
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        116,
+        476,
+        135
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        223,
+        356,
+        1034,
+        414
+      ],
+      "model_image_bbox": [
+        116,
+        185,
+        538,
+        216
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        85.49,
+        248.26,
+        99.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/af937c027aed3531ec53bceff9529d09aa8f816e938f4845a4f706e7473aa76c.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        174,
+        152,
+        378,
+        225
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        378,
+        466,
+        821,
+        690
+      ],
+      "model_image_bbox": [
+        196,
+        243,
+        427,
+        360
+      ],
+      "pdf_page_bbox": [
+        90.75,
+        112.02,
+        197.15,
+        165.81
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/87f5c93b75d766d207b31f2dd610574cca024af05a7e80c870910c877b905aed.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        417,
+        144,
+        589,
+        229
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        906,
+        442,
+        1280,
+        703
+      ],
+      "model_image_bbox": [
+        472,
+        230,
+        666,
+        366
+      ],
+      "pdf_page_bbox": [
+        217.49,
+        106.12,
+        307.19,
+        168.76
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2dd9f7061b8d759a2f4cceff4844592a86f5115aade1407a6b21f94e2deed8bb.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        626,
+        147,
+        778,
+        227
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1360,
+        451,
+        1691,
+        697
+      ],
+      "model_image_bbox": [
+        708,
+        235,
+        880,
+        363
+      ],
+      "pdf_page_bbox": [
+        326.49,
+        108.33,
+        405.77,
+        167.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b1c2237c46a4649346d1c8f1e55e2cbf7ead8dfa062f7a55a53330f3fef4e5ad.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(4)"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        270,
+        471,
+        378
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        276,
+        829,
+        1023,
+        1160
+      ],
+      "model_image_bbox": [
+        143,
+        432,
+        533,
+        604
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        198.98,
+        245.65,
+        278.57
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5b7cb4270fc3ac9d117e967e8c6c319a6ce0bb0ede1c7d402ad53eea9d21df1a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(5)"
+          }
+        ]
+      },
+      "bbox": [
+        486,
+        272,
+        656,
+        378
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1056,
+        835,
+        1426,
+        1160
+      ],
+      "model_image_bbox": [
+        550,
+        435,
+        742,
+        604
+      ],
+      "pdf_page_bbox": [
+        253.47,
+        200.45,
+        342.14,
+        278.57
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/010eb8df1e1ec4464c090edadd4c6092c63493830dfde1ffa5111e25b9d6cd93.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(6）"
+          }
+        ]
+      },
+      "bbox": [
+        673,
+        269,
+        825,
+        380
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1463,
+        826,
+        1793,
+        1166
+      ],
+      "model_image_bbox": [
+        761,
+        430,
+        933,
+        608
+      ],
+      "pdf_page_bbox": [
+        351.0,
+        198.24,
+        430.28,
+        280.04
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "习题13.3"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        120,
+        470,
+        272,
+        494
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        260,
+        1443,
+        591,
+        1517
+      ],
+      "model_image_bbox": [
+        135,
+        752,
+        307,
+        790
+      ],
+      "pdf_page_bbox": [
+        62.59,
+        346.37,
+        141.86,
+        364.05
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        105,
+        513,
+        218,
+        536
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        228,
+        1575,
+        473,
+        1646
+      ],
+      "model_image_bbox": [
+        118,
+        820,
+        246,
+        857
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        378.06,
+        113.7,
+        395.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.求出下列各图形中x的值："
+          }
+        ]
+      },
+      "bbox": [
+        105,
+        546,
+        380,
+        565
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        228,
+        1676,
+        826,
+        1735
+      ],
+      "model_image_bbox": [
+        118,
+        873,
+        430,
+        904
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        402.38,
+        198.19,
+        416.38
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/153fdb3efaca8ba935cf26e1c693a0c1268eb471e3ce525d12bba8b986d60d49.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        572,
+        277,
+        661
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        1756,
+        602,
+        2029
+      ],
+      "model_image_bbox": [
+        141,
+        915,
+        313,
+        1057
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        421.54,
+        144.47,
+        487.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e20dfe95853a02ca7f8383c592f74885fb0399c7f0a7cdd073647962f7b929c0.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        272,
+        572,
+        417,
+        661
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        591,
+        1756,
+        906,
+        2029
+      ],
+      "model_image_bbox": [
+        307,
+        915,
+        472,
+        1057
+      ],
+      "pdf_page_bbox": [
+        141.86,
+        421.54,
+        217.49,
+        487.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/92b2685974afa297677d2a3a8358c97962df801ce78fe50eda25250dde5c8e4e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(3)"
+          },
+          {
+            "type": "text",
+            "content": "(第1题)"
+          }
+        ]
+      },
+      "bbox": [
+        437,
+        586,
+        592,
+        661
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        950,
+        1799,
+        1287,
+        2029
+      ],
+      "model_image_bbox": [
+        494,
+        937,
+        670,
+        1057
+      ],
+      "pdf_page_bbox": [
+        227.92,
+        431.85,
+        308.76,
+        487.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b7a9f3d51a0822fa0e818d929a3a07e8d4d4932ee889bbbccee5688bd79ad151.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(4)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        624,
+        593,
+        825,
+        661
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1356,
+        1821,
+        1793,
+        2029
+      ],
+      "model_image_bbox": [
+        706,
+        948,
+        933,
+        1057
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        437.01,
+        430.28,
+        487.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.（1）一个三角形最多有几个直角？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        717,
+        533,
+        737
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        223,
+        2201,
+        1158,
+        2263
+      ],
+      "model_image_bbox": [
+        116,
+        1147,
+        603,
+        1179
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        528.39,
+        277.99,
+        543.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2)一个三角形最多有几个钝角？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        743,
+        533,
+        762
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        293,
+        2281,
+        1158,
+        2340
+      ],
+      "model_image_bbox": [
+        152,
+        1188,
+        603,
+        1219
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        547.56,
+        277.99,
+        561.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3）直角三角形的外角可以是锐角吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        135,
+        769,
+        572,
+        789
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        293,
+        2361,
+        1243,
+        2423
+      ],
+      "model_image_bbox": [
+        152,
+        1230,
+        647,
+        1262
+      ],
+      "pdf_page_bbox": [
+        70.41,
+        566.72,
+        298.33,
+        581.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "比 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "大 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "{ 1 0 } ^ { \\circ } , \\ \\angle C"
+          },
+          {
+            "type": "text",
+            "content": "比 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "大 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "各内角的度数."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        793,
+        572,
+        840
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        223,
+        2435,
+        1243,
+        2579
+      ],
+      "model_image_bbox": [
+        116,
+        1268,
+        647,
+        1344
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        584.4,
+        298.33,
+        619.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为D，"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1 = \\angle 2 , \\angle C = 6 5 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ".求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C"
+          },
+          {
+            "type": "text",
+            "content": "的度数."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        847,
+        570,
+        894
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        223,
+        2601,
+        1239,
+        2745
+      ],
+      "model_image_bbox": [
+        116,
+        1355,
+        645,
+        1430
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        624.2,
+        297.28,
+        658.84
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1e369a48c5eaf02bd1e93eb56bea4c0271f0d2fcc17f86b9a2c6801164d4ae02.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "（第4题）"
+          }
+        ]
+      },
+      "bbox": [
+        616,
+        743,
+        818,
+        862
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1339,
+        2281,
+        1778,
+        2647
+      ],
+      "model_image_bbox": [
+        697,
+        1188,
+        925,
+        1379
+      ],
+      "pdf_page_bbox": [
+        321.28,
+        547.56,
+        426.63,
+        635.25
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "16"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "page_id": 46,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e03212ba9e3e16800587a6fdee8ae8402e90c010c63277e0b80cafb3845655a5.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        776,
+        564,
+        810,
+        586
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        1687,
+        1732,
+        1760,
+        1799
+      ],
+      "model_image_bbox": [
+        878,
+        902,
+        916,
+        937
+      ],
+      "pdf_page_bbox": [
+        404.72,
+        415.64,
+        422.46,
+        431.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "下面，利用三角形全等的判定方法，我们再来研究一些尺规作图问题."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        67,
+        869,
+        88
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        367,
+        205,
+        1889,
+        270
+      ],
+      "model_image_bbox": [
+        191,
+        107,
+        983,
+        140
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        49.38,
+        453.23,
+        64.85
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        142,
+        102,
+        243,
+        125
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        308,
+        313,
+        528,
+        383
+      ],
+      "model_image_bbox": [
+        160,
+        163,
+        275,
+        200
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        75.17,
+        126.74,
+        92.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "线段和角都是基本的几何图形，也是构成其他几何图形的元素．我们已经学习了作一条线段等于已知线段的尺规作图，如何用直尺和圆规作一个角等于已知角呢?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        137,
+        891,
+        215
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        420,
+        1937,
+        660
+      ],
+      "model_image_bbox": [
+        166,
+        219,
+        1008,
+        344
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        100.96,
+        464.7,
+        158.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.2-15（1)，已知 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "，要用直尺和圆规作一个角与其相等，关键是能用直尺和圆规确定 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的大小."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        230,
+        916,
+        281
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        706,
+        1991,
+        862
+      ],
+      "model_image_bbox": [
+        138,
+        368,
+        1036,
+        449
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        169.5,
+        477.74,
+        207.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "对于一个三角形，其三条边、三个角是确定的．如果能将 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "“放在”某个三角形中，作为其一个角，而我们又能用直尺和圆规作出这个三角形，进而再作出与这个三角形全等的三角形，根据全等三角形的性质， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的对应角就是要求作的角．这就说明可以用直尺和圆规确定 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        286,
+        918,
+        394
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        265,
+        878,
+        1995,
+        1209
+      ],
+      "model_image_bbox": [
+        138,
+        457,
+        1039,
+        630
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        210.77,
+        478.78,
+        290.36
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e5f88630d29e2c430ca435a584438481a7e0255ef48f039b75f0a8d5505565ef.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        233,
+        401,
+        407,
+        496
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        506,
+        1231,
+        884,
+        1523
+      ],
+      "model_image_bbox": [
+        263,
+        641,
+        460,
+        793
+      ],
+      "pdf_page_bbox": [
+        121.52,
+        295.52,
+        212.27,
+        365.53
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/0bbbc7415d16fd7c2e8b2b08de422a55d31723365c2f759cedff962b1f2fa51a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        434,
+        402,
+        609,
+        496
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        943,
+        1234,
+        1323,
+        1523
+      ],
+      "model_image_bbox": [
+        491,
+        643,
+        689,
+        793
+      ],
+      "pdf_page_bbox": [
+        226.35,
+        296.25,
+        317.63,
+        365.53
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f25bddaf77e2198d0773b3e940606264e52081cc428f2aef4d4663bc108605c3.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-15"
+          },
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        636,
+        407,
+        805,
+        494
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1382,
+        1249,
+        1750,
+        1517
+      ],
+      "model_image_bbox": [
+        719,
+        651,
+        911,
+        790
+      ],
+      "pdf_page_bbox": [
+        331.71,
+        299.94,
+        419.85,
+        364.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "显然，这样的三角形是容易作出的.如图14.2-15(2)，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的边OA，OB上分别取点C，D，连接CD，得到 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C O D , ~ \\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "就是"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C O D"
+          },
+          {
+            "type": "text",
+            "content": "的一个内角.再作出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C ^ { \\prime } O ^ { \\prime } D ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "（图14.2-15(3))，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C ^ { \\prime } O ^ { \\prime } D ^ { \\prime } \\cong \\triangle C O D"
+          },
+          {
+            "type": "text",
+            "content": "，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C ^ { \\prime } O ^ { \\prime } D ^ { \\prime } ="
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C O D = \\angle A O B"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        564,
+        646,
+        727
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        265,
+        1732,
+        1404,
+        2232
+      ],
+      "model_image_bbox": [
+        138,
+        902,
+        731,
+        1163
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        415.64,
+        336.92,
+        535.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "为了作图方便，一般取 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O C { = } O D"
+          }
+        ]
+      },
+      "bbox": [
+        685,
+        595,
+        901,
+        637
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1489,
+        1827,
+        1958,
+        1956
+      ],
+      "model_image_bbox": [
+        775,
+        952,
+        1019,
+        1019
+      ],
+      "pdf_page_bbox": [
+        357.26,
+        438.49,
+        469.92,
+        469.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由此我们得到作一个角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A ^ { \\prime } O ^ { \\prime } B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "等于已知角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的方法."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        734,
+        771,
+        755
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        2254,
+        1676,
+        2318
+      ],
+      "model_image_bbox": [
+        191,
+        1174,
+        872,
+        1208
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        540.92,
+        402.12,
+        556.4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图14.2-16."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        763,
+        383,
+        782
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        367,
+        2343,
+        832,
+        2401
+      ],
+      "model_image_bbox": [
+        191,
+        1220,
+        433,
+        1251
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        562.29,
+        199.75,
+        576.3
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/0e861ae16feb62eac05bd6e3f61cefd4b3891c11f8212a678d01133dee11343a.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-16"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        326,
+        791,
+        700,
+        885
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        708,
+        2429,
+        1521,
+        2717
+      ],
+      "model_image_bbox": [
+        369,
+        1265,
+        792,
+        1416
+      ],
+      "pdf_page_bbox": [
+        170.03,
+        582.93,
+        365.09,
+        652.2
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1504,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "39"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

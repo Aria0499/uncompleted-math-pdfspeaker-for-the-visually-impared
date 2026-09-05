@@ -1,0 +1,733 @@
+{
+  "page_id": 92,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6726f035ff16af1e46379d80690b30e91ed694d209cf42cc47e5515661de154d.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第6题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        265,
+        79,
+        383,
+        192
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        576,
+        242,
+        832,
+        589
+      ],
+      "model_image_bbox": [
+        299,
+        126,
+        433,
+        307
+      ],
+      "pdf_page_bbox": [
+        138.21,
+        58.22,
+        199.75,
+        141.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c8ae0765769d2d290221b5b891ca4299a62c98b5d980841ad9de7fb70d7e2798.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第7题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        506,
+        105,
+        776,
+        192
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        1100,
+        322,
+        1687,
+        589
+      ],
+      "model_image_bbox": [
+        572,
+        168,
+        878,
+        307
+      ],
+      "pdf_page_bbox": [
+        263.91,
+        77.38,
+        404.72,
+        141.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "7.如图，厂房屋顶钢架外框是等腰三角形，其中 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } A C"
+          },
+          {
+            "type": "text",
+            "content": "，立柱 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          },
+          {
+            "type": "text",
+            "content": "日顶角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C = 1 2 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ". AD 与AB 有什么数量关系？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        229,
+        891,
+        276
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        703,
+        1937,
+        847
+      ],
+      "model_image_bbox": [
+        166,
+        366,
+        1008,
+        441
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        168.76,
+        464.7,
+        203.4
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        281,
+        260,
+        303
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        862,
+        565,
+        930
+      ],
+      "model_image_bbox": [
+        166,
+        449,
+        294,
+        484
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        207.08,
+        135.6,
+        223.3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "8.某中学的同学们设计了下面的方法检测教室的房梁是否水平："
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        314,
+        739,
+        333
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        964,
+        1606,
+        1022
+      ],
+      "model_image_bbox": [
+        166,
+        502,
+        836,
+        532
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        231.4,
+        385.43,
+        245.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在等腰直角三角尺斜边的中点拴一条线绳，线绳的另一端挂一个铅锤，把这块三角尺的斜边贴在房梁上，如果线绳经过三角尺的直角顶点，那么可以确定房梁是水平的．他们的方法对吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        340,
+        891,
+        411
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        341,
+        1044,
+        1937,
+        1262
+      ],
+      "model_image_bbox": [
+        177,
+        544,
+        1008,
+        657
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        250.56,
+        464.7,
+        302.89
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c4f633d2d706240e5ebecbc99154e60fb4a79b49414812118b460d9fe92ab686.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第8题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        238,
+        453,
+        503,
+        555
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        517,
+        1391,
+        1093,
+        1704
+      ],
+      "model_image_bbox": [
+        269,
+        724,
+        569,
+        888
+      ],
+      "pdf_page_bbox": [
+        124.13,
+        333.84,
+        262.34,
+        409.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c1bdc0262f0dd6c1a1da55a211ed1c296fdcbb154c92fabd54d98f19ecbfaee8.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第9题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        624,
+        411,
+        798,
+        560
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1356,
+        1262,
+        1734,
+        1719
+      ],
+      "model_image_bbox": [
+        706,
+        657,
+        903,
+        896
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        302.89,
+        416.2,
+        412.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "9.上午8时，一条船从海岛A 出发，以15n mile/h的速度向正北航行，10 时到达海岛B处.从A，B 望灯塔C，测得 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle N A C = 4 2 ^ { \\circ }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle N B C = 8 4 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": ".求海岛B 与灯塔C 的距离."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        598,
+        891,
+        670
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        319,
+        1836,
+        1937,
+        2057
+      ],
+      "model_image_bbox": [
+        166,
+        956,
+        1008,
+        1072
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        440.7,
+        464.7,
+        493.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "10.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是等边三角形，E是边AC 上的点，且 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle 1 = \\angle 2"
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D = B E"
+          },
+          {
+            "type": "text",
+            "content": "判断 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A D E"
+          },
+          {
+            "type": "text",
+            "content": "的形状，并说明理由."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        677,
+        889,
+        722
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        319,
+        2079,
+        1932,
+        2217
+      ],
+      "model_image_bbox": [
+        166,
+        1083,
+        1006,
+        1155
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        498.92,
+        463.66,
+        532.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a1d9e9df260bb5d86c8cab989df0b1cc62fd451157d6fd25d9be411930472fec.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第10题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        260,
+        730,
+        466,
+        845
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        565,
+        2241,
+        1013,
+        2594
+      ],
+      "model_image_bbox": [
+        294,
+        1168,
+        527,
+        1352
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        537.97,
+        243.04,
+        622.72
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5f05f1580fe886e050cbd7365e7c9d52a69782878b99f107bc53526135f69f1d.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第11题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        587,
+        734,
+        778,
+        845
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1276,
+        2254,
+        1691,
+        2594
+      ],
+      "model_image_bbox": [
+        664,
+        1174,
+        880,
+        1352
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        540.92,
+        405.77,
+        622.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "11.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A E C"
+          },
+          {
+            "type": "text",
+            "content": "都是等边三角形.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B E { = } D C ."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        881,
+        714,
+        901
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        319,
+        2705,
+        1552,
+        2766
+      ],
+      "model_image_bbox": [
+        166,
+        1409,
+        808,
+        1441
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        649.25,
+        372.39,
+        663.99
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1584,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "85"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "page_id": 55,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "14.3 角的平分线"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        71,
+        442,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        218,
+        960,
+        313
+      ],
+      "model_image_bbox": [
+        91,
+        113,
+        500,
+        163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        52.32,
+        230.53,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "前面我们学习了全等三角形的性质和判定，知道可以通过证明三角形全等，来证明线段相等或角相等.本节利用这个方法研究角的平分线，研究角的平分线上的点具有什么特性，以及满足什么条件的点在角的平分线上."
+          }
+        ]
+      },
+      "bbox": [
+        257,
+        157,
+        874,
+        265
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        558,
+        482,
+        1900,
+        813
+      ],
+      "model_image_bbox": [
+        290,
+        251,
+        989,
+        424
+      ],
+      "pdf_page_bbox": [
+        134.04,
+        115.7,
+        455.84,
+        195.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "角的平分线上的点的特性是由其与角的两边的关系体现的．我们先来看角的平分线上的点与角两边上的点所连线段的数量关系."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        291,
+        869,
+        342
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        176,
+        893,
+        1889,
+        1050
+      ],
+      "model_image_bbox": [
+        91,
+        465,
+        983,
+        547
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        214.45,
+        453.23,
+        252.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b744c835438ce6fd6cea33773e15564d40dae0fc8503e63b3768d5865214fd7d.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        355,
+        135,
+        381
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        213,
+        1090,
+        293,
+        1170
+      ],
+      "model_image_bbox": [
+        110,
+        568,
+        152,
+        609
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        261.62,
+        70.41,
+        280.78
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        355,
+        201,
+        380
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        213,
+        1090,
+        436,
+        1166
+      ],
+      "model_image_bbox": [
+        110,
+        568,
+        227,
+        608
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        261.62,
+        104.83,
+        280.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.3-1，OC是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线，P是OC上的任意一点，M，N分别是OA，OB上的点，我们研究PM与PN的关系."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        392,
+        665,
+        470
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        1203,
+        1445,
+        1443
+      ],
+      "model_image_bbox": [
+        116,
+        627,
+        752,
+        752
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        288.89,
+        346.83,
+        346.37
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6b25877924910053a1c488ac31c1fbb9bdbaf56f657db307d868eff4dc5b784a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        680,
+        394,
+        845,
+        489
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1478,
+        1209,
+        1837,
+        1501
+      ],
+      "model_image_bbox": [
+        769,
+        630,
+        956,
+        782
+      ],
+      "pdf_page_bbox": [
+        354.66,
+        290.36,
+        440.71,
+        360.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "研究几何图形的关系时，我们往往关注其中的一些特殊情况.在图14.3-1中，当OM与ON满足什么关系时， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P M { = } P N ?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        479,
+        663,
+        555
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        223,
+        1471,
+        1441,
+        1704
+      ],
+      "model_image_bbox": [
+        116,
+        766,
+        750,
+        888
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        353.0,
+        345.79,
+        409.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.3-1"
+          }
+        ]
+      },
+      "bbox": [
+        719,
+        501,
+        808,
+        519
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1563,
+        1538,
+        1756,
+        1593
+      ],
+      "model_image_bbox": [
+        813,
+        801,
+        914,
+        830
+      ],
+      "pdf_page_bbox": [
+        375.0,
+        369.21,
+        421.41,
+        382.48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在图14.3-1中可以发现，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O P M }"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O P N }"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O P = O P , \\angle P O M ="
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle P O N"
+          },
+          {
+            "type": "text",
+            "content": "．如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O M { = } O N"
+          },
+          {
+            "type": "text",
+            "content": "，那么 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle O P M { \\cong } \\triangle O P N"
+          },
+          {
+            "type": "text",
+            "content": "(SAS)，就有 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P M { = } P N"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        571,
+        869,
+        621
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        169,
+        1753,
+        1889,
+        1907
+      ],
+      "model_image_bbox": [
+        88,
+        913,
+        983,
+        993
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        420.8,
+        453.23,
+        457.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "反过来，如图14.3-2，M，N分别是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的边OA，OB上的点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O M = O N"
+          },
+          {
+            "type": "text",
+            "content": "．点P在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的内部，"
+          },
+          {
+            "type": "equation_inline",
+            "content": "P M = P N"
+          },
+          {
+            "type": "text",
+            "content": "．连接OP，可以证明 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle O P M \\cong \\triangle O P N"
+          },
+          {
+            "type": "text",
+            "content": "(SSS），所以 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle P O M { = } \\angle P O N"
+          },
+          {
+            "type": "text",
+            "content": "，即点P在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线上."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        628,
+        665,
+        762
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        169,
+        1928,
+        1445,
+        2340
+      ],
+      "model_image_bbox": [
+        88,
+        1004,
+        752,
+        1219
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        462.81,
+        346.83,
+        561.56
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4f97269a1ede0654fe088a50bfd21eee7ad6ab3fd01c0b4faea09f80472b1d98.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.3-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        680,
+        630,
+        845,
+        723
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1478,
+        1934,
+        1837,
+        2220
+      ],
+      "model_image_bbox": [
+        769,
+        1008,
+        956,
+        1156
+      ],
+      "pdf_page_bbox": [
+        354.66,
+        464.28,
+        440.71,
+        532.82
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3360d0e6b62b3d2e67d635c1284061f510190c902464480086f287947bf9784c.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        779,
+        135,
+        802
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        213,
+        2392,
+        293,
+        2462
+      ],
+      "model_image_bbox": [
+        110,
+        1246,
+        152,
+        1283
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        574.09,
+        70.41,
+        591.04
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "? 思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        779,
+        201,
+        802
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        213,
+        2392,
+        436,
+        2462
+      ],
+      "model_image_bbox": [
+        110,
+        1246,
+        227,
+        1283
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        574.09,
+        104.83,
+        591.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由上述结论，你能想到如何作一个角的平分线吗？"
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        814,
+        651,
+        835
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        323,
+        2499,
+        1415,
+        2564
+      ],
+      "model_image_bbox": [
+        168,
+        1302,
+        736,
+        1336
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        599.88,
+        339.53,
+        615.35
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "根据上述结论，可以先在角的两边上分别作出与角的顶点距离相等的两点，再在角的内部作出与这两点距离相等的点，以角的顶点为端点，作过这个"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        850,
+        874,
+        901
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        176,
+        2610,
+        1900,
+        2766
+      ],
+      "model_image_bbox": [
+        91,
+        1360,
+        989,
+        1441
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        626.41,
+        455.84,
+        663.99
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "48"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

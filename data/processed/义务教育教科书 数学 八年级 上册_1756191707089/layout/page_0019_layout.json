@@ -1,0 +1,1048 @@
+{
+  "page_id": 19,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "边BC（图13.3-2)．由平行线的性质与平角的定义就能证明“三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ , \\mathfrak { s } }"
+          },
+          {
+            "type": "text",
+            "content": "这个结论."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        67,
+        599,
+        118
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        169,
+        205,
+        1302,
+        362
+      ],
+      "model_image_bbox": [
+        88,
+        107,
+        678,
+        188
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        49.38,
+        312.41,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "已知： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "（图13.3-2)."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        125,
+        412,
+        145
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        383,
+        895,
+        445
+      ],
+      "model_image_bbox": [
+        141,
+        200,
+        466,
+        232
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        92.12,
+        214.88,
+        106.86
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "求证： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A + \\angle B + \\angle C = 1 8 0 ^ { \\circ } ."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        152,
+        442,
+        173
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        466,
+        960,
+        531
+      ],
+      "model_image_bbox": [
+        141,
+        243,
+        500,
+        276
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        112.02,
+        230.53,
+        127.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/151207b2fca0f716975a5d14b38e0e13233d83ba34fe3281656d69d927b162a4.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.3-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        648,
+        69,
+        867,
+        171
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1408,
+        211,
+        1884,
+        525
+      ],
+      "model_image_bbox": [
+        733,
+        110,
+        981,
+        273
+      ],
+      "pdf_page_bbox": [
+        337.97,
+        50.85,
+        452.19,
+        126.02
+      ]
+    },
+    {
+      "type": "list",
+      "content": {
+        "list_type": "text_list",
+        "attribute": "unordered",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "证明：如图13.3-2，过点A作直线L，使 "
+              },
+              {
+                "type": "equation_inline",
+                "content": "l / / B C"
+              },
+              {
+                "type": "equation_inline",
+                "content": "\\because \\quad l / / B C ,"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "equation_inline",
+                "content": "\\therefore \\angle 2 = \\angle 4"
+              },
+              {
+                "type": "text",
+                "content": "(两直线平行，内错角相等).同理 "
+              },
+              {
+                "type": "equation_inline",
+                "content": "\\angle 3 = \\angle 5 ."
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "equation_inline",
+                "content": "\\because < 1 , \\ \\angle 4 , \\ \\angle 5"
+              },
+              {
+                "type": "text",
+                "content": "组成平角，"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "equation_inline",
+                "content": "\\therefore \\angle 1 + \\angle 4 + \\angle 5 = 1 8 0 ^ { \\circ }"
+              },
+              {
+                "type": "text",
+                "content": "（平角定义)."
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "equation_inline",
+                "content": "\\therefore \\angle 1 + \\angle 2 + \\angle 3 = 1 8 0 ^ { \\circ }"
+              },
+              {
+                "type": "text",
+                "content": "（等量代换)."
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        182,
+        599,
+        375
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        271,
+        558,
+        1302,
+        1151
+      ],
+      "model_image_bbox": [
+        141,
+        291,
+        678,
+        600
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        134.13,
+        312.41,
+        276.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "以上我们就证明了任意一个三角形的内角和都等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，得到如下三角形的内角和定理："
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        381,
+        599,
+        430
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        176,
+        1170,
+        1302,
+        1320
+      ],
+      "model_image_bbox": [
+        91,
+        609,
+        678,
+        688
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        280.78,
+        312.41,
+        316.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由图 13.3-1（2)，你能给出这个定理的其他证法吗?"
+          }
+        ]
+      },
+      "bbox": [
+        624,
+        368,
+        845,
+        435
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1356,
+        1130,
+        1837,
+        1335
+      ],
+      "model_image_bbox": [
+        706,
+        588,
+        956,
+        696
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        271.2,
+        440.71,
+        320.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角形的内角和等于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "1 8 0 ^ { \\circ }"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        439,
+        393,
+        458
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1348,
+        854,
+        1406
+      ],
+      "model_image_bbox": [
+        141,
+        702,
+        444,
+        732
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        323.52,
+        204.97,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例1如图13.3-3，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C ="
+          },
+          {
+            "type": "equation_inline",
+            "content": "4 0 ^ { \\circ } , \\angle B = 7 5 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，AD是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的角平分线.求"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A D B"
+          },
+          {
+            "type": "text",
+            "content": "的度数."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        465,
+        599,
+        543
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        169,
+        1428,
+        1302,
+        1667
+      ],
+      "model_image_bbox": [
+        88,
+        744,
+        678,
+        868
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        342.68,
+        312.41,
+        400.16
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/09be26c702f4388c5680324468b0ee13a83d2ed51e376a1aadb4e7b9e0ce836f.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        665,
+        467,
+        869,
+        571
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1445,
+        1434,
+        1889,
+        1753
+      ],
+      "model_image_bbox": [
+        752,
+        747,
+        983,
+        913
+      ],
+      "pdf_page_bbox": [
+        346.83,
+        344.16,
+        453.23,
+        420.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解：由 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C = 4 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，AD是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的角平分线，得"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        552,
+        601,
+        600
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        169,
+        1695,
+        1306,
+        1842
+      ],
+      "model_image_bbox": [
+        88,
+        883,
+        680,
+        960
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        406.8,
+        313.45,
+        442.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图13.3-3"
+          }
+        ]
+      },
+      "bbox": [
+        722,
+        583,
+        813,
+        600
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1569,
+        1790,
+        1767,
+        1842
+      ],
+      "model_image_bbox": [
+        817,
+        932,
+        920,
+        960
+      ],
+      "pdf_page_bbox": [
+        376.56,
+        429.64,
+        424.02,
+        442.17
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle B A D = { \\frac { 1 } { 2 } } \\angle B A C = 2 0 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/9af7576240d51478024a52a6b5cff76bd9355a401e98436ee3ae0647ab85dc18.jpg"
+        }
+      },
+      "bbox": [
+        211,
+        609,
+        469,
+        647
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        458,
+        1870,
+        1019,
+        1986
+      ],
+      "model_image_bbox": [
+        238,
+        974,
+        530,
+        1035
+      ],
+      "pdf_page_bbox": [
+        110.05,
+        448.8,
+        244.61,
+        476.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        657,
+        270,
+        677
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        2017,
+        586,
+        2079
+      ],
+      "model_image_bbox": [
+        141,
+        1051,
+        305,
+        1083
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        484.18,
+        140.82,
+        498.92
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle A D B = 1 8 0 ^ { \\circ } - \\angle B - \\angle B A D = 1 8 0 ^ { \\circ } - 7 5 ^ { \\circ } - 2 0 ^ { \\circ } = 8 5 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/28ca3d19262df2672818fae0391ef2948cf189d61c6bdce84b3ecf80d84138b5.jpg"
+        }
+      },
+      "bbox": [
+        203,
+        685,
+        744,
+        704
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        441,
+        2103,
+        1617,
+        2161
+      ],
+      "model_image_bbox": [
+        229,
+        1096,
+        842,
+        1126
+      ],
+      "pdf_page_bbox": [
+        105.88,
+        504.81,
+        388.03,
+        518.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例2图13.3-4是A，B，C三岛的平面图，C岛在A岛的北偏东 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "5 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "方向，B岛在A岛的北偏东 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "8 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "方向，C岛在B岛的北偏西 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "4 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "方向．从B岛看A，C两岛的视角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是多少度?从C岛看A，B两岛的视角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C B"
+          },
+          {
+            "type": "text",
+            "content": "呢？"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        713,
+        601,
+        848
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        169,
+        2189,
+        1306,
+        2604
+      ],
+      "model_image_bbox": [
+        88,
+        1140,
+        680,
+        1356
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        525.45,
+        313.45,
+        624.94
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3b09feb46eed104df3ef4fc4504d511b229ce7d25f584ad688a18d585e7eb12e.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.3-4"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        621,
+        715,
+        867,
+        819
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1350,
+        2195,
+        1884,
+        2515
+      ],
+      "model_image_bbox": [
+        702,
+        1144,
+        981,
+        1310
+      ],
+      "pdf_page_bbox": [
+        323.88,
+        526.92,
+        452.19,
+        603.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：A，B，C三岛的连线构成 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，所求的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C B"
+          },
+          {
+            "type": "text",
+            "content": "是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的一个内角．如果能求出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C A B , \\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，就能求出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C B"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        855,
+        869,
+        906
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        176,
+        2625,
+        1889,
+        2782
+      ],
+      "model_image_bbox": [
+        91,
+        1368,
+        983,
+        1449
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        630.09,
+        453.23,
+        667.68
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "12"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        271,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

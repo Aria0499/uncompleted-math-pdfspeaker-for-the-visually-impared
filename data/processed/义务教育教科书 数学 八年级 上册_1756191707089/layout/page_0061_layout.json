@@ -1,0 +1,453 @@
+{
+  "page_id": 61,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/473ea104a97719d33be9eebf8056773065891936d1b124506ac5462ac9b41336.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        78,
+        788,
+        122,
+        821
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        169,
+        2419,
+        265,
+        2521
+      ],
+      "model_image_bbox": [
+        88,
+        1260,
+        138,
+        1313
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        580.72,
+        63.63,
+        605.04
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": " 图说数学史"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        59,
+        270,
+        83
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        181,
+        586,
+        254
+      ],
+      "model_image_bbox": [
+        91,
+        94,
+        305,
+        132
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        43.48,
+        140.82,
+        61.17
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "公理化方法"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        407,
+        140,
+        582,
+        166
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        884,
+        429,
+        1265,
+        509
+      ],
+      "model_image_bbox": [
+        460,
+        224,
+        658,
+        265
+      ],
+      "pdf_page_bbox": [
+        212.27,
+        103.17,
+        303.54,
+        122.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "公理化方法，就是从尽可能少的基本概念和尽可能少的一组不加证明的原始命题（公理或公设）出发，应用严格的逻辑推理，推导出其余的命题，使某一数学分支成为演绎系统的一种方法."
+          }
+        ]
+      },
+      "bbox": [
+        76,
+        201,
+        491,
+        335
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        165,
+        617,
+        1067,
+        1028
+      ],
+      "model_image_bbox": [
+        86,
+        321,
+        555,
+        536
+      ],
+      "pdf_page_bbox": [
+        39.64,
+        148.13,
+        256.08,
+        246.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "借助这种方法，就可以将知识整理在一个严密的系统中，建成一座“大厦”《原本》（Elements）就是从5个公理、5个公设和一些基本定义出发，建立了一座由400 多个定理组成的“几何大厦”，这是历史上的第一个数学公理化体系，也称欧氏几何.此后，它成为数学乃至科学发展的公理化典范."
+          }
+        ]
+      },
+      "bbox": [
+        76,
+        343,
+        493,
+        534
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        165,
+        1053,
+        1071,
+        1639
+      ],
+      "model_image_bbox": [
+        86,
+        548,
+        558,
+        854
+      ],
+      "pdf_page_bbox": [
+        39.64,
+        252.77,
+        257.13,
+        393.53
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "唐雯之世自義和治歷暨司空店稷工雯典樂王官者非度數不為力肉官六藝數與屋一島而五藝者不以度數姥事品不得工也裹膽之於青般墨之於械其易信使人鐸其文想見其意理兩知光生之學可信不疑大縣如是則是書之為用更大美他研說幾何諧家藉此乌用略具其自敘中不備論吳冰徐光啟書"
+          }
+        ]
+      },
+      "bbox": [
+        115,
+        607,
+        493,
+        866
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        250,
+        1864,
+        1071,
+        2659
+      ],
+      "model_image_bbox": [
+        130,
+        971,
+        558,
+        1385
+      ],
+      "pdf_page_bbox": [
+        59.98,
+        447.33,
+        257.13,
+        638.2
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2b91e215fc12968966da01ee140999b69aa7c45c5a79fd3a046d8547a741392d.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "古希腊数学家欧几里得（Euclid，活动于公元前 300 年前后）运用公理化方法，系统整理已有的几何知识，写成了《原本》。"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        542,
+        206,
+        914,
+        414
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1178,
+        632,
+        1987,
+        1271
+      ],
+      "model_image_bbox": [
+        613,
+        329,
+        1034,
+        662
+      ],
+      "pdf_page_bbox": [
+        282.68,
+        151.81,
+        476.7,
+        305.1
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/be416d09c8c034aa9f2619783757f1cec1a094e05316b9db0454c93a0c773b3e.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "最早的《原本》（前六卷）汉译本是1607年由徐光启(1562—1633）和利玛窦(Matteo Ricci，1552—1610）合译的，翻译时使用了“几何原本”这个名称."
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        498,
+        545,
+        911,
+        779
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1082,
+        1673,
+        1980,
+        2392
+      ],
+      "model_image_bbox": [
+        563,
+        872,
+        1031,
+        1246
+      ],
+      "pdf_page_bbox": [
+        259.73,
+        401.64,
+        475.13,
+        574.09
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        32
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "54"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        954
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2929
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1526
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章 全等三形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "page_id": 44,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.2-11，由 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } { = } A B"
+          },
+          {
+            "type": "text",
+            "content": "可知，如果使点"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点A重合，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "在射线AB上，那么点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点B重合.另外，使点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "落在直线AB的含有点C的一侧.由于点C是以点A为圆心、AC为半径的圆和以点B为圆心、BC为半径的圆的交点，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "是以点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为圆心、 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为半径的圆和以点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为圆心、 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为半径的圆的交点，所以由 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } C ^ { \\prime } { = } A C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } C ^ { \\prime } { = } B C"
+          },
+          {
+            "type": "text",
+            "content": "可知点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime } ."
+          },
+          {
+            "type": "text",
+            "content": "与点C重合.这样， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        67,
+        611,
+        288
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        265,
+        205,
+        1328,
+        884
+      ],
+      "model_image_bbox": [
+        138,
+        107,
+        691,
+        460
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        49.38,
+        318.67,
+        212.24
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/091b597555ecc22969cdd4e60c4707e01918c3f86afcdc2dbad3dd8bb81c1325.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-11"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        624,
+        67,
+        914,
+        227
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        1356,
+        205,
+        1987,
+        697
+      ],
+      "model_image_bbox": [
+        706,
+        107,
+        1034,
+        363
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        49.38,
+        476.7,
+        167.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "的三个顶点与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的三个顶点分别重合， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "能够完全重合，因而 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime } { \\cong } \\triangle A B C"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        295,
+        916,
+        345
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        905,
+        1991,
+        1059
+      ],
+      "model_image_bbox": [
+        141,
+        472,
+        1036,
+        552
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        217.4,
+        477.74,
+        254.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由探究4可以得到以下基本事实，用它可以判定两个三角形全等："
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        352,
+        830,
+        373
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        1080,
+        1804,
+        1145
+      ],
+      "model_image_bbox": [
+        191,
+        563,
+        939,
+        596
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        259.41,
+        432.89,
+        274.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三边分别相等的两个三角形全等（可以简写成“边边边”或“SSS”)."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        381,
+        867,
+        401
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        367,
+        1170,
+        1884,
+        1231
+      ],
+      "model_image_bbox": [
+        191,
+        609,
+        981,
+        641
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        280.78,
+        452.19,
+        295.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用这个基本事实，可以说明我们曾经做过的实验的结果：将三根木条钉成一个三角形木架，这个三角形木架的形状、大小就不变了，也就是三角形具有稳定性."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        409,
+        916,
+        487
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        265,
+        1256,
+        1991,
+        1495
+      ],
+      "model_image_bbox": [
+        138,
+        654,
+        1036,
+        779
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        301.41,
+        477.74,
+        358.9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "上述分析过程也告诉我们：已知三角形的三边，可以利用直尺和圆规作一个三角形."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        494,
+        916,
+        543
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        265,
+        1517,
+        1991,
+        1667
+      ],
+      "model_image_bbox": [
+        138,
+        790,
+        1036,
+        868
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        364.05,
+        477.74,
+        400.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.2-12，已知三条线段a，b，c（其中任意两条线段的和大于第三条线段），求作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，使其三边分别为a，b，c."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        552,
+        916,
+        600
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1695,
+        1991,
+        1842
+      ],
+      "model_image_bbox": [
+        141,
+        883,
+        1036,
+        960
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        406.8,
+        477.74,
+        442.17
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/fce6b72d07090ada7e0993eda211a2fb0b846fc44dbf474600031256c2f6d2b4.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-12"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        287,
+        625,
+        385,
+        682
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        623,
+        1919,
+        836,
+        2094
+      ],
+      "model_image_bbox": [
+        324,
+        1000,
+        435,
+        1091
+      ],
+      "pdf_page_bbox": [
+        149.69,
+        460.6,
+        200.8,
+        502.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2b355d74255d5ac109543808ae7c23815f20721130a318a6210be1eafa079dfc.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-13"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        587,
+        609,
+        749,
+        682
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1276,
+        1870,
+        1628,
+        2094
+      ],
+      "model_image_bbox": [
+        664,
+        974,
+        847,
+        1091
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        448.8,
+        390.64,
+        502.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图14.2-13."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        725,
+        383,
+        744
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        367,
+        2226,
+        832,
+        2284
+      ],
+      "model_image_bbox": [
+        191,
+        1160,
+        433,
+        1190
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        534.29,
+        199.75,
+        548.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）作线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = c"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        753,
+        378,
+        772
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        367,
+        2312,
+        821,
+        2370
+      ],
+      "model_image_bbox": [
+        191,
+        1204,
+        427,
+        1235
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        554.92,
+        197.15,
+        568.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）分别以点A，B为圆心，线段b，a为半径作弧，两弧相交于点C；"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        782,
+        891,
+        802
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        367,
+        2401,
+        1937,
+        2462
+      ],
+      "model_image_bbox": [
+        191,
+        1251,
+        1008,
+        1283
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        576.3,
+        464.7,
+        591.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）连接AC，BC，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "就是所求作的三角形."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        809,
+        700,
+        829
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        367,
+        2484,
+        1521,
+        2545
+      ],
+      "model_image_bbox": [
+        191,
+        1294,
+        792,
+        1326
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        596.19,
+        365.09,
+        610.93
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例3在如图14.2-14所示的三角形钢架中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } A C"
+          },
+          {
+            "type": "text",
+            "content": "，AD是连接点A与BC中点D的支架.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        838,
+        914,
+        887
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        271,
+        2573,
+        1987,
+        2723
+      ],
+      "model_image_bbox": [
+        141,
+        1340,
+        1034,
+        1419
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        617.57,
+        476.7,
+        653.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D { \\cong } \\triangle A C D"
+          },
+          {
+            "type": "text",
+            "content": "，那么 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A D B = \\angle A D C"
+          },
+          {
+            "type": "text",
+            "content": "，从而有 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        894,
+        911,
+        914
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        367,
+        2745,
+        1980,
+        2806
+      ],
+      "model_image_bbox": [
+        191,
+        1430,
+        1031,
+        1462
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        658.84,
+        475.13,
+        673.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "37"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

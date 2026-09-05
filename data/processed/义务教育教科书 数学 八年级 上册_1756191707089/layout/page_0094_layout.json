@@ -1,0 +1,613 @@
+{
+  "page_id": 94,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle C = \\angle A D E .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/babfae49c0c629a317bc1b67b79fed64c7bebcf77db044427dfc7d830c44aeba.jpg"
+        }
+      },
+      "bbox": [
+        454,
+        83,
+        597,
+        104
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        986,
+        254,
+        1297,
+        319
+      ],
+      "model_image_bbox": [
+        513,
+        132,
+        675,
+        166
+      ],
+      "pdf_page_bbox": [
+        236.78,
+        61.17,
+        311.37,
+        76.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "\\because \\angle A D E > \\angle B"
+          },
+          {
+            "type": "text",
+            "content": "（想一想为什么），"
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        109,
+        555,
+        130
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        436,
+        334,
+        1206,
+        399
+      ],
+      "model_image_bbox": [
+        227,
+        174,
+        628,
+        208
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        80.33,
+        289.46,
+        95.8
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle C > \\angle B .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/3a139dfa872b82e723469016b9542b7eb83f8343a7336f8574e2ab1b280d7f5f.jpg"
+        }
+      },
+      "bbox": [
+        203,
+        135,
+        361,
+        156
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        441,
+        414,
+        784,
+        479
+      ],
+      "model_image_bbox": [
+        229,
+        216,
+        408,
+        249
+      ],
+      "pdf_page_bbox": [
+        105.88,
+        99.49,
+        188.28,
+        114.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "这说明，在一个三角形中，如果两条边不等，那么它们所对的角也不等，大边所对的角较大."
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        161,
+        891,
+        208
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        341,
+        494,
+        1937,
+        638
+      ],
+      "model_image_bbox": [
+        177,
+        257,
+        1008,
+        332
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        118.65,
+        464.7,
+        153.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "从上面的过程可以看出，利用轴对称的性质，可以把研究两个量之间的不等问题，转化为较大量的一部分与较小量相等的问题，这是几何中研究不等问题时常用的方法."
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        213,
+        710,
+        286
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        341,
+        654,
+        1543,
+        878
+      ],
+      "model_image_bbox": [
+        177,
+        340,
+        803,
+        457
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        156.97,
+        370.3,
+        210.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6ab3803dc74d88226a31316dd195d23e324809c125be25db5eb9cb13c87aa608.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        732,
+        215,
+        891,
+        310
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1591,
+        660,
+        1937,
+        952
+      ],
+      "model_image_bbox": [
+        828,
+        344,
+        1008,
+        496
+      ],
+      "pdf_page_bbox": [
+        381.78,
+        158.44,
+        464.7,
+        228.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似地，应用这种方法，你能说明“在一个三角形中，如果两个角不等，那么它们所对的边也不等，大角所对的边较大”吗（图2)?"
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        291,
+        710,
+        364
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        341,
+        893,
+        1543,
+        1117
+      ],
+      "model_image_bbox": [
+        177,
+        465,
+        803,
+        582
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        214.45,
+        370.3,
+        268.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图2"
+          }
+        ]
+      },
+      "bbox": [
+        798,
+        324,
+        842,
+        340
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1734,
+        995,
+        1830,
+        1044
+      ],
+      "model_image_bbox": [
+        903,
+        518,
+        953,
+        544
+      ],
+      "pdf_page_bbox": [
+        416.2,
+        238.77,
+        439.15,
+        250.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用上面两个结论，回答下面的问题："
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        369,
+        557,
+        390
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        436,
+        1133,
+        1210,
+        1197
+      ],
+      "model_image_bbox": [
+        227,
+        590,
+        630,
+        624
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        271.94,
+        290.5,
+        287.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1）在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，已知 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C > A B > A C"
+          },
+          {
+            "type": "text",
+            "content": "，那么 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A , \\angle B , \\angle C"
+          },
+          {
+            "type": "text",
+            "content": "有怎样的大小关系？"
+          }
+        ]
+      },
+      "bbox": [
+        159,
+        395,
+        891,
+        440
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        345,
+        1213,
+        1937,
+        1351
+      ],
+      "model_image_bbox": [
+        179,
+        632,
+        1008,
+        704
+      ],
+      "pdf_page_bbox": [
+        82.93,
+        291.1,
+        464.7,
+        324.26
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）如果一个三角形中最大的边所对的角是锐角，这个三角形一定是锐角三角形吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        159,
+        447,
+        891,
+        494
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        345,
+        1372,
+        1937,
+        1517
+      ],
+      "model_image_bbox": [
+        179,
+        715,
+        1008,
+        790
+      ],
+      "pdf_page_bbox": [
+        82.93,
+        329.42,
+        464.7,
+        364.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3）直角三角形的哪一条边最长？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        199,
+        500,
+        601,
+        519
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        432,
+        1535,
+        1306,
+        1593
+      ],
+      "model_image_bbox": [
+        225,
+        800,
+        680,
+        830
+      ],
+      "pdf_page_bbox": [
+        103.79,
+        368.48,
+        313.45,
+        382.48
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        32
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "87"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

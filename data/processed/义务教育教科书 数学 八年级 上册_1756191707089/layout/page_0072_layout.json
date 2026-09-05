@@ -1,0 +1,969 @@
+{
+  "page_id": 72,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2ccaa0f8a47825230023cdf6ab89b4120cfda8510592d93f84288f617b6b4f60.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        245,
+        90,
+        346,
+        168
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        532,
+        276,
+        752,
+        515
+      ],
+      "model_image_bbox": [
+        277,
+        144,
+        391,
+        268
+      ],
+      "pdf_page_bbox": [
+        127.78,
+        66.33,
+        180.46,
+        123.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        280,
+        177,
+        312,
+        192
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        608,
+        543,
+        678,
+        589
+      ],
+      "model_image_bbox": [
+        316,
+        283,
+        353,
+        307
+      ],
+      "pdf_page_bbox": [
+        146.03,
+        130.44,
+        162.72,
+        141.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/fa33b8f1445e6c084c90fbd0ea28a7832e8f43d27f442663fa6352833e529457.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        415,
+        95,
+        567,
+        166
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        902,
+        291,
+        1232,
+        509
+      ],
+      "model_image_bbox": [
+        469,
+        152,
+        641,
+        265
+      ],
+      "pdf_page_bbox": [
+        216.44,
+        70.01,
+        295.72,
+        122.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2) （第2题）"
+          }
+        ]
+      },
+      "bbox": [
+        471,
+        177,
+        562,
+        220
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1023,
+        543,
+        1221,
+        675
+      ],
+      "model_image_bbox": [
+        533,
+        283,
+        636,
+        352
+      ],
+      "pdf_page_bbox": [
+        245.65,
+        130.44,
+        293.11,
+        162.13
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6e1bca5190a1eaeeb73597aee320a4dff83f5cba2624bcc871b61d7a44cd05aa.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        643,
+        93,
+        798,
+        166
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1397,
+        285,
+        1734,
+        509
+      ],
+      "model_image_bbox": [
+        727,
+        148,
+        903,
+        265
+      ],
+      "pdf_page_bbox": [
+        335.36,
+        68.54,
+        416.2,
+        122.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ]
+      },
+      "bbox": [
+        705,
+        177,
+        737,
+        192
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1532,
+        543,
+        1602,
+        589
+      ],
+      "model_image_bbox": [
+        798,
+        283,
+        834,
+        307
+      ],
+      "pdf_page_bbox": [
+        367.69,
+        130.44,
+        384.38,
+        141.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.如图，线段AB与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "关于直线l对称， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "交直线l于点O，连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B O , B ^ { \\prime } O"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        230,
+        648,
+        281
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        706,
+        1408,
+        862
+      ],
+      "model_image_bbox": [
+        166,
+        368,
+        733,
+        449
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        169.5,
+        337.97,
+        207.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）图中相等的线段有：线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "的垂直平分线是"
+          }
+        ]
+      },
+      "bbox": [
+        176,
+        288,
+        646,
+        338
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        382,
+        884,
+        1404,
+        1037
+      ],
+      "model_image_bbox": [
+        199,
+        460,
+        731,
+        540
+      ],
+      "pdf_page_bbox": [
+        91.79,
+        212.24,
+        336.92,
+        249.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/12336a3db7572346a2135782d9027499a88a78668c770aa040a5d0fc041093cf.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        665,
+        232,
+        889,
+        343
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1445,
+        712,
+        1932,
+        1053
+      ],
+      "model_image_bbox": [
+        752,
+        371,
+        1006,
+        548
+      ],
+      "pdf_page_bbox": [
+        346.83,
+        170.97,
+        463.66,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2） "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O A B }"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O A ^ { \\prime } B ^ { \\prime } }"
+          },
+          {
+            "type": "text",
+            "content": "关于直线"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O A B } \\frac { \\triangle { O A ^ { \\prime } B ^ { \\prime } } , \\angle A B O \\ = \\ } { O A ^ { \\prime } B ^ { \\prime } }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A ^ { \\prime } O B ^ { \\prime } { = } \\qquad ."
+          }
+        ]
+      },
+      "bbox": [
+        176,
+        343,
+        646,
+        425
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        382,
+        1053,
+        1404,
+        1305
+      ],
+      "model_image_bbox": [
+        199,
+        548,
+        731,
+        680
+      ],
+      "pdf_page_bbox": [
+        91.79,
+        252.77,
+        336.92,
+        313.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ]
+      },
+      "bbox": [
+        737,
+        359,
+        820,
+        376
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1602,
+        1102,
+        1782,
+        1154
+      ],
+      "model_image_bbox": [
+        834,
+        574,
+        928,
+        601
+      ],
+      "pdf_page_bbox": [
+        384.38,
+        264.57,
+        427.67,
+        277.09
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.1.2线段的垂直平分线"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        171,
+        479,
+        501,
+        501
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        371,
+        1471,
+        1089,
+        1538
+      ],
+      "model_image_bbox": [
+        193,
+        766,
+        567,
+        801
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        353.0,
+        261.3,
+        369.21
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "轴对称图形的对称轴是连接其对称点的线段的垂直平分线，为作出对称轴，需要研究线段的垂直平分线的性质."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        510,
+        914,
+        559
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        265,
+        1566,
+        1987,
+        1716
+      ],
+      "model_image_bbox": [
+        138,
+        816,
+        1034,
+        894
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        375.85,
+        476.7,
+        411.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们类比角的平分线研究线段的垂直平分线.角的平分线的性质反映了角的平分线上的点到角两边的距离的关系，类似地，我们研究线段的垂直平分线上的点与线段两个端点的距离的关系."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        565,
+        916,
+        644
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        1735,
+        1991,
+        1977
+      ],
+      "model_image_bbox": [
+        141,
+        904,
+        1036,
+        1030
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        416.38,
+        477.74,
+        474.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c590e0c3dd0dd5a36b3c120d09e118cfce61e997bf45cf9296c09a314103dc22.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        659,
+        179,
+        684
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        308,
+        2023,
+        389,
+        2100
+      ],
+      "model_image_bbox": [
+        160,
+        1054,
+        202,
+        1094
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        485.65,
+        93.36,
+        504.08
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        142,
+        659,
+        243,
+        684
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        308,
+        2023,
+        528,
+        2100
+      ],
+      "model_image_bbox": [
+        160,
+        1054,
+        275,
+        1094
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        485.65,
+        126.74,
+        504.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.1-6，直线L垂直平分线段AB，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } , \\ P _ { 2 } , \\ P _ { 3 } , \\ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "在l上，分别比较点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { \\mathrm { ~ 2 ~ } } , ~ P _ { \\mathrm { ~ 3 ~ } } , ~ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "与点A的距离和这些点与点B的距离，你有什么发现？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        696,
+        614,
+        802
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        319,
+        2137,
+        1334,
+        2462
+      ],
+      "model_image_bbox": [
+        166,
+        1113,
+        695,
+        1283
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        512.92,
+        320.23,
+        591.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/df7177dc7e49b3f484932f72495ce098546dd60f758c470a418919d4ce66b7e2.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.1-6"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        687,
+        635,
+        832,
+        788
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1493,
+        1950,
+        1808,
+        2419
+      ],
+      "model_image_bbox": [
+        777,
+        1016,
+        941,
+        1260
+      ],
+      "pdf_page_bbox": [
+        358.31,
+        467.96,
+        433.93,
+        580.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "可以发现， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } A = P _ { 1 } B , \\ P _ { 2 } A = P _ { 2 } B , \\ P _ { 3 } A = P _ { 3 } B , \\ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "，如果把线段AB沿直线l对折，线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } A"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } B"
+          },
+          {
+            "type": "text",
+            "content": "、线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 2 } A"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 2 } B"
+          },
+          {
+            "type": "text",
+            "content": "、线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 3 } A"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 3 } B \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "都是重合的，因此它们也分别相等．由此猜想线段的垂直平分线有以下性质："
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        821,
+        914,
+        899
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        265,
+        2521,
+        1987,
+        2760
+      ],
+      "model_image_bbox": [
+        138,
+        1313,
+        1034,
+        1438
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        605.04,
+        476.7,
+        662.52
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "65"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

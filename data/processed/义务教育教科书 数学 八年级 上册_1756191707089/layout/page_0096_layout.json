@@ -1,0 +1,568 @@
+{
+  "page_id": 96,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们也可以利用多次轴对称进行图案设计．对称轴的位置不同，由同样的基本图形得到的图案也不同，如图4 和图5 所示."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        88,
+        891,
+        138
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        270,
+        1937,
+        423
+      ],
+      "model_image_bbox": [
+        166,
+        140,
+        1008,
+        220
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        64.85,
+        464.7,
+        101.7
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2ecc984b1d1810a70c854ddedf6f1326381a4e438d496db279147bc72888ca21.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图4"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        238,
+        164,
+        508,
+        236
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        517,
+        503,
+        1104,
+        724
+      ],
+      "model_image_bbox": [
+        269,
+        262,
+        575,
+        377
+      ],
+      "pdf_page_bbox": [
+        124.13,
+        120.86,
+        264.95,
+        173.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/45a3c7c6334a49c2bb280a13d7c5bcb6622fbac5395e7704827565b35a49933d.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图5"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        552,
+        145,
+        798,
+        236
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1200,
+        445,
+        1734,
+        724
+      ],
+      "model_image_bbox": [
+        624,
+        232,
+        903,
+        377
+      ],
+      "pdf_page_bbox": [
+        287.9,
+        106.86,
+        416.2,
+        173.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "有时，将平移和轴对称结合起来，可以设计出更丰富的图案，许多镶边和背景的图案就是这样设计的(图6)."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        263,
+        891,
+        314
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        807,
+        1937,
+        964
+      ],
+      "model_image_bbox": [
+        166,
+        420,
+        1008,
+        502
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        193.82,
+        464.7,
+        231.4
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b120744daf96917f8036828b6f6b2c574d030e84621eee5c5a99eb77104c9718.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图6"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        221,
+        319,
+        818,
+        376
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        480,
+        979,
+        1778,
+        1154
+      ],
+      "model_image_bbox": [
+        250,
+        510,
+        925,
+        601
+      ],
+      "pdf_page_bbox": [
+        115.26,
+        235.09,
+        426.63,
+        277.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "展开你的想象，借助信息技术工具，从一个或几个图形出发，利用轴对称或与平移进行组合，设计一些图案，并与同学交流."
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        411,
+        891,
+        463
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        313,
+        1262,
+        1937,
+        1421
+      ],
+      "model_image_bbox": [
+        163,
+        657,
+        1008,
+        740
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        302.89,
+        464.7,
+        341.21
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动3等腰三角形中相等的线段"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        137,
+        479,
+        542,
+        503
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        297,
+        1471,
+        1178,
+        1544
+      ],
+      "model_image_bbox": [
+        155,
+        766,
+        613,
+        804
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        353.0,
+        282.68,
+        370.69
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "猜想一下，等腰三角形底边中点到两腰的距离相等吗？如图7，你可以将等腰三角形ABC 沿对称轴AD折叠，观察 DE与DF的关系，并证明你的结论."
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        520,
+        894,
+        598
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        313,
+        1596,
+        1943,
+        1836
+      ],
+      "model_image_bbox": [
+        163,
+        832,
+        1012,
+        956
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        383.22,
+        466.27,
+        440.7
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9944b50db87542331806231498f9ed252ec21e011343b36f8139268fcf828c18.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        316,
+        607,
+        459,
+        772
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        686,
+        1864,
+        997,
+        2370
+      ],
+      "model_image_bbox": [
+        357,
+        971,
+        519,
+        1235
+      ],
+      "pdf_page_bbox": [
+        164.81,
+        447.33,
+        239.39,
+        568.93
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a55a019928b0694b85c7d7f199741c5e23eecd03563a9f739d528caec99f3c25.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图7"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        587,
+        611,
+        722,
+        782
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1276,
+        1876,
+        1569,
+        2401
+      ],
+      "model_image_bbox": [
+        664,
+        977,
+        817,
+        1251
+      ],
+      "pdf_page_bbox": [
+        306.15,
+        450.28,
+        376.56,
+        576.3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如果DE，DF分别是AB，AC上的中线或∠ADB，∠ADC的平分线，它们还相等吗？由等腰三角形是轴对称图形，利用类似的方法，还可以得到等腰三角形中哪些线段相等？证明其中的一些结论."
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        812,
+        894,
+        892
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        313,
+        2493,
+        1943,
+        2739
+      ],
+      "model_image_bbox": [
+        163,
+        1299,
+        1012,
+        1427
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        598.41,
+        466.27,
+        657.36
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "89"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "page_id": 78,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "9.如图，分别以线段a，c为一直角边和斜边，作直角三角形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        79,
+        724,
+        98
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        242,
+        1573,
+        300
+      ],
+      "model_image_bbox": [
+        166,
+        126,
+        819,
+        156
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        58.22,
+        377.6,
+        72.22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "10.如图，某地由于居民增多，要在公路ι上增加一个公共汽车站，A，B是路边两个新建小区，这个公共汽车站建在什么位置，能使两个小区到车站的路程一样长？在图上标出它的位置."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        105,
+        894,
+        177
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        322,
+        1943,
+        543
+      ],
+      "model_image_bbox": [
+        166,
+        168,
+        1012,
+        283
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        77.38,
+        466.27,
+        130.44
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/44f83cb3da1cb84c2434b30b28f41bb5feebd14f8bcc7bb5b220ce3e1cb82813.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第10题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        285,
+        222,
+        466,
+        305
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        619,
+        681,
+        1013,
+        936
+      ],
+      "model_image_bbox": [
+        322,
+        355,
+        527,
+        488
+      ],
+      "pdf_page_bbox": [
+        148.64,
+        163.6,
+        243.04,
+        224.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e48a6a05bab8bc582b749c08bd9b363f8b4435f80ae52d8351946300228a6845.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第11题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        582,
+        184,
+        744,
+        305
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1265,
+        565,
+        1617,
+        936
+      ],
+      "model_image_bbox": [
+        658,
+        294,
+        842,
+        488
+      ],
+      "pdf_page_bbox": [
+        303.54,
+        135.6,
+        388.03,
+        224.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "11.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "关于直线I 对称，对应线段AB和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "所在的直线相交吗？另外两组对应线段所在的直线相交吗？如果相交，交点与对称轴1 有什么关系？如果不相交，这组对应线段所在直线与对称轴 有什么关系？再找几个成轴对称的图形观察一下，你能发现什么规律?"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        345,
+        894,
+        446
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        1059,
+        1943,
+        1369
+      ],
+      "model_image_bbox": [
+        166,
+        552,
+        1012,
+        713
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        254.25,
+        466.27,
+        328.68
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        451,
+        262,
+        473
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        1385,
+        569,
+        1452
+      ],
+      "model_image_bbox": [
+        166,
+        721,
+        296,
+        756
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        332.37,
+        136.65,
+        348.58
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "12.如图，电信部门要在S区修建一座电视信号发射塔.按照设计要求，发射塔与两个城镇A，B 的距离相等，到两条高速公路m 和n 的距离也相等.发射塔应修建在什么位置？在图上标出它的位置."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        482,
+        894,
+        555
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        1480,
+        1943,
+        1704
+      ],
+      "model_image_bbox": [
+        166,
+        771,
+        1012,
+        888
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        355.21,
+        466.27,
+        409.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/0005c63de6de5cf2e30fe70b8e619b9dd9c490b8450ea75b6e0c08cb620e3381.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第12题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        289,
+        564,
+        442,
+        666
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        628,
+        1732,
+        960,
+        2045
+      ],
+      "model_image_bbox": [
+        327,
+        902,
+        500,
+        1065
+      ],
+      "pdf_page_bbox": [
+        150.73,
+        415.64,
+        230.53,
+        490.81
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2e93205ed582a4ddf3c46ac34af01f24bb44c07780e6bc7c034a54502b082a19.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第13题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        565,
+        572,
+        746,
+        670
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1228,
+        1756,
+        1621,
+        2057
+      ],
+      "model_image_bbox": [
+        639,
+        915,
+        844,
+        1072
+      ],
+      "pdf_page_bbox": [
+        294.68,
+        421.54,
+        389.08,
+        493.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "13.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，边AB，BC 的垂直平分线相交于点P."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        710,
+        739,
+        729
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        319,
+        2180,
+        1606,
+        2238
+      ],
+      "model_image_bbox": [
+        166,
+        1136,
+        836,
+        1166
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        523.24,
+        385.43,
+        537.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1）求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P A = P B = P C"
+          }
+        ]
+      },
+      "bbox": [
+        184,
+        736,
+        422,
+        753
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        400,
+        2260,
+        917,
+        2312
+      ],
+      "model_image_bbox": [
+        208,
+        1177,
+        477,
+        1204
+      ],
+      "pdf_page_bbox": [
+        95.97,
+        542.4,
+        220.09,
+        554.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2）点P是否也在边AC的垂直平分线上？由此你还能得出什么结论？"
+          }
+        ]
+      },
+      "bbox": [
+        184,
+        762,
+        837,
+        782
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        400,
+        2340,
+        1819,
+        2401
+      ],
+      "model_image_bbox": [
+        208,
+        1219,
+        947,
+        1251
+      ],
+      "pdf_page_bbox": [
+        95.97,
+        561.56,
+        436.54,
+        576.3
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        729,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1584,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        825,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        380.21,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "71"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        954
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2929
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1526
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

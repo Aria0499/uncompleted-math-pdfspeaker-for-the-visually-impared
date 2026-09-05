@@ -1,0 +1,698 @@
+{
+  "page_id": 14,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角形的稳定性有着广泛的应用，图13.2-4表示其中一些例子．你能再举一些例子吗？"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        67,
+        916,
+        118
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        265,
+        205,
+        1991,
+        362
+      ],
+      "model_image_bbox": [
+        138,
+        107,
+        1036,
+        188
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        49.38,
+        477.74,
+        86.96
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/87d260ab2e2771eec9324f6ba697e146b1201a904106f4246a8336eb6c26f559.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "起重机"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        245,
+        138,
+        395,
+        255
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        532,
+        423,
+        858,
+        783
+      ],
+      "model_image_bbox": [
+        277,
+        220,
+        447,
+        408
+      ],
+      "pdf_page_bbox": [
+        127.78,
+        101.7,
+        206.01,
+        187.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/461c49696074399e4bfa62fa2c73d1127c510cdf3b1ac9da327a74c7e122000c.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.2-4"
+          },
+          {
+            "type": "text",
+            "content": "钢架桥"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        491,
+        133,
+        793,
+        255
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1067,
+        408,
+        1723,
+        783
+      ],
+      "model_image_bbox": [
+        555,
+        212,
+        897,
+        408
+      ],
+      "pdf_page_bbox": [
+        256.08,
+        98.01,
+        413.59,
+        187.92
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        321,
+        250,
+        343
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        319,
+        985,
+        543,
+        1053
+      ],
+      "model_image_bbox": [
+        166,
+        513,
+        283,
+        548
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        236.56,
+        130.39,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.下列长度的三条线段能否组成三角形？为什么?(1) 3,4,8; (2) 5,6,11; (3)5，6，10."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        359,
+        749,
+        407
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        1102,
+        1628,
+        1249
+      ],
+      "model_image_bbox": [
+        166,
+        574,
+        847,
+        651
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        264.57,
+        390.64,
+        299.94
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.一根4dm长的木条和两根1dm长的木条，能否组成一个等腰三角形？两根4dm长的木条和一根1dm长的木条呢?"
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        414,
+        891,
+        465
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        313,
+        1271,
+        1937,
+        1428
+      ],
+      "model_image_bbox": [
+        163,
+        662,
+        1008,
+        744
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        305.1,
+        464.7,
+        342.68
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "13.2.2三角形的中线、角平分线、高"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        169,
+        512,
+        636,
+        534
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        367,
+        1572,
+        1382,
+        1639
+      ],
+      "model_image_bbox": [
+        191,
+        819,
+        719,
+        854
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        377.32,
+        331.71,
+        393.53
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "与三角形有关的线段，除了三条边，还有三种重要的线段：三角形的中线、角平分线、高."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        543,
+        914,
+        593
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        265,
+        1667,
+        1987,
+        1821
+      ],
+      "model_image_bbox": [
+        138,
+        868,
+        1034,
+        948
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        400.16,
+        476.7,
+        437.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图13.2-5（1），连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的顶点A和它所对的边BC的中点D，所得线段AD叫作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的边BC上的中线."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        598,
+        916,
+        649
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        265,
+        1836,
+        1991,
+        1993
+      ],
+      "model_image_bbox": [
+        138,
+        956,
+        1036,
+        1038
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        440.7,
+        477.74,
+        478.28
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2b9c8229ee8bcd2a3fa4baea25e97820c7a3af392f7ef42296cb93f59c99dff1.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        260,
+        651,
+        508,
+        751
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        565,
+        1999,
+        1104,
+        2306
+      ],
+      "model_image_bbox": [
+        294,
+        1041,
+        575,
+        1201
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        479.76,
+        264.95,
+        553.45
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e596bb32847e0370d9246ec7f85de004f57391fcbeb0d4068fff9457dc60c204.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(2)"
+          },
+          {
+            "type": "text",
+            "content": "图13.2-5"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        530,
+        651,
+        778,
+        750
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1152,
+        1999,
+        1691,
+        2303
+      ],
+      "model_image_bbox": [
+        599,
+        1041,
+        880,
+        1200
+      ],
+      "pdf_page_bbox": [
+        276.42,
+        479.76,
+        405.77,
+        552.71
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一个三角形有三条中线，这三条中线相交于一点（图13.2-5（2))．三角形三条中线的交点叫作三角形的重心."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        812,
+        914,
+        861
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        265,
+        2493,
+        1987,
+        2644
+      ],
+      "model_image_bbox": [
+        138,
+        1299,
+        1034,
+        1377
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        598.41,
+        476.7,
+        634.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图13.2-6（1），画 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "的平分线AD，交 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "所对的边BC于点D，所得线段AD叫作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的角平分线．三角形的三条角平分线相交于一"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        868,
+        916,
+        918
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        265,
+        2665,
+        1991,
+        2819
+      ],
+      "model_image_bbox": [
+        138,
+        1388,
+        1036,
+        1468
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        639.67,
+        477.74,
+        676.52
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        872,
+        954
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1895,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        987,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        454.79,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "7"
+          }
+        ]
+      },
+      "bbox": [
+        891,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1937,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1008,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        464.7,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

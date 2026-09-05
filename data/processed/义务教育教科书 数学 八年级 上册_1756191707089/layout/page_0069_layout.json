@@ -1,0 +1,560 @@
+{
+  "page_id": 69,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.1 图形的轴对称"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        81,
+        71,
+        488,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        218,
+        1060,
+        313
+      ],
+      "model_image_bbox": [
+        91,
+        113,
+        552,
+        163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        52.32,
+        254.52,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "与平移一样，轴对称也是一种基本的图形变化．本节我们类比研究平移的方法，研究轴对称及其性质."
+          }
+        ]
+      },
+      "bbox": [
+        260,
+        157,
+        872,
+        208
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        565,
+        482,
+        1895,
+        638
+      ],
+      "model_image_bbox": [
+        294,
+        251,
+        987,
+        332
+      ],
+      "pdf_page_bbox": [
+        135.6,
+        115.7,
+        454.79,
+        153.29
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "15.1.1轴对称及其性质"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        236,
+        432,
+        258
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        724,
+        939,
+        792
+      ],
+      "model_image_bbox": [
+        141,
+        377,
+        489,
+        412
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        173.92,
+        225.31,
+        190.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "对称现象无处不在，从自然景观到艺术作品，从建筑物到交通标志，甚至日常生活用品中，都可以找到对称的例子（图15.1-1)."
+          }
+        ]
+      },
+      "bbox": [
+        83,
+        267,
+        872,
+        315
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        180,
+        819,
+        1895,
+        967
+      ],
+      "model_image_bbox": [
+        93,
+        427,
+        987,
+        504
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        196.77,
+        454.79,
+        232.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1e5735c7a10897cc8abcc2e64c0da9a355a9a382dce6118d73d0581fb4788615.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.1-1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        130,
+        331,
+        823,
+        555
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        282,
+        1016,
+        1789,
+        1704
+      ],
+      "model_image_bbox": [
+        147,
+        529,
+        931,
+        888
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        243.93,
+        429.24,
+        409.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9eb4831330122586ea113219a6f3898a0b4c0641c691c6127e3794ef725e0894.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        595,
+        135,
+        621
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        213,
+        1827,
+        293,
+        1907
+      ],
+      "model_image_bbox": [
+        110,
+        952,
+        152,
+        993
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        438.49,
+        70.41,
+        457.65
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "观察"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        140,
+        597,
+        201,
+        619
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        304,
+        1833,
+        436,
+        1900
+      ],
+      "model_image_bbox": [
+        158,
+        955,
+        227,
+        990
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        439.96,
+        104.83,
+        456.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.1-2是3种美丽的窗花，它们都是通过把一张纸对折，剪出一个图案（折痕处不要完全剪断），再打开这张对折的纸得到的．观察这些窗花，你能发现它们有什么共同的特点吗？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        631,
+        850,
+        710
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        223,
+        1937,
+        1847,
+        2180
+      ],
+      "model_image_bbox": [
+        116,
+        1009,
+        962,
+        1136
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        465.02,
+        443.32,
+        523.24
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/97be95941b7c55403f0b53ca3eadfc007f0abdf5d0ee3ddf34d6377f6e7b7896.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        125,
+        722,
+        314,
+        822
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        271,
+        2217,
+        682,
+        2524
+      ],
+      "model_image_bbox": [
+        141,
+        1155,
+        355,
+        1315
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        532.08,
+        163.77,
+        605.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1b2fac3df841f488a3ef5b078349a81a336244e373516f04f5bfcabd02be3224.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.1-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        378,
+        723,
+        555,
+        821
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        821,
+        2220,
+        1206,
+        2521
+      ],
+      "model_image_bbox": [
+        427,
+        1156,
+        628,
+        1313
+      ],
+      "pdf_page_bbox": [
+        197.15,
+        532.82,
+        289.46,
+        605.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9b935d42a1605db181949f595bea43b63b969ce5e3430af0f076d68f15f2d9b5.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        606,
+        723,
+        825,
+        822
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1317,
+        2220,
+        1793,
+        2524
+      ],
+      "model_image_bbox": [
+        685,
+        1156,
+        933,
+        1315
+      ],
+      "pdf_page_bbox": [
+        316.06,
+        532.82,
+        430.28,
+        605.77
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "62"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        939,
+        113,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        184,
+        2883,
+        245,
+        2929
+      ],
+      "model_image_bbox": [
+        96,
+        1502,
+        127,
+        1526
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        692.0,
+        58.94,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        939,
+        270,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        2883,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1502,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        692.0,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

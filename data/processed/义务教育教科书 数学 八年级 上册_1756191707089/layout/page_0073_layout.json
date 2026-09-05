@@ -1,0 +1,1042 @@
+{
+  "page_id": 73,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "线段垂直平分线上的点与这条线段两个端点的距离相等."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        67,
+        690,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        205,
+        1500,
+        270
+      ],
+      "model_image_bbox": [
+        141,
+        107,
+        781,
+        140
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        49.38,
+        359.87,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "通过证明两个三角形全等，可以证明这个性质."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        97,
+        599,
+        118
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        297,
+        1302,
+        362
+      ],
+      "model_image_bbox": [
+        141,
+        155,
+        678,
+        188
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        71.48,
+        312.41,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图15.1-7，直线 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "l \\perp A B"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为C， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = B C"
+          },
+          {
+            "type": "text",
+            "content": "点P在I上.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P A = P B"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        125,
+        648,
+        175
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        176,
+        383,
+        1408,
+        537
+      ],
+      "model_image_bbox": [
+        91,
+        200,
+        733,
+        280
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        92.12,
+        337.97,
+        128.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "证明：当点P与点C不重合时，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        182,
+        452,
+        203
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        558,
+        982,
+        623
+      ],
+      "model_image_bbox": [
+        141,
+        291,
+        511,
+        324
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        134.13,
+        235.74,
+        149.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2a53f9ca63faa42e9451a27d2677f9ca7023470bec04bc4c8a36c4f707c32fd0.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        678,
+        97,
+        859,
+        194
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1473,
+        297,
+        1867,
+        595
+      ],
+      "model_image_bbox": [
+        767,
+        155,
+        972,
+        310
+      ],
+      "pdf_page_bbox": [
+        353.61,
+        71.48,
+        448.01,
+        142.97
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\because \\quad l \\perp A B ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/6df6173a04ef83e345e3fc75c05f14049601bfc80c2b18d4f38ead5c228666e6.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        210,
+        255,
+        230
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        282,
+        644,
+        554,
+        706
+      ],
+      "model_image_bbox": [
+        147,
+        336,
+        288,
+        368
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        154.76,
+        133.0,
+        169.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.1-7"
+          }
+        ]
+      },
+      "bbox": [
+        722,
+        208,
+        813,
+        225
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1569,
+        638,
+        1767,
+        690
+      ],
+      "model_image_bbox": [
+        817,
+        332,
+        920,
+        360
+      ],
+      "pdf_page_bbox": [
+        376.56,
+        153.29,
+        424.02,
+        165.81
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle P C A = \\angle P C B .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/bff62692b25342f4c7cb71a801e016a7e0d20d9ecccc9a363f69351790c75a35.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        237,
+        353,
+        260
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        282,
+        727,
+        767,
+        798
+      ],
+      "model_image_bbox": [
+        147,
+        379,
+        399,
+        416
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        174.66,
+        184.11,
+        191.61
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "A C = B C , P C = P C",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/a474580ef7515c91d18bdd63f2b773d12b9ff3a3da83344c732d47681bce0d68.jpg"
+        }
+      },
+      "bbox": [
+        171,
+        267,
+        383,
+        286
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        371,
+        819,
+        832,
+        878
+      ],
+      "model_image_bbox": [
+        193,
+        427,
+        433,
+        457
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        196.77,
+        199.75,
+        210.77
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\Delta P C A \\cong \\Delta P C B ( \\mathrm { S A S } ) .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/52a87b5bc95f590ae8899fafdcaf74130104a00f2a0620d04bf880ce57b825df.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        295,
+        432,
+        315
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        276,
+        905,
+        939,
+        967
+      ],
+      "model_image_bbox": [
+        143,
+        472,
+        489,
+        504
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        217.4,
+        225.31,
+        232.14
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore P A = P B .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/30be14ce342af2fa69a77ecf7116e43d5b8158ec08854a7653262c1307eed4e6.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        324,
+        277,
+        343
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        282,
+        995,
+        602,
+        1053
+      ],
+      "model_image_bbox": [
+        147,
+        518,
+        313,
+        548
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        238.77,
+        144.47,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当点P与点C重合时，显然成立."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        298,
+        857,
+        342
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1393,
+        915,
+        1863,
+        1050
+      ],
+      "model_image_bbox": [
+        725,
+        476,
+        970,
+        547
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        219.61,
+        446.97,
+        252.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c4d193614a97a9c3f63b6047b126c245628ced3e42a8e29e257c87b298be2ce7.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        359,
+        135,
+        383
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        213,
+        1102,
+        293,
+        1176
+      ],
+      "model_image_bbox": [
+        110,
+        574,
+        152,
+        612
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        264.57,
+        70.41,
+        282.25
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        359,
+        201,
+        383
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        213,
+        1102,
+        436,
+        1176
+      ],
+      "model_image_bbox": [
+        110,
+        574,
+        227,
+        612
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        264.57,
+        104.83,
+        282.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "把上面线段的垂直平分线的性质的题设和结论反过来，得到的命题还成立吗？即如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P A = P B"
+          },
+          {
+            "type": "text",
+            "content": "，那么点P是否在线段AB的垂直平分线上呢？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        390,
+        847,
+        440
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        223,
+        1197,
+        1841,
+        1351
+      ],
+      "model_image_bbox": [
+        116,
+        624,
+        958,
+        704
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        287.41,
+        441.75,
+        324.26
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "同样地，通过证明两个三角形全等，可以得到："
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        454,
+        601,
+        505
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        176,
+        1394,
+        1306,
+        1550
+      ],
+      "model_image_bbox": [
+        91,
+        726,
+        680,
+        808
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        334.58,
+        313.45,
+        372.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "与线段两个端点距离相等的点在这条线段的垂直平分线上."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        512,
+        601,
+        562
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        176,
+        1572,
+        1306,
+        1725
+      ],
+      "model_image_bbox": [
+        91,
+        819,
+        680,
+        899
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        377.32,
+        313.45,
+        414.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "请你自己证明这个结论."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        486,
+        857,
+        529
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1393,
+        1492,
+        1863,
+        1624
+      ],
+      "model_image_bbox": [
+        725,
+        777,
+        970,
+        846
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        358.16,
+        446.97,
+        389.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "从上面两个结论可以看出，线段垂直平分线上的点与这条线段两个端点的距离相等；反过来，与线段两个端点距离相等的点在这条线段的垂直平分线上.所以线段的垂直平分线可以看成与这条线段两个端点距离相等的所有点的集合."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        567,
+        874,
+        675
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        169,
+        1741,
+        1900,
+        2072
+      ],
+      "model_image_bbox": [
+        88,
+        907,
+        989,
+        1080
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        417.85,
+        455.84,
+        497.44
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5eba451bba948a5564a0cad150bf08b74a0e54e4f5644c395d989a6e76cb19b4.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        690,
+        135,
+        715
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        213,
+        2118,
+        293,
+        2195
+      ],
+      "model_image_bbox": [
+        110,
+        1104,
+        152,
+        1144
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        508.5,
+        70.41,
+        526.92
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "? 思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        690,
+        201,
+        715
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        213,
+        2118,
+        436,
+        2195
+      ],
+      "model_image_bbox": [
+        110,
+        1104,
+        227,
+        1144
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        508.5,
+        104.83,
+        526.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析上面关于线段的垂直平分线的两个命题，它们的题设和结论有什么关系？你还学习过其他具有类似关系的命题吗？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        720,
+        847,
+        770
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        223,
+        2211,
+        1841,
+        2364
+      ],
+      "model_image_bbox": [
+        116,
+        1152,
+        958,
+        1232
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        530.61,
+        441.75,
+        567.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "这两个命题的题设、结论正好相反．我们把具有这种关系的两个命题叫作互逆命题，如果把其中一个叫作原命题，那么另一个叫作它的逆命题."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        784,
+        872,
+        833
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        176,
+        2407,
+        1895,
+        2558
+      ],
+      "model_image_bbox": [
+        91,
+        1254,
+        987,
+        1332
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        577.77,
+        454.79,
+        613.88
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一般地，原命题成立时，它的逆命题可能成立，也可能不成立．例如，上面关于垂直平分线的两个互逆命题都是成立的；而命题“对顶角相等”成立，它的逆命题“如果两个角相等，那么这两个角是对顶角”却不成立."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        840,
+        874,
+        918
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        169,
+        2579,
+        1900,
+        2819
+      ],
+      "model_image_bbox": [
+        88,
+        1344,
+        989,
+        1468
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        619.04,
+        455.84,
+        676.52
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "66"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        272,
+        954
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        276,
+        2883,
+        591,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        307,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        141.86,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 28,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "page_id": 13,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一般地，如果三条线段中任意两条线段的和大于第三条线段，那么这三条线段能组成三角形；如果三条线段中有两条线段的和小于或等于第三条线段，那么这三条线段不能组成三角形."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        69,
+        874,
+        147
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        169,
+        211,
+        1900,
+        451
+      ],
+      "model_image_bbox": [
+        88,
+        110,
+        989,
+        235
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        50.85,
+        455.84,
+        108.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例用一条长为18cm的细绳围成一个等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        152,
+        648,
+        175
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        466,
+        1408,
+        537
+      ],
+      "model_image_bbox": [
+        141,
+        243,
+        733,
+        280
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        112.02,
+        337.97,
+        128.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）如果腰长是底边长的2倍，那么各边的长是多少?"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        182,
+        675,
+        203
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        558,
+        1467,
+        623
+      ],
+      "model_image_bbox": [
+        141,
+        291,
+        764,
+        324
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        134.13,
+        352.05,
+        149.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）能围成有一边的长是4cm的等腰三角形吗？为什么?"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        211,
+        710,
+        230
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        647,
+        1543,
+        706
+      ],
+      "model_image_bbox": [
+        141,
+        337,
+        803,
+        368
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        155.5,
+        370.3,
+        169.5
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解：（1）设底边长为xcm，则腰长为2xcm，则"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        239,
+        628,
+        260
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        271,
+        733,
+        1365,
+        798
+      ],
+      "model_image_bbox": [
+        141,
+        382,
+        710,
+        416
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        176.13,
+        327.53,
+        191.61
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "x + 2 x + 2 x = 1 8 .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/485f4c6dbec5b1204c1f2c76aac6b95ccb44145887a314da877bd2755dbec226.jpg"
+        }
+      },
+      "bbox": [
+        388,
+        269,
+        565,
+        286
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        843,
+        826,
+        1228,
+        878
+      ],
+      "model_image_bbox": [
+        439,
+        430,
+        639,
+        457
+      ],
+      "pdf_page_bbox": [
+        202.36,
+        198.24,
+        294.68,
+        210.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解得x=3.6."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        296,
+        265,
+        315
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        271,
+        909,
+        576,
+        967
+      ],
+      "model_image_bbox": [
+        141,
+        473,
+        299,
+        504
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        218.14,
+        138.21,
+        232.14
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "所以，三角形三边的长分别为3.6 cm，7.2 cm，7.2 cm."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        324,
+        702,
+        345
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        995,
+        1526,
+        1059
+      ],
+      "model_image_bbox": [
+        141,
+        518,
+        794,
+        552
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        238.77,
+        366.13,
+        254.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）因为长为4cm的边可能是腰，也可能是底边，所以需要分情况讨论."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        354,
+        862,
+        375
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        271,
+        1087,
+        1873,
+        1151
+      ],
+      "model_image_bbox": [
+        141,
+        566,
+        975,
+        600
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        260.88,
+        449.58,
+        276.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "①如果4 cm长的边为底边，设腰长为xcm，则"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        381,
+        619,
+        402
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1170,
+        1345,
+        1234
+      ],
+      "model_image_bbox": [
+        141,
+        609,
+        700,
+        643
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        280.78,
+        322.84,
+        296.25
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "4 + 2 x = 1 8 .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/38ac22b3dcf1faea2684840722192f11b855fe00f8f55f3a302eec59ff5322c7.jpg"
+        }
+      },
+      "bbox": [
+        415,
+        409,
+        538,
+        430
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        902,
+        1256,
+        1169,
+        1320
+      ],
+      "model_image_bbox": [
+        469,
+        654,
+        609,
+        688
+      ],
+      "pdf_page_bbox": [
+        216.44,
+        301.41,
+        280.6,
+        316.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解得x =7."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        439,
+        243,
+        458
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        1348,
+        528,
+        1406
+      ],
+      "model_image_bbox": [
+        141,
+        702,
+        275,
+        732
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        323.52,
+        126.74,
+        337.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "②如果4cm长的边为腰，设底边长为ycm，则"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        467,
+        619,
+        487
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        1434,
+        1345,
+        1495
+      ],
+      "model_image_bbox": [
+        141,
+        747,
+        700,
+        779
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        344.16,
+        322.84,
+        358.9
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "2 \\times 4 + y = 1 8 .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/3fe6fa37e8e18799b3b0599a083481433839f52cd2cdc146ac9d601edcb00659.jpg"
+        }
+      },
+      "bbox": [
+        402,
+        494,
+        547,
+        515
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        873,
+        1517,
+        1189,
+        1581
+      ],
+      "model_image_bbox": [
+        455,
+        790,
+        619,
+        824
+      ],
+      "pdf_page_bbox": [
+        209.66,
+        364.05,
+        285.29,
+        379.53
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解得y=10."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        524,
+        253,
+        543
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        271,
+        1609,
+        550,
+        1667
+      ],
+      "model_image_bbox": [
+        141,
+        838,
+        286,
+        868
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        386.16,
+        131.95,
+        400.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "因为4十4<10，不符合“三角形两边的和大于第三边”，所以不能围成腰长是4cm的等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        552,
+        872,
+        602
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        176,
+        1695,
+        1895,
+        1848
+      ],
+      "model_image_bbox": [
+        91,
+        883,
+        987,
+        963
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        406.8,
+        454.79,
+        443.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由以上讨论可知，可以围成底边长是4cm的等腰三角形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        609,
+        705,
+        630
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        271,
+        1870,
+        1532,
+        1934
+      ],
+      "model_image_bbox": [
+        141,
+        974,
+        798,
+        1008
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        448.8,
+        367.69,
+        464.28
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在日常生活中，三角形的形状随处可见，并且工程建筑中经常采用三角形的结构，如图13.2-2中的屋顶钢架结构等，其中的道理是什么?"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        649,
+        606,
+        727
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        176,
+        1993,
+        1317,
+        2232
+      ],
+      "model_image_bbox": [
+        91,
+        1038,
+        685,
+        1163
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        478.28,
+        316.06,
+        535.76
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/2110ff1612ac5b548f777d75235519720271b9bb33de4a9ca90917ca5adf2ff1.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.2-2"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        624,
+        647,
+        867,
+        706
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1356,
+        1986,
+        1884,
+        2168
+      ],
+      "model_image_bbox": [
+        706,
+        1035,
+        981,
+        1129
+      ],
+      "pdf_page_bbox": [
+        325.45,
+        476.81,
+        452.19,
+        520.29
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/be50bbab573baf5d2ff5b6a5a55f68241750c48dd63ae136b5595c7e2d364748.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        746,
+        135,
+        770
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        213,
+        2290,
+        293,
+        2364
+      ],
+      "model_image_bbox": [
+        110,
+        1193,
+        152,
+        1232
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        549.77,
+        70.41,
+        567.45
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        140,
+        746,
+        201,
+        769
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        304,
+        2290,
+        436,
+        2361
+      ],
+      "model_image_bbox": [
+        158,
+        1193,
+        227,
+        1230
+      ],
+      "pdf_page_bbox": [
+        73.02,
+        549.77,
+        104.83,
+        566.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图13.2-3，将三根木条用钉子钉成一个三角形木架，然后扭动它，它的形状会改变吗？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        781,
+        609,
+        831
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        223,
+        2398,
+        1323,
+        2552
+      ],
+      "model_image_bbox": [
+        116,
+        1249,
+        689,
+        1329
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        575.56,
+        317.63,
+        612.41
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/470aec02c8425e62f9d1f5d5d808feec25d372361098df85a42c3bf9b0e8c240.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图13.2-3"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        648,
+        744,
+        823,
+        824
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1408,
+        2284,
+        1789,
+        2530
+      ],
+      "model_image_bbox": [
+        733,
+        1190,
+        931,
+        1318
+      ],
+      "pdf_page_bbox": [
+        337.97,
+        548.29,
+        429.24,
+        607.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "可以发现，三角形木架的形状不会改变，这就是说，三角形是具有稳定性的图形."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        859,
+        872,
+        907
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        176,
+        2637,
+        1895,
+        2785
+      ],
+      "model_image_bbox": [
+        91,
+        1374,
+        987,
+        1451
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        633.04,
+        454.79,
+        668.42
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "6"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        939,
+        103,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        184,
+        2883,
+        223,
+        2926
+      ],
+      "model_image_bbox": [
+        96,
+        1502,
+        116,
+        1524
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        692.0,
+        53.72,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        272,
+        954
+      ],
+      "reading_order": 28,
+      "original_image_bbox": [
+        271,
+        2877,
+        591,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        307,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        141.86,
+        703.05
+      ]
+    }
+  ]
+}

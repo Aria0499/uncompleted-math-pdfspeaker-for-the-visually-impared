@@ -1,0 +1,495 @@
+{
+  "page_id": 95,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "数学活动"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        108,
+        72,
+        351,
+        107
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        234,
+        221,
+        763,
+        328
+      ],
+      "model_image_bbox": [
+        122,
+        115,
+        397,
+        171
+      ],
+      "pdf_page_bbox": [
+        56.33,
+        53.06,
+        183.06,
+        78.85
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动1美术字与轴对称"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        137,
+        390,
+        161
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        206,
+        420,
+        847,
+        494
+      ],
+      "model_image_bbox": [
+        107,
+        219,
+        441,
+        257
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        100.96,
+        203.41,
+        118.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在美术字中，有些文字、字母和数字是轴对称的．如图1，画出这些文字、字母和数字的对称轴，或者把它们补齐."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        178,
+        847,
+        229
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        223,
+        546,
+        1841,
+        703
+      ],
+      "model_image_bbox": [
+        116,
+        284,
+        958,
+        366
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        131.18,
+        441.75,
+        168.76
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9a9027fe2ad9a3a16972ff2046af107aaa548849ad7dbca28a5a9d675bb771dd.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图1"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        226,
+        236,
+        722,
+        472
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        491,
+        724,
+        1569,
+        1449
+      ],
+      "model_image_bbox": [
+        255,
+        377,
+        817,
+        755
+      ],
+      "pdf_page_bbox": [
+        117.87,
+        173.92,
+        376.56,
+        347.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "你能再写出几个轴对称的美术字吗？画出它们的对称轴，并与同学交流."
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        510,
+        840,
+        531
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        323,
+        1566,
+        1826,
+        1630
+      ],
+      "model_image_bbox": [
+        168,
+        816,
+        950,
+        849
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        375.85,
+        438.1,
+        391.32
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "活动2利用轴对称设计图案"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        550,
+        442,
+        572
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        206,
+        1689,
+        960,
+        1756
+      ],
+      "model_image_bbox": [
+        107,
+        880,
+        500,
+        915
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        405.32,
+        230.53,
+        421.54
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用轴对称，可以由一个基本图形得到与它成轴对称的另一个图形，重复这个过程，可以得到美丽的图案（图2、图3)."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        590,
+        847,
+        640
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        223,
+        1811,
+        1841,
+        1965
+      ],
+      "model_image_bbox": [
+        116,
+        944,
+        958,
+        1024
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        434.8,
+        441.75,
+        471.65
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/1ec4cdf6a869023b07c07716885bf4b6bddc6ead2314bb604d4b93782d7bcdc8.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图2"
+          },
+          {
+            "type": "text",
+            "content": "图3"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        110,
+        645,
+        837,
+        784
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        239,
+        1980,
+        1819,
+        2407
+      ],
+      "model_image_bbox": [
+        124,
+        1032,
+        947,
+        1254
+      ],
+      "pdf_page_bbox": [
+        57.37,
+        475.33,
+        436.54,
+        577.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "自己动手在一张半透明的纸上画一个图形，将这张纸折叠，描图，再打开纸，看看你得到了什么？改变折痕的位置并重复几次，你又得到了什么？与同学交流一下."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        815,
+        850,
+        894
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        223,
+        2502,
+        1847,
+        2745
+      ],
+      "model_image_bbox": [
+        116,
+        1304,
+        962,
+        1430
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        600.62,
+        443.32,
+        658.84
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        32
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "88"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        937,
+        272,
+        954
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        2877,
+        591,
+        2929
+      ],
+      "model_image_bbox": [
+        141,
+        1499,
+        307,
+        1526
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        690.52,
+        141.86,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+{
+  "page_id": 38,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "习题 14.1"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        162,
+        81,
+        309,
+        105
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        352,
+        248,
+        671,
+        322
+      ],
+      "model_image_bbox": [
+        183,
+        129,
+        349,
+        168
+      ],
+      "pdf_page_bbox": [
+        84.49,
+        59.69,
+        161.16,
+        77.38
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "复习巩固"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        149,
+        126,
+        260,
+        147
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        323,
+        386,
+        565,
+        451
+      ],
+      "model_image_bbox": [
+        168,
+        201,
+        294,
+        235
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        92.86,
+        135.6,
+        108.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\cong } \\triangle C D A"
+          },
+          {
+            "type": "text",
+            "content": "，AB 和CD，BC 和DA 是对应边.写出其他对应边和对应角."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        157,
+        891,
+        203
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        319,
+        482,
+        1937,
+        623
+      ],
+      "model_image_bbox": [
+        166,
+        251,
+        1008,
+        324
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        115.7,
+        464.7,
+        149.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cda30e6c5a9d5d2d1956cc386c4b85ae5d0aec99bcb03f9248aeb82f8896eb45.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        294,
+        211,
+        410,
+        302
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        639,
+        647,
+        891,
+        927
+      ],
+      "model_image_bbox": [
+        332,
+        337,
+        464,
+        483
+      ],
+      "pdf_page_bbox": [
+        153.34,
+        155.5,
+        213.84,
+        222.56
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/407378480ee09b3260c9225c3f7db4ef6b52089bf450527ced3fba4a6b0a8b2b.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        530,
+        223,
+        742,
+        303
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1152,
+        684,
+        1613,
+        930
+      ],
+      "model_image_bbox": [
+        599,
+        356,
+        839,
+        484
+      ],
+      "pdf_page_bbox": [
+        276.42,
+        164.34,
+        386.99,
+        223.3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B N { \\cong } \\triangle A C M"
+          },
+          {
+            "type": "text",
+            "content": "，AB 和 AC 是对应边， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C"
+          },
+          {
+            "type": "text",
+            "content": "是对应角.写出其他对应边和对应角."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        343,
+        891,
+        388
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        1053,
+        1937,
+        1191
+      ],
+      "model_image_bbox": [
+        166,
+        548,
+        1008,
+        620
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        252.77,
+        464.7,
+        285.94
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        395,
+        260,
+        418
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        1213,
+        565,
+        1283
+      ],
+      "model_image_bbox": [
+        166,
+        632,
+        294,
+        668
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        291.1,
+        135.6,
+        308.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3.图中有两个全等三角形，其中的字母表示三角形的边长，则∠1 等于多少度？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        428,
+        882,
+        447
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        319,
+        1314,
+        1917,
+        1372
+      ],
+      "model_image_bbox": [
+        166,
+        684,
+        998,
+        715
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        315.42,
+        460.01,
+        329.42
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/815b31709aed91c5883f72f5b7ecce6e4cd12d9500e17080dd970152551e138a.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        373,
+        454,
+        493,
+        550
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        810,
+        1394,
+        1071,
+        1689
+      ],
+      "model_image_bbox": [
+        422,
+        726,
+        558,
+        880
+      ],
+      "pdf_page_bbox": [
+        194.54,
+        334.58,
+        257.13,
+        405.32
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/02adb27fe7d990a95f3228df0cbd2c495be2bccca711fa7c9bd4d93009629b7f.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第3题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        530,
+        463,
+        665,
+        539
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1152,
+        1421,
+        1445,
+        1655
+      ],
+      "model_image_bbox": [
+        599,
+        740,
+        752,
+        862
+      ],
+      "pdf_page_bbox": [
+        276.42,
+        341.21,
+        346.83,
+        397.22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "4.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle E F G { \\cong } \\triangle N M H"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle F"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle M"
+          },
+          {
+            "type": "text",
+            "content": "是对应角.在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle E F G"
+          },
+          {
+            "type": "text",
+            "content": "中，FG是最长边.在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle N M H"
+          },
+          {
+            "type": "text",
+            "content": "中，MH 是最长边，且 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E F { = } 2 . 1"
+          },
+          {
+            "type": "equation_inline",
+            "content": "E H = 1 . 1"
+          },
+          {
+            "type": "equation_inline",
+            "content": "N H { = } 3 . 3 ."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        588,
+        891,
+        635
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        319,
+        1805,
+        1937,
+        1950
+      ],
+      "model_image_bbox": [
+        166,
+        940,
+        1008,
+        1016
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        433.33,
+        464.7,
+        467.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）写出其他对应边及对应角；（2）求线段NM及线段HG 的长度."
+          }
+        ]
+      },
+      "bbox": [
+        174,
+        640,
+        852,
+        659
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        378,
+        1965,
+        1852,
+        2023
+      ],
+      "model_image_bbox": [
+        196,
+        1024,
+        964,
+        1054
+      ],
+      "pdf_page_bbox": [
+        90.75,
+        471.65,
+        444.36,
+        485.65
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/5e589fbb9c25d95cdcfc2cb608f3eabab325dd31b08750af0482eb61142813d5.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "(第4题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        255,
+        668,
+        570,
+        762
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        554,
+        2051,
+        1239,
+        2340
+      ],
+      "model_image_bbox": [
+        288,
+        1068,
+        645,
+        1219
+      ],
+      "pdf_page_bbox": [
+        133.0,
+        492.28,
+        297.28,
+        561.56
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f51a174659ea78d5413b09586400450f5c68d58fdb1c74ba281e7d39e6778e1b.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第5题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        628,
+        684,
+        786,
+        763
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1365,
+        2100,
+        1708,
+        2343
+      ],
+      "model_image_bbox": [
+        710,
+        1094,
+        889,
+        1220
+      ],
+      "pdf_page_bbox": [
+        327.53,
+        504.08,
+        409.94,
+        562.29
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        812,
+        260,
+        835
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        319,
+        2493,
+        565,
+        2564
+      ],
+      "model_image_bbox": [
+        166,
+        1299,
+        294,
+        1336
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        598.41,
+        135.6,
+        615.35
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C { \\cong } \\triangle D E C"
+          },
+          {
+            "type": "text",
+            "content": "，CA 和 CD，CB 和 CE 是对应边. "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A C D"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B C E"
+          },
+          {
+            "type": "text",
+            "content": "相等吗？为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        845,
+        891,
+        890
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        319,
+        2594,
+        1937,
+        2733
+      ],
+      "model_image_bbox": [
+        166,
+        1352,
+        1008,
+        1424
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        622.72,
+        464.7,
+        655.89
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "31"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

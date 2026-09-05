@@ -1,0 +1,331 @@
+{
+  "page_id": 7,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b8cc7557e0a795d8b4774ea974d7a02d8a158395624d609487f31a39aa740d10.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        85,
+        248,
+        329,
+        348
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        184,
+        761,
+        715,
+        1068
+      ],
+      "model_image_bbox": [
+        96,
+        396,
+        372,
+        556
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        182.76,
+        171.59,
+        256.46
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6cfab3f391e4b05b7df7b93f80f586528a471a6a834271612efde3eb89eec883.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        83,
+        501,
+        331,
+        619
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        180,
+        1538,
+        719,
+        1900
+      ],
+      "model_image_bbox": [
+        93,
+        801,
+        374,
+        990
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        369.21,
+        172.63,
+        456.17
+      ]
+    },
+    {
+      "type": "index",
+      "content": {
+        "list_type": "text_list",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十七章 因式分解 123"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "17.1用提公因式法分解因式 124"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "17.2用公式法分解因式 128"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "阅读与思考 x2+(p+q)x+pq 型式子的"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "因式分解 133"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 134"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 135"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十八章 分式 137"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "18.1分式及其基本性质 138"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "18.2 分式的乘法与除法 146"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "18.3 分式的加法与减法 152"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "阅读与思考容器中的水能倒完吗 157"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "18.4 整数指数幂 158"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "18.5分式方程 164"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 170"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 171"
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        348,
+        182,
+        874,
+        718
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        756,
+        558,
+        1900,
+        2204
+      ],
+      "model_image_bbox": [
+        393,
+        291,
+        989,
+        1148
+      ],
+      "pdf_page_bbox": [
+        181.5,
+        134.13,
+        455.84,
+        529.13
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        638,
+        31
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        778,
+        3,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

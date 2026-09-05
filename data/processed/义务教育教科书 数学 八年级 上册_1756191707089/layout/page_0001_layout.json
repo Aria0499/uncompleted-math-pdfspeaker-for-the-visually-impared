@@ -1,0 +1,229 @@
+{
+  "page_id": 1,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5750122070312,
+  "pdf_page_height": 737.0079956054688,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "数 学"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        240,
+        175,
+        560,
+        277
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        521,
+        537,
+        1217,
+        850
+      ],
+      "model_image_bbox": [
+        271,
+        280,
+        633,
+        443
+      ],
+      "pdf_page_bbox": [
+        125.18,
+        128.98,
+        292.08,
+        204.15
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "八年级"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        722,
+        184,
+        894,
+        229
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        1569,
+        565,
+        1943,
+        703
+      ],
+      "model_image_bbox": [
+        817,
+        294,
+        1012,
+        366
+      ],
+      "pdf_page_bbox": [
+        376.58,
+        135.61,
+        466.29,
+        168.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "上册"
+          }
+        ]
+      },
+      "bbox": [
+        771,
+        241,
+        850,
+        274
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1676,
+        740,
+        1847,
+        841
+      ],
+      "model_image_bbox": [
+        872,
+        385,
+        962,
+        438
+      ],
+      "pdf_page_bbox": [
+        402.13,
+        177.62,
+        443.34,
+        201.94
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4e5c12b56d9816b7165855040a83385f9dff7a94d5bd57862a9da96952735ad2.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        71,
+        324,
+        1000,
+        994
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        154,
+        995,
+        2173,
+        3052
+      ],
+      "model_image_bbox": [
+        80,
+        518,
+        1131,
+        1590
+      ],
+      "pdf_page_bbox": [
+        37.03,
+        238.79,
+        521.58,
+        732.59
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "2024"
+          }
+        ]
+      },
+      "bbox": [
+        51,
+        39,
+        221,
+        151
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        110,
+        119,
+        480,
+        463
+      ],
+      "model_image_bbox": [
+        57,
+        62,
+        250,
+        241
+      ],
+      "pdf_page_bbox": [
+        26.6,
+        28.74,
+        115.27,
+        111.29
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "义务教育教科书"
+          }
+        ]
+      },
+      "bbox": [
+        533,
+        53,
+        896,
+        79
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1158,
+        162,
+        1947,
+        242
+      ],
+      "model_image_bbox": [
+        603,
+        84,
+        1014,
+        126
+      ],
+      "pdf_page_bbox": [
+        278.0,
+        39.06,
+        467.33,
+        58.22
+      ]
+    }
+  ]
+}

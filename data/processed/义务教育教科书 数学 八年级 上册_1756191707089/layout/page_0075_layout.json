@@ -1,0 +1,1042 @@
+{
+  "page_id": 75,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "C，D两点；"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        69,
+        211,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        211,
+        458,
+        270
+      ],
+      "model_image_bbox": [
+        91,
+        110,
+        238,
+        140
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        50.85,
+        110.05,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）作直线CD，则直线CD就是线段AB的垂直平分线."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        97,
+        601,
+        147
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        297,
+        1306,
+        451
+      ],
+      "model_image_bbox": [
+        91,
+        155,
+        680,
+        235
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        71.48,
+        313.45,
+        108.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "也可以用这种方法确定线段的中点."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        98,
+        857,
+        142
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1393,
+        300,
+        1863,
+        436
+      ],
+      "model_image_bbox": [
+        725,
+        156,
+        970,
+        227
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        72.22,
+        446.97,
+        104.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "学习了线段的垂直平分线的作法，就可以作对称轴了."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        164,
+        668,
+        187
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        503,
+        1452,
+        574
+      ],
+      "model_image_bbox": [
+        141,
+        262,
+        756,
+        299
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        120.86,
+        348.4,
+        137.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由于成轴对称的两个图形的对称轴是其任意一对对称点所连线段的垂直平分线，所以只要任意找一对对称点，作出连接它们的线段的垂直平分线，就可以得到这两个图形的对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        194,
+        872,
+        272
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        176,
+        595,
+        1895,
+        835
+      ],
+      "model_image_bbox": [
+        91,
+        310,
+        987,
+        435
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        142.97,
+        454.79,
+        200.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "同样地，对于轴对称图形，只要任意找一对对称点，作出连接它们的线段的垂直平分线，就得到此图形的对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        279,
+        872,
+        329
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        176,
+        856,
+        1895,
+        1010
+      ],
+      "model_image_bbox": [
+        91,
+        446,
+        987,
+        526
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        205.61,
+        454.79,
+        242.46
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例如，对于图15.1-9中的五角星，我们可以找出它的一对对称点A和A'，连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，作出线段 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "的垂直平分线l，则就是这个五角星的一条对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        336,
+        685,
+        414
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        169,
+        1031,
+        1489,
+        1271
+      ],
+      "model_image_bbox": [
+        88,
+        537,
+        775,
+        662
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        247.62,
+        357.26,
+        305.1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似地，你能作出这个五角星的其他对称轴吗?"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        421,
+        606,
+        442
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        271,
+        1292,
+        1317,
+        1357
+      ],
+      "model_image_bbox": [
+        141,
+        673,
+        685,
+        707
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        310.26,
+        316.06,
+        325.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/303f655f2bc1566748f44688407032e1dc5aa6a84bd1ba13d07b5a63e52f99c9.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        700,
+        328,
+        855,
+        437
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1521,
+        1007,
+        1858,
+        1342
+      ],
+      "model_image_bbox": [
+        792,
+        524,
+        967,
+        699
+      ],
+      "pdf_page_bbox": [
+        365.09,
+        241.72,
+        445.93,
+        322.05
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "利用作线段的垂直平分线，还可以完成其他尺规作图."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        449,
+        668,
+        470
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1378,
+        1452,
+        1443
+      ],
+      "model_image_bbox": [
+        141,
+        718,
+        756,
+        752
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        330.89,
+        348.4,
+        346.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.1-9"
+          }
+        ]
+      },
+      "bbox": [
+        739,
+        453,
+        830,
+        472
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1606,
+        1391,
+        1804,
+        1449
+      ],
+      "model_image_bbox": [
+        836,
+        724,
+        939,
+        755
+      ],
+      "pdf_page_bbox": [
+        385.43,
+        333.84,
+        432.89,
+        347.84
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例 尺规作图：经过已知直线外一点作这条直线的 垂线."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        477,
+        641,
+        527
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        176,
+        1464,
+        1393,
+        1618
+      ],
+      "model_image_bbox": [
+        91,
+        763,
+        725,
+        843
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        351.53,
+        334.31,
+        388.37
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "已知：直线AB和AB外一点C（图15.1-10)."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        534,
+        599,
+        555
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        1639,
+        1302,
+        1704
+      ],
+      "model_image_bbox": [
+        141,
+        854,
+        678,
+        888
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        393.53,
+        312.41,
+        409.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "求作：AB的垂线，使它经过点C."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        562,
+        479,
+        585
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        1725,
+        1041,
+        1796
+      ],
+      "model_image_bbox": [
+        141,
+        899,
+        542,
+        936
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        414.17,
+        249.82,
+        431.12
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/d47ad969b9a1900e8139c5ea89d271032a107bf136c47ab5f3e17822e4b18225.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        656,
+        484,
+        869,
+        604
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        1426,
+        1486,
+        1889,
+        1854
+      ],
+      "model_image_bbox": [
+        742,
+        774,
+        983,
+        966
+      ],
+      "pdf_page_bbox": [
+        342.14,
+        356.68,
+        453.23,
+        445.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：假设所求作直线已经作出，则它不仅过点C与直线AB 垂直，而且是连接AB上与垂足距离相等的"
+          }
+        ]
+      },
+      "bbox": [
+        83,
+        592,
+        643,
+        642
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        180,
+        1818,
+        1397,
+        1971
+      ],
+      "model_image_bbox": [
+        93,
+        947,
+        727,
+        1027
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        436.28,
+        335.36,
+        473.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.1-10"
+          }
+        ]
+      },
+      "bbox": [
+        710,
+        618,
+        813,
+        635
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1543,
+        1897,
+        1767,
+        1950
+      ],
+      "model_image_bbox": [
+        803,
+        988,
+        920,
+        1016
+      ],
+      "pdf_page_bbox": [
+        370.3,
+        455.44,
+        424.02,
+        467.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "两点的线段的垂直平分线．我们已经会作线段的垂直平分线，因此需要首先在直线AB上确定这两点．根据前面关于线段的垂直平分线的定理，这两点只需"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        649,
+        869,
+        699
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        176,
+        1993,
+        1889,
+        2146
+      ],
+      "model_image_bbox": [
+        91,
+        1038,
+        983,
+        1118
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        478.28,
+        453.23,
+        515.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "满足与点C的距离相等即可."
+          }
+        ]
+      },
+      "bbox": [
+        83,
+        706,
+        375,
+        727
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        180,
+        2168,
+        815,
+        2232
+      ],
+      "model_image_bbox": [
+        93,
+        1129,
+        424,
+        1163
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        520.29,
+        195.58,
+        535.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图15.1-10."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        734,
+        341,
+        753
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        271,
+        2254,
+        741,
+        2312
+      ],
+      "model_image_bbox": [
+        141,
+        1174,
+        386,
+        1204
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        540.92,
+        177.85,
+        554.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）以点C为圆心，适当长为半径作弧，交直线AB于点D和点E；"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        762,
+        601,
+        812
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        176,
+        2340,
+        1306,
+        2493
+      ],
+      "model_image_bbox": [
+        91,
+        1219,
+        680,
+        1299
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        561.56,
+        313.45,
+        598.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）分别以点D和点E为圆心，大于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\frac { 1 } { 2 } D E"
+          },
+          {
+            "type": "text",
+            "content": "的长为半径作弧，两弧相交于点F；"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        815,
+        601,
+        878
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        176,
+        2502,
+        1306,
+        2696
+      ],
+      "model_image_bbox": [
+        91,
+        1304,
+        680,
+        1404
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        600.62,
+        313.45,
+        647.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）作直线CF，则直线CF就是所求作的垂线."
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        885,
+        611,
+        907
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        276,
+        2717,
+        1328,
+        2785
+      ],
+      "model_image_bbox": [
+        143,
+        1416,
+        691,
+        1451
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        652.2,
+        318.67,
+        668.42
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由（1）可知，点C 在线段 DE 的垂直平分线上，因而再作出与D，E距离相等的另一点F，就能得到线段DE 的垂直平分线."
+          }
+        ]
+      },
+      "bbox": [
+        638,
+        736,
+        859,
+        878
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        1387,
+        2260,
+        1867,
+        2696
+      ],
+      "model_image_bbox": [
+        722,
+        1177,
+        972,
+        1404
+      ],
+      "pdf_page_bbox": [
+        332.75,
+        542.4,
+        448.01,
+        647.04
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "68"
+          }
+        ]
+      },
+      "bbox": [
+        85,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        184,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        96,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        270,
+        954
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        276,
+        2883,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 28,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

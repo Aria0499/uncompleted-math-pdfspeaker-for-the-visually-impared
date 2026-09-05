@@ -1,0 +1,900 @@
+{
+  "page_id": 47,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）以点O为圆心，任意长为半径作弧，分别交OA，OB于点C，D；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        67,
+        842,
+        90
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        205,
+        1830,
+        276
+      ],
+      "model_image_bbox": [
+        141,
+        107,
+        953,
+        144
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        49.38,
+        439.15,
+        66.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）作一条射线 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O ^ { \\prime } A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，以点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为圆心，OC为半径作弧，交 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O ^ { \\prime } A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "于点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "…"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        95,
+        872,
+        145
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        176,
+        291,
+        1895,
+        445
+      ],
+      "model_image_bbox": [
+        91,
+        152,
+        987,
+        232
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        70.01,
+        454.79,
+        106.86
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）以点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "为圆心，CD为半径作弧，与上一步作的弧相交于点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "…"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        152,
+        820,
+        175
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        466,
+        1782,
+        537
+      ],
+      "model_image_bbox": [
+        141,
+        243,
+        928,
+        280
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        112.02,
+        427.67,
+        128.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（4）过点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "作射线 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O ^ { \\prime } B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A ^ { \\prime } O ^ { \\prime } B ^ { \\prime } { = } \\angle A O B"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        180,
+        626,
+        203
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        271,
+        552,
+        1360,
+        623
+      ],
+      "model_image_bbox": [
+        141,
+        288,
+        708,
+        324
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        132.65,
+        326.49,
+        149.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "与“作一条线段等于已知线段”一样，“作一个角等于已知角”也是基本、常用的尺规作图，利用它可以进一步完成其他尺规作图."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        222,
+        872,
+        272
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        176,
+        681,
+        1895,
+        835
+      ],
+      "model_image_bbox": [
+        91,
+        355,
+        987,
+        435
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        163.6,
+        454.79,
+        200.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例4如图14.2-17，已知直线AB及直线AB外一点C.利用直尺和圆规过点C作直线AB的平行线CD."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        279,
+        872,
+        329
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        169,
+        856,
+        1895,
+        1010
+      ],
+      "model_image_bbox": [
+        88,
+        446,
+        987,
+        526
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        205.61,
+        454.79,
+        242.46
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/6a62499fa79f5abb47df09093c9f4e5ff861149bb87a018a3f7f33562708c953.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-17"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        201,
+        373,
+        375,
+        439
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        436,
+        1145,
+        815,
+        1348
+      ],
+      "model_image_bbox": [
+        227,
+        596,
+        424,
+        702
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        274.88,
+        195.58,
+        323.52
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7a9ee165e8e3eaf10d86364f180e044dd608e0e4f3528e3c2195661b443d00bb.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-18"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        577,
+        336,
+        746,
+        449
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        1254,
+        1031,
+        1621,
+        1378
+      ],
+      "model_image_bbox": [
+        653,
+        537,
+        844,
+        718
+      ],
+      "pdf_page_bbox": [
+        300.94,
+        247.62,
+        389.08,
+        330.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：我们知道，同位角相等，两直线平行．可以利用这个结论，过点C作直线AB的平行线CD.为此需要先作出截线，再作出相等的同位角."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        486,
+        872,
+        536
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        176,
+        1492,
+        1895,
+        1646
+      ],
+      "model_image_bbox": [
+        91,
+        777,
+        987,
+        857
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        358.16,
+        454.79,
+        395.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图14.2-18."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        543,
+        341,
+        564
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1667,
+        741,
+        1732
+      ],
+      "model_image_bbox": [
+        141,
+        868,
+        386,
+        902
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        400.16,
+        177.85,
+        415.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）过点C作一条直线，与直线AB相交于点E；"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        571,
+        599,
+        621
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        176,
+        1753,
+        1302,
+        1907
+      ],
+      "model_image_bbox": [
+        91,
+        913,
+        678,
+        993
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        420.8,
+        312.41,
+        457.65
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）在点C处作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C E B"
+          },
+          {
+            "type": "text",
+            "content": "的同位角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle F C D"
+          },
+          {
+            "type": "text",
+            "content": "，使"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle F C D = \\angle C E B"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        628,
+        601,
+        677
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        169,
+        1928,
+        1306,
+        2079
+      ],
+      "model_image_bbox": [
+        88,
+        1004,
+        680,
+        1083
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        462.81,
+        313.45,
+        498.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "还可以利用“内错角相等，两直线平行”作图."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        602,
+        859,
+        670
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1393,
+        1848,
+        1867,
+        2057
+      ],
+      "model_image_bbox": [
+        725,
+        963,
+        972,
+        1072
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        443.65,
+        448.01,
+        493.76
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）反向延长CD，得直线CD，则直线 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D / / A B ."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        685,
+        599,
+        706
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        271,
+        2103,
+        1302,
+        2168
+      ],
+      "model_image_bbox": [
+        141,
+        1096,
+        678,
+        1129
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        504.81,
+        312.41,
+        520.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例5如图14.2-19，已知线段a，b和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle \\alpha"
+          },
+          {
+            "type": "text",
+            "content": "，求作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = a"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = b , \\angle A = \\angle \\alpha"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        717,
+        869,
+        765
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        169,
+        2201,
+        1889,
+        2349
+      ],
+      "model_image_bbox": [
+        88,
+        1147,
+        983,
+        1224
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        528.39,
+        453.23,
+        563.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f1bb3f6518b4c9b27c7e66296ccb6df4babc154362c7435d6a643d34c49e7c2f.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-19"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        240,
+        777,
+        348,
+        878
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        521,
+        2386,
+        756,
+        2696
+      ],
+      "model_image_bbox": [
+        271,
+        1243,
+        393,
+        1404
+      ],
+      "pdf_page_bbox": [
+        125.17,
+        572.61,
+        181.5,
+        647.04
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/508f6683f917a4e34468422ec6d8abf8a751b178b312ac833b2e55833c942b45.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-20"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        582,
+        798,
+        737,
+        876
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1265,
+        2450,
+        1602,
+        2690
+      ],
+      "model_image_bbox": [
+        658,
+        1276,
+        834,
+        1401
+      ],
+      "pdf_page_bbox": [
+        303.54,
+        588.09,
+        384.38,
+        645.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "40"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        307,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        276,
+        2883,
+        667,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        347,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        160.12,
+        703.05
+      ]
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "page_id": 60,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "综合运用"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        79,
+        260,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        242,
+        565,
+        313
+      ],
+      "model_image_bbox": [
+        166,
+        126,
+        294,
+        163
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        58.22,
+        135.6,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "5.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，AD 是它的角平分线，P是AD上一点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P E / / A B"
+          },
+          {
+            "type": "text",
+            "content": ",交BC 于点E， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P F / / A C"
+          },
+          {
+            "type": "text",
+            "content": "，交 BC 于点F.求证：点 D 到 PE 和 PF 的距离相等."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        111,
+        891,
+        157
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        340,
+        1937,
+        482
+      ],
+      "model_image_bbox": [
+        166,
+        177,
+        1008,
+        251
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        81.8,
+        464.7,
+        115.7
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8cda639ff853e9939220b6cd89458d830375a637307676c9bca6a2cee9c65c21.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第5题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        216,
+        170,
+        420,
+        277
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        469,
+        522,
+        913,
+        850
+      ],
+      "model_image_bbox": [
+        244,
+        272,
+        475,
+        443
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        125.28,
+        219.05,
+        204.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ce3919a64e9ffac87b0266a0645403d00fc834dc7c35aeab6cc85a5ffb8a079f.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第6题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        562,
+        166,
+        823,
+        277
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1221,
+        509,
+        1789,
+        850
+      ],
+      "model_image_bbox": [
+        636,
+        265,
+        931,
+        443
+      ],
+      "pdf_page_bbox": [
+        293.11,
+        122.33,
+        429.24,
+        204.14
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "6.如图，OC是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线，P是OC上的一点， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P D \\perp O A , \\ P E \\perp O B"
+          },
+          {
+            "type": "text",
+            "content": "垂足分别为 D，E.F是OC 上的另一点，连接 DF，EF.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D { \\cal F } = E { \\cal F }"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        321,
+        889,
+        368
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        985,
+        1932,
+        1130
+      ],
+      "model_image_bbox": [
+        166,
+        513,
+        1006,
+        588
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        236.56,
+        463.66,
+        271.2
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        373,
+        262,
+        395
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        1145,
+        569,
+        1213
+      ],
+      "model_image_bbox": [
+        166,
+        596,
+        296,
+        632
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        274.88,
+        136.65,
+        291.1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "7.如图，AD是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的角平分线， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D E \\bot A B , D F \\bot A C"
+          },
+          {
+            "type": "text",
+            "content": "，垂足分别为E，F，连接 EF，EF 与AD 相交于点G.AD 与EF 垂直吗？证明你的结论."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        406,
+        889,
+        453
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        1246,
+        1932,
+        1391
+      ],
+      "model_image_bbox": [
+        166,
+        649,
+        1006,
+        724
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        299.2,
+        463.66,
+        333.84
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/58bd2532b5ab0045b0dad46da8ff79662ec9f7baf42469d690c54ceaa4ba189f.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第7题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        262,
+        498,
+        464,
+        597
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        569,
+        1529,
+        1008,
+        1833
+      ],
+      "model_image_bbox": [
+        296,
+        796,
+        525,
+        955
+      ],
+      "pdf_page_bbox": [
+        136.65,
+        367.0,
+        242.0,
+        439.96
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3daa20c8171867799453f0bbd0f582c82c1c4d612585b4da458e61e4c1329056.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第8题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        648,
+        458,
+        773,
+        595
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1408,
+        1406,
+        1680,
+        1827
+      ],
+      "model_image_bbox": [
+        733,
+        732,
+        875,
+        952
+      ],
+      "pdf_page_bbox": [
+        337.97,
+        337.52,
+        403.16,
+        438.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "8.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = \\angle C = 9 0 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "，E是BC 的中点，DE 平分 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A D C"
+          },
+          {
+            "type": "text",
+            "content": "．求证：AE 平分"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle D A B"
+          },
+          {
+            "type": "text",
+            "content": "．（提示：过点E作 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E F \\bot A D"
+          },
+          {
+            "type": "text",
+            "content": "，垂足为F.)"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        640,
+        891,
+        687
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        319,
+        1965,
+        1937,
+        2109
+      ],
+      "model_image_bbox": [
+        166,
+        1024,
+        1008,
+        1099
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        471.65,
+        464.7,
+        506.29
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "53"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

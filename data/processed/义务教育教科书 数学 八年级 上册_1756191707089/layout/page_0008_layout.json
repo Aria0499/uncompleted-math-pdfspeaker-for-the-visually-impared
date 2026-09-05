@@ -1,0 +1,228 @@
+{
+  "page_id": 8,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/65a33e81ad435352aec70c0e3fb96b866bd3c3cdc15339c3ee48fd4c4e7709fb.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        137,
+        439,
+        980,
+        998
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        297,
+        1348,
+        2130,
+        3064
+      ],
+      "model_image_bbox": [
+        155,
+        702,
+        1109,
+        1596
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        323.52,
+        511.12,
+        735.48
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        125,
+        69,
+        560,
+        109
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        211,
+        1217,
+        334
+      ],
+      "model_image_bbox": [
+        141,
+        110,
+        633,
+        174
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        50.85,
+        292.07,
+        80.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角形是一种基本的几何图形.从古埃及的金字塔到现代的建筑物，从巨大的高压输电塔到微小的分子结构，到处都有三角形的形象．为什么在工程建筑、机械制造中经常采用三角形的结构呢？这与三角形的性质有关."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        164,
+        918,
+        243
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        503,
+        1995,
+        746
+      ],
+      "model_image_bbox": [
+        138,
+        262,
+        1039,
+        388
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        120.86,
+        478.78,
+        179.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一个三角形有三条边、三个角．三条边之间有什么关系？三个角之间有什么关系？在小学，我们通过测量、剪拼等方法，知道三角形两边的和大于第三边，三角形的内角和等于180°等结论.而在几何中，要确认一个命题的正确性，还必须通过推理证明．在本章中，我们就来证明这些结论."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        250,
+        918,
+        357
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        265,
+        767,
+        1995,
+        1096
+      ],
+      "model_image_bbox": [
+        138,
+        400,
+        1039,
+        571
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        184.24,
+        478.78,
+        263.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "本章我们将比较系统地学习三角形，同时进一步学习推理证明的方法．学习本章后，我们不仅可以进一步认识三角形，而且可以学习一些几何中研究问题的基本思路和方法."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        362,
+        918,
+        442
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        265,
+        1111,
+        1995,
+        1357
+      ],
+      "model_image_bbox": [
+        138,
+        579,
+        1039,
+        707
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        266.78,
+        478.78,
+        325.73
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        31
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        22.85
+      ]
+    }
+  ]
+}

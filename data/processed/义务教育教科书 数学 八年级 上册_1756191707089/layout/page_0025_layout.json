@@ -1,0 +1,410 @@
+{
+  "page_id": 25,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": " 阅读与思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        122,
+        74,
+        309,
+        98
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        265,
+        227,
+        671,
+        300
+      ],
+      "model_image_bbox": [
+        138,
+        118,
+        349,
+        156
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        54.53,
+        161.16,
+        72.22
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "为什么要证明"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        410,
+        125,
+        557,
+        144
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        891,
+        383,
+        1210,
+        442
+      ],
+      "model_image_bbox": [
+        464,
+        200,
+        630,
+        230
+      ],
+      "pdf_page_bbox": [
+        213.84,
+        92.12,
+        290.5,
+        106.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "李明：我们观察任意一个三角形，量出它的每个内角，都能得出它的内角和等于180°，为什么还要证明这个结论呢？"
+          }
+        ]
+      },
+      "bbox": [
+        113,
+        156,
+        847,
+        203
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        245,
+        479,
+        1841,
+        623
+      ],
+      "model_image_bbox": [
+        127,
+        249,
+        958,
+        324
+      ],
+      "pdf_page_bbox": [
+        58.94,
+        114.96,
+        441.75,
+        149.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "刘老师：通过观察、试验等可以寻找规律，但是由于观察可能有误差，试验可能受干扰，考察对象可能不具有一般性等原因，一般来说，由观察、试验等所产生的“结论”未必正确，例如，让一个班的学生每人任意画一个三角形，再量出它的每个内角，计算三个内角的和，得到的结果未必全是180°，可能有的会比180°大一些，有的会比180°小一些."
+          }
+        ]
+      },
+      "bbox": [
+        113,
+        208,
+        852,
+        333
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        245,
+        638,
+        1852,
+        1022
+      ],
+      "model_image_bbox": [
+        127,
+        332,
+        964,
+        532
+      ],
+      "pdf_page_bbox": [
+        58.94,
+        153.29,
+        444.36,
+        245.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "李明：如果观察细致，仪器精确，不产生误差，还需要证明吗？"
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        338,
+        746,
+        359
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        341,
+        1037,
+        1621,
+        1102
+      ],
+      "model_image_bbox": [
+        177,
+        540,
+        844,
+        574
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        249.09,
+        389.08,
+        264.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "刘老师：仅通过观察、试验等就下结论有时也缺乏说服力．例如，即使不考虑误差等因素，当上面观察的所有结果全是180°时，人们还会有疑问：“不同形状的三角形有无数个，我们画出并验证的只是其中有限个，其余三角形的内角和是多少呢？能对所有的三角形都进行验证吗?”事实上，不管我们经历多长时间，画出多少个三角形，观察、试验的对象也是有限个．因此，要确认“三角形的内角和等于180°，就不能仅依靠度量等手段进行验证，而必须进行推理论证——对于一般的三角形，推出它的三个内角的和等于一个平角，从而得出“无论三角形的具体形状如何，它的内角和一定等于180”."
+          }
+        ]
+      },
+      "bbox": [
+        113,
+        362,
+        852,
+        567
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        245,
+        1111,
+        1852,
+        1741
+      ],
+      "model_image_bbox": [
+        127,
+        579,
+        964,
+        907
+      ],
+      "pdf_page_bbox": [
+        58.94,
+        266.78,
+        444.36,
+        417.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "李明：现在我明白了，一个数学命题是否正确，需要经过理由充足、使人信服的推理论证才能得出结论．观察、试验等是发现数学公式、定理的重要途径，而证明则是确认数学公式、定理的必要步骤."
+          }
+        ]
+      },
+      "bbox": [
+        113,
+        571,
+        850,
+        644
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        245,
+        1753,
+        1847,
+        1977
+      ],
+      "model_image_bbox": [
+        127,
+        913,
+        962,
+        1030
+      ],
+      "pdf_page_bbox": [
+        58.94,
+        420.8,
+        443.32,
+        474.6
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        32
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "18"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        954
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2929
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1526
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十三章三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

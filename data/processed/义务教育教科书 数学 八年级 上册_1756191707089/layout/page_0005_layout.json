@@ -1,0 +1,332 @@
+{
+  "page_id": 5,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "目 录"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        341,
+        69,
+        498,
+        98
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        741,
+        211,
+        1082,
+        300
+      ],
+      "model_image_bbox": [
+        386,
+        110,
+        563,
+        156
+      ],
+      "pdf_page_bbox": [
+        177.85,
+        50.85,
+        259.73,
+        72.22
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cc9903cc49e92951b080b9d6921ff5514408ce4aeab02257a4e2240017a2a041.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        85,
+        255,
+        331,
+        392
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        184,
+        783,
+        719,
+        1203
+      ],
+      "model_image_bbox": [
+        96,
+        408,
+        374,
+        627
+      ],
+      "pdf_page_bbox": [
+        44.33,
+        187.92,
+        172.63,
+        288.89
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/927d387df6529da766ce9344c48bc0e9518f07a847ecfafecf49f9b9e26eb8bb.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        83,
+        571,
+        331,
+        701
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        180,
+        1753,
+        719,
+        2152
+      ],
+      "model_image_bbox": [
+        93,
+        913,
+        374,
+        1121
+      ],
+      "pdf_page_bbox": [
+        43.29,
+        420.8,
+        172.63,
+        516.6
+      ]
+    },
+    {
+      "type": "index",
+      "content": {
+        "list_type": "text_list",
+        "list_items": [
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十三章三角形"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "13.1三角形的概念 2"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "13.2与三角形有关的线段 5"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "13.3三角形的内角与外角 11"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "阅读与思考为什么要证明 18"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 19"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 20"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "综合与实践 确定匀质薄板的重心位置 23"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "第十四章 全等三角形 28"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "14.1全等三角形及其性质 29"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "14.2 三角形全等的判定 32"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "信息技术应用探究三角形全等的条件 46"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "14.3 角的平分线 48"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "图说数学史公理化方法 54"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "数学活动 56"
+              }
+            ]
+          },
+          {
+            "item_type": "text",
+            "item_content": [
+              {
+                "type": "text",
+                "content": "小结 57"
+              }
+            ]
+          }
+        ]
+      },
+      "bbox": [
+        348,
+        189,
+        874,
+        755
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        756,
+        580,
+        1900,
+        2318
+      ],
+      "model_image_bbox": [
+        393,
+        302,
+        989,
+        1208
+      ],
+      "pdf_page_bbox": [
+        181.5,
+        139.28,
+        455.84,
+        556.4
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

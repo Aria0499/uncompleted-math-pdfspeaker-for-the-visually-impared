@@ -1,0 +1,1139 @@
+{
+  "page_id": 86,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D { \\cong } \\triangle A C D"
+          },
+          {
+            "type": "text",
+            "content": "，还可得出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A D = \\angle C A D , \\angle B D A = \\angle C D A"
+          },
+          {
+            "type": "text",
+            "content": "，从而 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A D \\perp B C"
+          },
+          {
+            "type": "text",
+            "content": "．这也就证明了等腰三角形ABC底边上的中线AD平分顶角 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A"
+          },
+          {
+            "type": "text",
+            "content": "并垂直于底边BC.用类似的方法，还可以证明等腰三角形顶角的平分线平分底边并且垂直于底边，底边上的高平分顶角并且平分底边．这也就证明了等腰三角形“三线合一”."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        67,
+        916,
+        203
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        265,
+        205,
+        1991,
+        623
+      ],
+      "model_image_bbox": [
+        138,
+        107,
+        1036,
+        324
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        49.38,
+        477.74,
+        149.6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "从以上证明也可以得出，沿底边上的中线翻折等腰三角形，两部分重合，等腰三角形是轴对称图形，底边上的中线（顶角的平分线、底边上的高）所在直线就是它的对称轴."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        211,
+        916,
+        288
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        647,
+        1991,
+        884
+      ],
+      "model_image_bbox": [
+        138,
+        337,
+        1036,
+        460
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        155.5,
+        477.74,
+        212.24
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例1如图15.3-3，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = A C"
+          },
+          {
+            "type": "text",
+            "content": "，点D在AC上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B D ="
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = A D"
+          },
+          {
+            "type": "text",
+            "content": ".求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "各角的度数."
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        296,
+        914,
+        343
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        265,
+        909,
+        1987,
+        1053
+      ],
+      "model_image_bbox": [
+        138,
+        473,
+        1034,
+        548
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        218.14,
+        476.7,
+        252.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\because A B = A C , B D = B C = A D ,"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        352,
+        545,
+        371
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        1080,
+        1184,
+        1139
+      ],
+      "model_image_bbox": [
+        191,
+        563,
+        616,
+        593
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        259.41,
+        284.25,
+        273.41
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "∴ ∠ABC=∠C=∠BDC,"
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        381,
+        466,
+        401
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        371,
+        1170,
+        1013,
+        1231
+      ],
+      "model_image_bbox": [
+        193,
+        609,
+        527,
+        641
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        280.78,
+        243.04,
+        295.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = \\angle A B D"
+          },
+          {
+            "type": "text",
+            "content": "（等边对等角)."
+          }
+        ]
+      },
+      "bbox": [
+        216,
+        409,
+        518,
+        430
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        469,
+        1256,
+        1126,
+        1320
+      ],
+      "model_image_bbox": [
+        244,
+        654,
+        586,
+        688
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        301.41,
+        270.16,
+        316.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "设 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = x"
+          },
+          {
+            "type": "text",
+            "content": "，则"
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        439,
+        326,
+        458
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        371,
+        1348,
+        708,
+        1406
+      ],
+      "model_image_bbox": [
+        193,
+        702,
+        369,
+        732
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        323.52,
+        170.03,
+        337.52
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle B D C = \\angle A + \\angle A B D = 2 x ,",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/73cd96cfe67b2d25bf1e0a73658c7a3f249b18e4a11e2e05ecbcea7a0e3c2db3.jpg"
+        }
+      },
+      "bbox": [
+        216,
+        467,
+        520,
+        486
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        469,
+        1434,
+        1130,
+        1492
+      ],
+      "model_image_bbox": [
+        244,
+        747,
+        588,
+        777
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        344.16,
+        271.21,
+        358.16
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/3f875d87db9a9361c5fc7e0c75eee4f86b439c537b3005a8c010c28e15903e74.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        710,
+        354,
+        820,
+        493
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        1543,
+        1087,
+        1782,
+        1514
+      ],
+      "model_image_bbox": [
+        803,
+        566,
+        928,
+        788
+      ],
+      "pdf_page_bbox": [
+        370.3,
+        260.88,
+        427.67,
+        363.32
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "从而"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        494,
+        179,
+        515
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        271,
+        1517,
+        389,
+        1581
+      ],
+      "model_image_bbox": [
+        141,
+        790,
+        202,
+        824
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        364.05,
+        93.36,
+        379.53
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle A B C = \\angle C = \\angle B D C = 2 x .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/1ef9f4e6a5518808a05970ed7d06eb8605a1524c6c6677de144c2db41f2ec101.jpg"
+        }
+      },
+      "bbox": [
+        216,
+        524,
+        511,
+        543
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        469,
+        1609,
+        1110,
+        1667
+      ],
+      "model_image_bbox": [
+        244,
+        838,
+        578,
+        868
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        386.16,
+        266.51,
+        400.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图15.3-3"
+          }
+        ]
+      },
+      "bbox": [
+        719,
+        510,
+        813,
+        526
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1563,
+        1566,
+        1767,
+        1615
+      ],
+      "model_image_bbox": [
+        813,
+        816,
+        920,
+        841
+      ],
+      "pdf_page_bbox": [
+        375.0,
+        375.85,
+        424.02,
+        387.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "于是在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，有"
+          }
+        ]
+      },
+      "bbox": [
+        171,
+        552,
+        395,
+        571
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        371,
+        1695,
+        858,
+        1753
+      ],
+      "model_image_bbox": [
+        193,
+        883,
+        447,
+        913
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        406.8,
+        206.01,
+        420.8
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\angle A + \\angle A B C + \\angle C = x + 2 x + 2 x = 1 8 0 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/d445293d2877a0544072ead470cecf8cb905732ee4bdca5ffa04b350f131d05a.jpg"
+        }
+      },
+      "bbox": [
+        216,
+        579,
+        631,
+        598
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        469,
+        1778,
+        1371,
+        1836
+      ],
+      "model_image_bbox": [
+        244,
+        926,
+        714,
+        956
+      ],
+      "pdf_page_bbox": [
+        112.66,
+        426.7,
+        329.1,
+        440.7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解得 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "x = 3 6 ^ { \\circ } ."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        609,
+        304,
+        628
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        367,
+        1870,
+        660,
+        1928
+      ],
+      "model_image_bbox": [
+        191,
+        974,
+        344,
+        1004
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        448.8,
+        158.55,
+        462.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "所以，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = 3 6 ^ { \\circ } , \\angle A B C = \\angle C = 7 2 ^ { \\circ } ."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        637,
+        705,
+        657
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        367,
+        1956,
+        1532,
+        2017
+      ],
+      "model_image_bbox": [
+        191,
+        1019,
+        798,
+        1051
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        469.44,
+        367.69,
+        484.18
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        675,
+        248,
+        699
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        319,
+        2072,
+        539,
+        2146
+      ],
+      "model_image_bbox": [
+        166,
+        1080,
+        280,
+        1118
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        497.44,
+        129.34,
+        515.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": ". \\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } A D { = } D C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A D { = } 2 6 ^ { \\circ }"
+          },
+          {
+            "type": "text",
+            "content": "求 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle C"
+          },
+          {
+            "type": "text",
+            "content": "的度数."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        713,
+        884,
+        732
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        319,
+        2189,
+        1921,
+        2247
+      ],
+      "model_image_bbox": [
+        166,
+        1140,
+        1000,
+        1171
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        525.45,
+        461.05,
+        539.45
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b87777f3b0a96c704f794342cb3dcf873999360260c23d0d4027397bcab164bd.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        304,
+        743,
+        464,
+        842
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        660,
+        2281,
+        1008,
+        2585
+      ],
+      "model_image_bbox": [
+        344,
+        1188,
+        525,
+        1347
+      ],
+      "pdf_page_bbox": [
+        158.55,
+        547.56,
+        242.0,
+        620.51
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        341,
+        855,
+        425,
+        871
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        741,
+        2625,
+        923,
+        2674
+      ],
+      "model_image_bbox": [
+        386,
+        1368,
+        481,
+        1393
+      ],
+      "pdf_page_bbox": [
+        177.85,
+        630.09,
+        221.66,
+        641.89
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/dfb3a5352bb6f8ceda8afff02077f456b3ede14eff1a80ea98e6a1a8cf59c938.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        570,
+        760,
+        734,
+        842
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        1239,
+        2333,
+        1595,
+        2585
+      ],
+      "model_image_bbox": [
+        645,
+        1216,
+        830,
+        1347
+      ],
+      "pdf_page_bbox": [
+        297.28,
+        560.08,
+        382.82,
+        620.51
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ]
+      },
+      "bbox": [
+        611,
+        855,
+        695,
+        871
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1328,
+        2625,
+        1510,
+        2674
+      ],
+      "model_image_bbox": [
+        691,
+        1368,
+        786,
+        1393
+      ],
+      "pdf_page_bbox": [
+        318.67,
+        630.09,
+        362.48,
+        641.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "是等腰直角三角形 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\scriptstyle ( A B = A C , \\angle B A C = 9 0 ^ { \\circ } )"
+          },
+          {
+            "type": "text",
+            "content": "，AD是"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        885,
+        874,
+        906
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        319,
+        2717,
+        1900,
+        2782
+      ],
+      "model_image_bbox": [
+        166,
+        1416,
+        989,
+        1449
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        652.2,
+        455.84,
+        667.68
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        1580,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "79"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 26,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        991
+      ],
+      "reading_order": 27,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3043
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1585
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        730.32
+      ]
+    }
+  ]
+}

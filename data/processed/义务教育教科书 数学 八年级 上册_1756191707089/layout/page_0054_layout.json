@@ -1,0 +1,859 @@
+{
+  "page_id": 54,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C ^ { \\prime } = \\angle B A C"
+          },
+          {
+            "type": "text",
+            "content": "时，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点C重合（图3)；"
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        83,
+        675,
+        104
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        436,
+        254,
+        1467,
+        319
+      ],
+      "model_image_bbox": [
+        227,
+        132,
+        764,
+        166
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        61.17,
+        352.05,
+        76.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C ^ { \\prime } > \\angle B A C"
+          },
+          {
+            "type": "text",
+            "content": "时，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B A C"
+          },
+          {
+            "type": "text",
+            "content": "的外部（图 4)."
+          }
+        ]
+      },
+      "bbox": [
+        203,
+        109,
+        717,
+        130
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        441,
+        334,
+        1558,
+        399
+      ],
+      "model_image_bbox": [
+        229,
+        174,
+        811,
+        208
+      ],
+      "pdf_page_bbox": [
+        105.88,
+        80.33,
+        373.95,
+        95.8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由此你能得出什么结论?"
+          }
+        ]
+      },
+      "bbox": [
+        203,
+        137,
+        432,
+        156
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        441,
+        420,
+        939,
+        479
+      ],
+      "model_image_bbox": [
+        229,
+        219,
+        489,
+        249
+      ],
+      "pdf_page_bbox": [
+        105.88,
+        100.96,
+        225.31,
+        114.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似地，你能探究在两边分别相等的基础上再添加一边相等的情况吗？我们再来探究两角和它们的夹边分别相等的两个三角形是否全等."
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        161,
+        852,
+        208
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        436,
+        494,
+        1852,
+        638
+      ],
+      "model_image_bbox": [
+        227,
+        257,
+        964,
+        332
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        118.65,
+        444.36,
+        153.29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图5，任意画 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，在边AC上取点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，连接"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": ".这样 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "有一边和一角分别相等．沿射线AC 拖动点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，测量 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "．可以发现："
+          }
+        ]
+      },
+      "bbox": [
+        157,
+        213,
+        690,
+        286
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        341,
+        654,
+        1500,
+        878
+      ],
+      "model_image_bbox": [
+        177,
+        340,
+        781,
+        457
+      ],
+      "pdf_page_bbox": [
+        81.88,
+        156.97,
+        359.87,
+        210.77
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C ^ { \\prime } < \\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": "时，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "在边AC（不包括端点）上（图6）；"
+          }
+        ]
+      },
+      "bbox": [
+        159,
+        291,
+        690,
+        338
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        345,
+        893,
+        1500,
+        1037
+      ],
+      "model_image_bbox": [
+        179,
+        465,
+        781,
+        540
+      ],
+      "pdf_page_bbox": [
+        82.93,
+        214.45,
+        359.87,
+        249.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/b72f4bae8f094338ee0507ec401bd269d072c80d046ad024938534d48407175e.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        707,
+        215,
+        889,
+        359
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1537,
+        660,
+        1932,
+        1102
+      ],
+      "model_image_bbox": [
+        800,
+        344,
+        1006,
+        574
+      ],
+      "pdf_page_bbox": [
+        368.74,
+        158.44,
+        463.66,
+        264.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C ^ { \\prime } = \\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": "时，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点C重合（图7)；"
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        343,
+        675,
+        362
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        436,
+        1053,
+        1467,
+        1111
+      ],
+      "model_image_bbox": [
+        227,
+        548,
+        764,
+        579
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        252.77,
+        352.05,
+        266.78
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "当 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C ^ { \\prime } > \\angle A B C"
+          },
+          {
+            "type": "text",
+            "content": "时，点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "在边AC的延长线上（图8)."
+          }
+        ]
+      },
+      "bbox": [
+        159,
+        368,
+        690,
+        414
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        345,
+        1130,
+        1500,
+        1271
+      ],
+      "model_image_bbox": [
+        179,
+        588,
+        781,
+        662
+      ],
+      "pdf_page_bbox": [
+        82.93,
+        271.2,
+        359.87,
+        305.1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图5"
+          }
+        ]
+      },
+      "bbox": [
+        781,
+        371,
+        820,
+        387
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1697,
+        1139,
+        1782,
+        1188
+      ],
+      "model_image_bbox": [
+        884,
+        593,
+        928,
+        619
+      ],
+      "pdf_page_bbox": [
+        407.33,
+        273.41,
+        427.67,
+        285.2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "由此你能得出什么结论?"
+          }
+        ]
+      },
+      "bbox": [
+        203,
+        421,
+        432,
+        440
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        441,
+        1292,
+        939,
+        1351
+      ],
+      "model_image_bbox": [
+        229,
+        673,
+        489,
+        704
+      ],
+      "pdf_page_bbox": [
+        105.88,
+        310.26,
+        225.31,
+        324.26
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9a3345fa989ae65cb02c8167c3e5ab428208e78663fee0e500f409b753d71501.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图6"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        206,
+        449,
+        393,
+        593
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        447,
+        1378,
+        854,
+        1821
+      ],
+      "model_image_bbox": [
+        233,
+        718,
+        444,
+        948
+      ],
+      "pdf_page_bbox": [
+        107.44,
+        330.89,
+        204.97,
+        437.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/e34c979f2039dfbb4b3da8816a92ca3267c33ccf24d6f25c7d480923aaafc805.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图7"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        432,
+        449,
+        619,
+        593
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        939,
+        1378,
+        1345,
+        1821
+      ],
+      "model_image_bbox": [
+        489,
+        718,
+        700,
+        948
+      ],
+      "pdf_page_bbox": [
+        225.31,
+        330.89,
+        322.84,
+        437.01
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/dd096a65de279e699180d8088c1f0ebec5c666e1b8edda860ccee1b6118db322.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图8"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        658,
+        449,
+        845,
+        593
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1430,
+        1378,
+        1837,
+        1821
+      ],
+      "model_image_bbox": [
+        744,
+        718,
+        956,
+        948
+      ],
+      "pdf_page_bbox": [
+        343.18,
+        330.89,
+        440.71,
+        437.01
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似地，你能探究斜边和一直角边分别相等的两个直角三角形是否全等吗？"
+          }
+        ]
+      },
+      "bbox": [
+        201,
+        642,
+        894,
+        663
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        436,
+        1971,
+        1943,
+        2036
+      ],
+      "model_image_bbox": [
+        227,
+        1027,
+        1012,
+        1060
+      ],
+      "pdf_page_bbox": [
+        104.83,
+        473.12,
+        466.27,
+        488.6
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1504,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "47"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

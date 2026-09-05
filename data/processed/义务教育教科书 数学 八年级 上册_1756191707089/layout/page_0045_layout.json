@@ -1,0 +1,985 @@
+{
+  "page_id": 45,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "而 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A C D"
+          },
+          {
+            "type": "text",
+            "content": "具备“边边边”的条件."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        67,
+        530,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        205,
+        1152,
+        270
+      ],
+      "model_image_bbox": [
+        91,
+        107,
+        599,
+        140
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        49.38,
+        276.42,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "证明：∵D是BC的中点，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        97,
+        420,
+        118
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        271,
+        297,
+        913,
+        362
+      ],
+      "model_image_bbox": [
+        141,
+        155,
+        475,
+        188
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        71.48,
+        219.05,
+        86.96
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore B D = C D .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/891dea5a1660aa12af2dc2a4ec476ae30655be8bebc43940ec35e678430697b5.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        125,
+        277,
+        144
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        276,
+        383,
+        602,
+        442
+      ],
+      "model_image_bbox": [
+        143,
+        200,
+        313,
+        230
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        92.12,
+        144.47,
+        106.12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A C D"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        152,
+        375,
+        173
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        276,
+        466,
+        815,
+        531
+      ],
+      "model_image_bbox": [
+        143,
+        243,
+        424,
+        276
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        112.02,
+        195.58,
+        127.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8164b8541b083b360fcabec55d234c2556018a6b727319b2625867ff50d57821.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        611,
+        97,
+        869,
+        182
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1328,
+        297,
+        1889,
+        558
+      ],
+      "model_image_bbox": [
+        691,
+        155,
+        983,
+        291
+      ],
+      "pdf_page_bbox": [
+        318.67,
+        71.48,
+        453.23,
+        134.13
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\scriptstyle { \\left\\{ \\begin{array} { l l } { A B = A C , } \\\\ { B D = C D , } \\\\ { A D = A D , } \\end{array} \\right. }",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/5a40941d2b5b201a07f22a3ac41125551906438bd1c79ef5d109cbcac400e11b.jpg"
+        }
+      },
+      "bbox": [
+        171,
+        182,
+        294,
+        258
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        371,
+        558,
+        639,
+        792
+      ],
+      "model_image_bbox": [
+        193,
+        291,
+        332,
+        412
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        134.13,
+        153.34,
+        190.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.2-14"
+          }
+        ]
+      },
+      "bbox": [
+        680,
+        192,
+        781,
+        211
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        1478,
+        589,
+        1697,
+        647
+      ],
+      "model_image_bbox": [
+        769,
+        307,
+        884,
+        337
+      ],
+      "pdf_page_bbox": [
+        354.66,
+        141.49,
+        407.33,
+        155.5
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\Delta A B D \\cong \\Delta A C D ( \\mathrm { S S S } ) .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/965b1da5ad8a5fd821b4ea79cb079501d64b7e754e67f48bb93eb5d1400c3224.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        267,
+        429,
+        288
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        276,
+        819,
+        932,
+        884
+      ],
+      "model_image_bbox": [
+        143,
+        427,
+        485,
+        460
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        196.77,
+        223.75,
+        212.24
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A D B = \\angle A D C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/a8af71592d9ab18abc92742f41ad4daf1c44c08a1f8baa6b9e2910c21e3db5ce.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        295,
+        358,
+        315
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        276,
+        905,
+        778,
+        967
+      ],
+      "model_image_bbox": [
+        143,
+        472,
+        405,
+        504
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        217.4,
+        186.72,
+        232.14
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\begin{array} { r l } { \\neg } & { { } \\angle A D B + \\angle A D C = 1 8 0 ^ { \\circ } , } \\end{array}",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/cef42a4d3d827f1a53c8115a1b04b5416ebce4e87d11143169ebbbe31eb11f13.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        322,
+        427,
+        345
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        276,
+        988,
+        928,
+        1059
+      ],
+      "model_image_bbox": [
+        143,
+        515,
+        483,
+        552
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        237.3,
+        222.7,
+        254.25
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\angle A D B = 9 0 ^ { \\circ } .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/7b29019f763ee71cd68eac19091bfed473dcbd6726f3781342fd311a385aea73.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        352,
+        314,
+        373
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        276,
+        1080,
+        682,
+        1145
+      ],
+      "model_image_bbox": [
+        143,
+        563,
+        355,
+        596
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        259.41,
+        163.77,
+        274.88
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore \\quad A D \\bot B C .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/6dc3b317778f071cd55e49f2651511f6fd4cd05c5d189dd9e5ac54fd9db6254a.jpg"
+        }
+      },
+      "bbox": [
+        127,
+        380,
+        280,
+        401
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        276,
+        1166,
+        608,
+        1231
+      ],
+      "model_image_bbox": [
+        143,
+        608,
+        316,
+        641
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        280.04,
+        146.03,
+        295.52
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "最后来看两个三角形的三角分别相等的情况."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        421,
+        574,
+        442
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        1292,
+        1247,
+        1357
+      ],
+      "model_image_bbox": [
+        141,
+        673,
+        649,
+        707
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        310.26,
+        299.37,
+        325.73
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/ee0bb10dd601e5100a8471acc2ad3a852be96bcc3d6855c18b33fbf9840ff9af.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        454,
+        135,
+        479
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        213,
+        1394,
+        293,
+        1471
+      ],
+      "model_image_bbox": [
+        110,
+        726,
+        152,
+        766
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        334.58,
+        70.41,
+        353.0
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        454,
+        201,
+        477
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        213,
+        1394,
+        436,
+        1464
+      ],
+      "model_image_bbox": [
+        110,
+        726,
+        227,
+        763
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        334.58,
+        104.83,
+        351.53
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "三角分别相等的两个三角形全等吗？解答这个问题后，把三角形全等的判定方法做一个小结."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        489,
+        847,
+        539
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        223,
+        1501,
+        1841,
+        1655
+      ],
+      "model_image_bbox": [
+        116,
+        782,
+        958,
+        862
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        360.37,
+        441.75,
+        397.22
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        103,
+        559,
+        206,
+        583
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        223,
+        1716,
+        447,
+        1790
+      ],
+      "model_image_bbox": [
+        116,
+        894,
+        233,
+        932
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        411.96,
+        107.44,
+        429.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = B D"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = A D"
+          },
+          {
+            "type": "text",
+            "content": "．求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A B C = \\angle B A D"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        597,
+        656,
+        618
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        223,
+        1833,
+        1426,
+        1897
+      ],
+      "model_image_bbox": [
+        116,
+        955,
+        742,
+        988
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        439.96,
+        342.14,
+        455.44
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7d1a295ab7b6fb95d57dc56493d8295ce18bb17fd601368bb812c19a0f627aca.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        189,
+        689,
+        371,
+        776
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        410,
+        2115,
+        806,
+        2383
+      ],
+      "model_image_bbox": [
+        213,
+        1102,
+        419,
+        1241
+      ],
+      "pdf_page_bbox": [
+        98.57,
+        507.76,
+        193.5,
+        571.87
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8c957fd3e5789b601dfe0be5036dc199465afbbb0d56dfc6ce657e2d432f94a1.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题)"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        570,
+        626,
+        759,
+        777
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        1239,
+        1922,
+        1650,
+        2386
+      ],
+      "model_image_bbox": [
+        645,
+        1001,
+        859,
+        1243
+      ],
+      "pdf_page_bbox": [
+        297.28,
+        461.33,
+        395.86,
+        572.61
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.工人师傅常用角尺平分一个任意角．如图，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的边OA，OB上分别取 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "O M { = } O N"
+          },
+          {
+            "type": "text",
+            "content": "，移动角尺，使角尺两边相同的刻度分别与点M，N重合.过角尺顶点C的射线OC便是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线．为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        814,
+        850,
+        894
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        223,
+        2499,
+        1847,
+        2745
+      ],
+      "model_image_bbox": [
+        116,
+        1302,
+        962,
+        1430
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        599.88,
+        443.32,
+        658.84
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "38"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 25,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

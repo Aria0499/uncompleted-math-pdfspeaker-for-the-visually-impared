@@ -1,0 +1,620 @@
+{
+  "page_id": 81,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/4108b60800c497380637c987bf7c3896e56bc6b54a2f6d2a0af49dabfc86f65f.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        100,
+        315,
+        135,
+        340
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        217,
+        967,
+        293,
+        1044
+      ],
+      "model_image_bbox": [
+        113,
+        504,
+        152,
+        544
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        232.14,
+        70.41,
+        250.56
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/36b5295c5ed2fa7671302609b399243efa2aba7c441d022b6cf434b9dcb4357c.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.2-3"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        127,
+        60,
+        447,
+        289
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        276,
+        184,
+        971,
+        887
+      ],
+      "model_image_bbox": [
+        143,
+        96,
+        506,
+        462
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        44.22,
+        233.13,
+        212.98
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "再找几个点，分别画出它们关于x 轴和y轴的对称点，检验一下你发现的规律."
+          }
+        ]
+      },
+      "bbox": [
+        589,
+        152,
+        808,
+        244
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1280,
+        466,
+        1756,
+        749
+      ],
+      "model_image_bbox": [
+        666,
+        243,
+        914,
+        390
+      ],
+      "pdf_page_bbox": [
+        307.19,
+        112.02,
+        421.41,
+        179.82
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "归纳"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        100,
+        315,
+        199,
+        340
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        217,
+        967,
+        432,
+        1044
+      ],
+      "model_image_bbox": [
+        113,
+        504,
+        225,
+        544
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        232.14,
+        103.79,
+        250.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "点（x，y）关于x轴对称的点的坐标为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "( x , \\ - y )"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        354,
+        675,
+        375
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        1087,
+        1467,
+        1151
+      ],
+      "model_image_bbox": [
+        166,
+        566,
+        764,
+        600
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        260.88,
+        352.05,
+        276.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "点（x，y）关于y轴对称的点的坐标为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "( - x , \\ y )"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        383,
+        668,
+        402
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        1176,
+        1452,
+        1234
+      ],
+      "model_image_bbox": [
+        166,
+        612,
+        756,
+        643
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        282.25,
+        348.4,
+        296.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在平面直角坐标系中，我们可以利用上述规律画出与一个图形关于x轴或y轴对称的图形．对于一些规则的几何图形，只要先求出已知图形中的一些关键点（如三角形的顶点）关于坐标轴对称的点的坐标，描出并连接这些点，就可以得到与这个图形关于坐标轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        418,
+        874,
+        526
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        169,
+        1283,
+        1900,
+        1615
+      ],
+      "model_image_bbox": [
+        88,
+        668,
+        989,
+        841
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        308.05,
+        455.84,
+        387.64
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例2如图15.2-4，四边形ABCD的四个顶点的坐标分别为A（—5，1)，B(—2，1)，C(—2，5)，D(—5，4)，画出与四边形ABCD关于y轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        532,
+        869,
+        581
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        169,
+        1633,
+        1889,
+        1784
+      ],
+      "model_image_bbox": [
+        88,
+        851,
+        983,
+        929
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        392.06,
+        453.23,
+        428.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "解：点（x，y）关于y轴对称的点的坐标为（一x，y），因此四边形ABCD的顶点A，B，C，D关于y轴对称的点分别为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } ( 5 , \\ 1 )"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } ( 2 , \\ 1 )"
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime } ( 2 , \\ 5 )"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D ^ { \\prime } ( 5 , \\ 4 )"
+          },
+          {
+            "type": "text",
+            "content": "，依次连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "C ^ { \\prime } D ^ { \\prime }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "D ^ { \\prime } A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，就可得到与四边形ABCD关于y轴对称的四边形 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } C ^ { \\prime } D ^ { \\prime }"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        590,
+        874,
+        696
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        169,
+        1811,
+        1900,
+        2137
+      ],
+      "model_image_bbox": [
+        88,
+        944,
+        989,
+        1113
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        434.8,
+        455.84,
+        512.92
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f059da0059e2c32a627f51349c974299ce6234e1ef2633a0de03a1bcc2b759c9.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图15.2-4"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        186,
+        699,
+        501,
+        909
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        404,
+        2146,
+        1089,
+        2791
+      ],
+      "model_image_bbox": [
+        210,
+        1118,
+        567,
+        1454
+      ],
+      "pdf_page_bbox": [
+        97.01,
+        515.13,
+        261.3,
+        669.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似地，请你在图15.2-4 中画出与四边形ABCD关于x 轴对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        614,
+        791,
+        837,
+        883
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1334,
+        2429,
+        1819,
+        2711
+      ],
+      "model_image_bbox": [
+        695,
+        1265,
+        947,
+        1412
+      ],
+      "pdf_page_bbox": [
+        320.23,
+        582.93,
+        436.54,
+        650.73
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        641,
+        31
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        778,
+        9,
+        1393,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        725,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        334.31,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "74"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        939,
+        270,
+        954
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        276,
+        2883,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1502,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        692.0,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "page_id": 80,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）过点A画直线l的垂线，垂足为O，在垂线上截取 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\scriptstyle O A ^ { \\prime } = O A , A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "就是点A关于直线l的对称点；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        67,
+        646,
+        118
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        205,
+        1404,
+        362
+      ],
+      "model_image_bbox": [
+        141,
+        107,
+        731,
+        188
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        49.38,
+        336.92,
+        86.96
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）同理，分别画出点B，C关于直线l的对称点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime } , \\ C ^ { \\prime }"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        125,
+        646,
+        173
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        265,
+        383,
+        1404,
+        531
+      ],
+      "model_image_bbox": [
+        138,
+        200,
+        731,
+        276
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        92.12,
+        336.92,
+        127.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "想一想，为什么点A'是点A 关于直线I的对称点."
+          }
+        ]
+      },
+      "bbox": [
+        683,
+        98,
+        901,
+        166
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1484,
+        300,
+        1958,
+        509
+      ],
+      "model_image_bbox": [
+        773,
+        156,
+        1019,
+        265
+      ],
+      "pdf_page_bbox": [
+        356.22,
+        72.22,
+        469.92,
+        122.33
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）连接 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } , \\ B ^ { \\prime } C ^ { \\prime } , \\ C ^ { \\prime } A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "即为所求."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        180,
+        707,
+        203
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        367,
+        552,
+        1537,
+        623
+      ],
+      "model_image_bbox": [
+        191,
+        288,
+        800,
+        324
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        132.65,
+        368.74,
+        149.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/720c1104d228ba65462ef1e4a4f71c2ccaf17b835c44a32906053ac83fa43fe6.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        147,
+        220,
+        184,
+        244
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        319,
+        675,
+        400,
+        749
+      ],
+      "model_image_bbox": [
+        166,
+        352,
+        208,
+        390
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        162.13,
+        95.97,
+        179.82
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        220,
+        250,
+        244
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        319,
+        675,
+        543,
+        749
+      ],
+      "model_image_bbox": [
+        166,
+        352,
+        283,
+        390
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        162.13,
+        130.39,
+        179.82
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，把各图形补成关于直线l对称的图形."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        258,
+        624,
+        277
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        319,
+        792,
+        1356,
+        850
+      ],
+      "model_image_bbox": [
+        166,
+        412,
+        706,
+        443
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        190.13,
+        325.45,
+        204.14
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/550a6b1518bb6acf9211497bfdd0a343444296b8bc09e84fb92233591a593b22.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        257,
+        286,
+        348,
+        392
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        558,
+        878,
+        756,
+        1203
+      ],
+      "model_image_bbox": [
+        290,
+        457,
+        393,
+        627
+      ],
+      "pdf_page_bbox": [
+        134.04,
+        210.77,
+        181.5,
+        288.89
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(1)"
+          }
+        ]
+      },
+      "bbox": [
+        297,
+        404,
+        331,
+        421
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        645,
+        1240,
+        719,
+        1292
+      ],
+      "model_image_bbox": [
+        336,
+        646,
+        374,
+        673
+      ],
+      "pdf_page_bbox": [
+        154.9,
+        297.73,
+        172.63,
+        310.26
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8c749e87b0848aa79da8242de81b56bd1bba2aeb3d20923f8891f57210d5ed1d.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        449,
+        312,
+        609,
+        381
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        976,
+        958,
+        1323,
+        1170
+      ],
+      "model_image_bbox": [
+        508,
+        499,
+        689,
+        609
+      ],
+      "pdf_page_bbox": [
+        234.18,
+        229.93,
+        317.63,
+        280.78
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(2)"
+          }
+        ]
+      },
+      "bbox": [
+        515,
+        404,
+        547,
+        421
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1119,
+        1240,
+        1189,
+        1292
+      ],
+      "model_image_bbox": [
+        582,
+        646,
+        619,
+        673
+      ],
+      "pdf_page_bbox": [
+        268.6,
+        297.73,
+        285.29,
+        310.26
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/cf9c7c9e759c3bcf2d4fa1f8bc0ff24a8456c3f88106f093d373e51073785ae7.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        714,
+        286,
+        781,
+        394
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        1552,
+        878,
+        1697,
+        1209
+      ],
+      "model_image_bbox": [
+        808,
+        457,
+        884,
+        630
+      ],
+      "pdf_page_bbox": [
+        372.39,
+        210.77,
+        407.33,
+        290.36
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ]
+      },
+      "bbox": [
+        479,
+        430,
+        562,
+        447
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        1041,
+        1320,
+        1221,
+        1372
+      ],
+      "model_image_bbox": [
+        542,
+        688,
+        636,
+        715
+      ],
+      "pdf_page_bbox": [
+        249.82,
+        316.89,
+        293.11,
+        329.42
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "(3)"
+          }
+        ]
+      },
+      "bbox": [
+        742,
+        404,
+        776,
+        421
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1613,
+        1240,
+        1687,
+        1292
+      ],
+      "model_image_bbox": [
+        839,
+        646,
+        878,
+        673
+      ],
+      "pdf_page_bbox": [
+        386.99,
+        297.73,
+        404.72,
+        310.26
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.用纸片剪一个三角形，分别沿它一边上的中线、高及这边对角的平分线对折，看看哪些部分能够重合，哪些部分不能重合."
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        458,
+        891,
+        510
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        313,
+        1406,
+        1937,
+        1566
+      ],
+      "model_image_bbox": [
+        163,
+        732,
+        1008,
+        816
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        337.52,
+        464.7,
+        375.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "类似于平移，下面我们在平面直角坐标系中研究轴对称，研究关于坐标轴对称的图形的对称点坐标之间的关系."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        545,
+        916,
+        595
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        271,
+        1673,
+        1991,
+        1827
+      ],
+      "model_image_bbox": [
+        141,
+        872,
+        1036,
+        952
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        401.64,
+        477.74,
+        438.49
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/189122190caff8476d19074014babc8ba92eadac7c8a5eac0c76351782eb2d69.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        612,
+        176,
+        638
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        308,
+        1879,
+        382,
+        1959
+      ],
+      "model_image_bbox": [
+        160,
+        979,
+        199,
+        1020
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        451.01,
+        91.79,
+        470.18
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        181,
+        614,
+        243,
+        637
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        393,
+        1885,
+        528,
+        1956
+      ],
+      "model_image_bbox": [
+        204,
+        982,
+        275,
+        1019
+      ],
+      "pdf_page_bbox": [
+        94.4,
+        452.49,
+        126.74,
+        469.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在如图15.2-3的平面直角坐标系中，画出下列已知点及其关于坐标轴的对称点，并把它们的坐标填入表格中，看一看每对对称点的坐标有怎样的规律，再和同学讨论一下."
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        649,
+        891,
+        729
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        319,
+        1993,
+        1937,
+        2238
+      ],
+      "model_image_bbox": [
+        166,
+        1038,
+        1008,
+        1166
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        478.28,
+        464.7,
+        537.24
+      ]
+    },
+    {
+      "type": "table",
+      "content": {
+        "image_source": {
+          "path": "images/11d1e3e843335798e447375599c38756f03d0c7f2fbf3859b89b97e5f1b4edc4.jpg"
+        },
+        "table_caption": [],
+        "table_footnote": [],
+        "html": "<table><tr><td rowspan=1 colspan=1>已知点</td><td rowspan=1 colspan=1> $A ( 2 , \\mathbf { \\delta - } 3 )$ </td><td rowspan=1 colspan=1> $B ( - 1 , ~ 2 )$ </td><td rowspan=1 colspan=1> $C ( - 6 , - 5 )$ </td><td rowspan=1 colspan=1> $D \\left( { \\frac { 1 } { 2 } } , \\ 1 \\right)$ </td><td rowspan=1 colspan=1> $E ( 4 , \\ 0 )$ </td></tr><tr><td rowspan=1 colspan=1>关于x轴的对称点</td><td rowspan=1 colspan=1> $A ^ { \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $B ^ { \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $C ^ { \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $D ^ { \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $E ^ { ' } ( \\_ , \\_ )$ </td></tr><tr><td rowspan=1 colspan=1>关于y轴的对称点</td><td rowspan=1 colspan=1> $A ^ { \\prime \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $B ^ { \\prime \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $C ^ { \\prime \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $D ^ { \\prime \\prime } ( \\_ , \\_ )$ </td><td rowspan=1 colspan=1> $E ^ { \\prime \\prime } ( \\_ , \\_ )$ </td></tr></table>",
+        "table_type": "complex_table",
+        "table_nest_level": 1
+      },
+      "bbox": [
+        154,
+        743,
+        886,
+        899
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        334,
+        2281,
+        1926,
+        2760
+      ],
+      "model_image_bbox": [
+        174,
+        1188,
+        1002,
+        1438
+      ],
+      "pdf_page_bbox": [
+        80.32,
+        547.56,
+        462.1,
+        662.52
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        872,
+        954
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1895,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        987,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        454.79,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        778,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        334.31,
+        731.79
+      ]
+    }
+  ]
+}

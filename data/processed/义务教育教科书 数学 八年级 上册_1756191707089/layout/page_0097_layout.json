@@ -1,0 +1,518 @@
+{
+  "page_id": 97,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "小结"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        425,
+        81,
+        525,
+        112
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        923,
+        248,
+        1141,
+        343
+      ],
+      "model_image_bbox": [
+        481,
+        129,
+        594,
+        179
+      ],
+      "pdf_page_bbox": [
+        221.66,
+        59.69,
+        273.81,
+        82.54
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "一、本章知识结构图"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        156,
+        343,
+        180
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        206,
+        479,
+        745,
+        552
+      ],
+      "model_image_bbox": [
+        107,
+        249,
+        388,
+        288
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        114.96,
+        178.89,
+        132.65
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/7d950e6552761023daf0b4ea75707ec793212755fd385d81920036ddfaac6896.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        199,
+        204,
+        756,
+        376
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        432,
+        626,
+        1643,
+        1154
+      ],
+      "model_image_bbox": [
+        225,
+        326,
+        855,
+        601
+      ],
+      "pdf_page_bbox": [
+        103.79,
+        150.34,
+        394.29,
+        277.09
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "二、回顾与思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        95,
+        402,
+        292,
+        427
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        206,
+        1234,
+        634,
+        1311
+      ],
+      "model_image_bbox": [
+        107,
+        643,
+        330,
+        683
+      ],
+      "pdf_page_bbox": [
+        49.55,
+        296.25,
+        152.29,
+        314.68
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "轴对称是一种图形变化，它在现实生活中有广泛的应用．本章我们类比研究平移的思路与方法，首先学习了轴对称的概念及其性质，然后学习了画对称轴和轴对称的图形的方法．在此过程中，我们还学习了线段的垂直平分线的性质和与之相关的尺规作图．最后利用轴对称研究等腰三角形，重点研究了等腰三角形和等边三角形的性质和判定方法."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        444,
+        850,
+        581
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        223,
+        1363,
+        1847,
+        1784
+      ],
+      "model_image_bbox": [
+        116,
+        710,
+        962,
+        929
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        327.21,
+        443.32,
+        428.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "等腰三角形是特殊的三角形，也是轴对称图形．利用它的轴对称性，我们不仅发现了等腰三角形的一些性质，而且从中找到了证明这些性质的思路．借助图形的变化研究图形的性质，是几何中常用的方法，有助于增强空间观念和几何直观，提升推理能力."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        586,
+        850,
+        696
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        223,
+        1799,
+        1847,
+        2137
+      ],
+      "model_image_bbox": [
+        116,
+        937,
+        962,
+        1113
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        431.85,
+        443.32,
+        512.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "请你带着下面的问题，复习一下全章的内容吧."
+          }
+        ]
+      },
+      "bbox": [
+        149,
+        703,
+        626,
+        722
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        323,
+        2158,
+        1360,
+        2217
+      ],
+      "model_image_bbox": [
+        168,
+        1124,
+        708,
+        1155
+      ],
+      "pdf_page_bbox": [
+        77.71,
+        518.08,
+        326.49,
+        532.08
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.在现实世界中存在着大量的轴对称现象，你能举出一些例子吗？成轴对称的图形有什么特点?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        730,
+        850,
+        781
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        223,
+        2241,
+        1847,
+        2398
+      ],
+      "model_image_bbox": [
+        116,
+        1168,
+        962,
+        1249
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        537.97,
+        443.32,
+        575.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.在我们学过的几何图形中，有哪些是轴对称图形？它们的对称轴与这个图形有怎样的位置关系?"
+          }
+        ]
+      },
+      "bbox": [
+        105,
+        786,
+        847,
+        838
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        228,
+        2413,
+        1841,
+        2573
+      ],
+      "model_image_bbox": [
+        118,
+        1257,
+        958,
+        1340
+      ],
+      "pdf_page_bbox": [
+        54.76,
+        579.24,
+        441.75,
+        617.57
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "3．对于成轴对称的两个图形，对称点所连线段与对称轴有什么关系？如何作出与一个图形成轴对称的图形?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        845,
+        850,
+        894
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        223,
+        2594,
+        1847,
+        2745
+      ],
+      "model_image_bbox": [
+        116,
+        1352,
+        962,
+        1430
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        622.72,
+        443.32,
+        658.84
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        1,
+        641,
+        32
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        778,
+        3,
+        1393,
+        98
+      ],
+      "model_image_bbox": [
+        405,
+        1,
+        725,
+        51
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        0.74,
+        334.31,
+        23.58
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "90"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        937,
+        113,
+        953
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        191,
+        2877,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1499,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        690.52,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章 轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        270,
+        954
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        276,
+        2877,
+        586,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        305,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        140.82,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

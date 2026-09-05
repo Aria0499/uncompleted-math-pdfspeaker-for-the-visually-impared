@@ -1,0 +1,1063 @@
+{
+  "page_id": 56,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "点的射线，就能得到角的平分线了.下面是具体作法."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        67,
+        658,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        271,
+        205,
+        1430,
+        270
+      ],
+      "model_image_bbox": [
+        141,
+        107,
+        744,
+        140
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        49.38,
+        343.18,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "作法：如图14.3-3，已知 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        97,
+        513,
+        116
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        367,
+        297,
+        1115,
+        356
+      ],
+      "model_image_bbox": [
+        191,
+        155,
+        580,
+        185
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        71.48,
+        267.56,
+        85.49
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（1）以点O为圆心，适当长为半径作弧，交OA于点M，交OB于点N；"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        126,
+        675,
+        175
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        271,
+        386,
+        1467,
+        537
+      ],
+      "model_image_bbox": [
+        141,
+        201,
+        764,
+        280
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        92.86,
+        352.05,
+        128.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（2）分别以点M，N为圆心，大于 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\frac { 1 } { 2 } M N"
+          },
+          {
+            "type": "text",
+            "content": "的长为半径作弧（想一想为什么），两弧在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的内部相交于点C；"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        182,
+        678,
+        281
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        265,
+        558,
+        1473,
+        862
+      ],
+      "model_image_bbox": [
+        138,
+        291,
+        767,
+        449
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        134.13,
+        353.61,
+        207.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/38eb6e4ed337dd401adc660a75b9f88336c22da222ff473ec3483f07adfaecc7.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.3-3"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        695,
+        126,
+        911,
+        232
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1510,
+        386,
+        1980,
+        712
+      ],
+      "model_image_bbox": [
+        786,
+        201,
+        1031,
+        371
+      ],
+      "pdf_page_bbox": [
+        362.48,
+        92.86,
+        475.13,
+        170.97
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "（3）作射线OC，则射线OC为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        288,
+        665,
+        309
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        367,
+        884,
+        1445,
+        948
+      ],
+      "model_image_bbox": [
+        191,
+        460,
+        752,
+        494
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        212.24,
+        346.83,
+        227.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "下面再来看角的平分线上的点与角两边上的点所连线段与角两边的位置关系，我们仍研究其中的特殊情形."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        328,
+        914,
+        376
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        271,
+        1007,
+        1987,
+        1154
+      ],
+      "model_image_bbox": [
+        141,
+        524,
+        1034,
+        601
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        241.72,
+        476.7,
+        277.09
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/45c0c6bcf7cba3cba3bcd729ee0055271cee269f48cb0110f70a9356a6612b4b.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        142,
+        392,
+        179,
+        416
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        308,
+        1203,
+        389,
+        1277
+      ],
+      "model_image_bbox": [
+        160,
+        627,
+        202,
+        665
+      ],
+      "pdf_page_bbox": [
+        74.06,
+        288.89,
+        93.36,
+        306.57
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        181,
+        394,
+        243,
+        414
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        393,
+        1209,
+        528,
+        1271
+      ],
+      "model_image_bbox": [
+        204,
+        630,
+        275,
+        662
+      ],
+      "pdf_page_bbox": [
+        94.4,
+        290.36,
+        126.74,
+        305.1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.3-4，OC是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线.点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 }"
+          },
+          {
+            "type": "text",
+            "content": ","
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { \\mathrm { ~ 2 ~ } } , \\ P _ { \\mathrm { ~ 3 ~ } } , \\ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "在OC上，过点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } , \\ P _ { 2 } , \\ P _ { 3 } , \\ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "分别画OA与OB的垂线，垂足分别为 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "D _ { 1 }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E _ { 1 } , \\ D _ { 2 }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "E _ { 2 }"
+          },
+          {
+            "type": "equation_inline",
+            "content": "D _ { 3 }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "E _ { 3 } \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "，分别比较 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } D _ { 1 }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } E _ { 1 } , \\ P _ { 2 } D _ { 2 }"
+          },
+          {
+            "type": "text",
+            "content": "与"
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 2 } E _ { 2 } , \\ P _ { 3 } D _ { 3 }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 3 } E _ { 3 } \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "，你有什么发现？"
+          }
+        ]
+      },
+      "bbox": [
+        144,
+        428,
+        678,
+        564
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        313,
+        1314,
+        1473,
+        1732
+      ],
+      "model_image_bbox": [
+        163,
+        684,
+        767,
+        902
+      ],
+      "pdf_page_bbox": [
+        75.1,
+        315.42,
+        353.61,
+        415.64
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/208eeecd5a991af6c93882cd8be7a1e4ead94e318cee409f7d9ba79e1ebd3e16.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.3-4"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        695,
+        399,
+        901,
+        519
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        1510,
+        1225,
+        1958,
+        1593
+      ],
+      "model_image_bbox": [
+        786,
+        638,
+        1019,
+        830
+      ],
+      "pdf_page_bbox": [
+        362.48,
+        294.04,
+        469.92,
+        382.48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "可以发现， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P _ { 1 } D _ { 1 } = P _ { 1 } E _ { 1 } , \\ P _ { 2 } D _ { 2 } = P _ { 2 } E _ { 2 } , \\ P _ { 3 } D _ { 3 } = P _ { 3 } E _ { 3 } , \\ \\cdots"
+          },
+          {
+            "type": "text",
+            "content": "，由此我们猜想角的平分线有以下性质："
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        579,
+        914,
+        628
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        271,
+        1778,
+        1987,
+        1928
+      ],
+      "model_image_bbox": [
+        141,
+        926,
+        1034,
+        1004
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        426.7,
+        476.7,
+        462.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "角的平分线上的点到角两边的距离相等."
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        637,
+        574,
+        656
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        367,
+        1956,
+        1247,
+        2014
+      ],
+      "model_image_bbox": [
+        191,
+        1019,
+        649,
+        1049
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        469.44,
+        299.37,
+        483.44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "下面，我们证明这个性质.首先，要分清其中的“已知”和“求证”显然，已知为“一个点在一个角的平分线上”，要证的结论为“这个点到这个角两边的距离相等”．为了更直观、清楚地表达题意，我们通常在证明之前画出"
+          }
+        ]
+      },
+      "bbox": [
+        122,
+        664,
+        916,
+        743
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        265,
+        2039,
+        1991,
+        2281
+      ],
+      "model_image_bbox": [
+        138,
+        1062,
+        1036,
+        1188
+      ],
+      "pdf_page_bbox": [
+        63.63,
+        489.34,
+        477.74,
+        547.56
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图形，并用符号表示已知和求证."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        750,
+        459,
+        769
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        271,
+        2303,
+        997,
+        2361
+      ],
+      "model_image_bbox": [
+        141,
+        1200,
+        519,
+        1230
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        552.71,
+        239.39,
+        566.72
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.3-5，OC是 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A O B"
+          },
+          {
+            "type": "text",
+            "content": "的平分线，点P在OC上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "P D \\perp O A , ~ P E \\perp O B"
+          },
+          {
+            "type": "text",
+            "content": "，垂足分别为D，E.求证"
+          },
+          {
+            "type": "equation_inline",
+            "content": "P D { = } P E"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        777,
+        685,
+        854
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        271,
+        2386,
+        1489,
+        2622
+      ],
+      "model_image_bbox": [
+        141,
+        1243,
+        775,
+        1366
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        572.61,
+        357.26,
+        629.36
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/73168ceede1a1bbd590aca57bad1a215738052a0ca164e48612068094dc8a5a8.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        712,
+        751,
+        889,
+        859
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        1547,
+        2306,
+        1932,
+        2637
+      ],
+      "model_image_bbox": [
+        805,
+        1201,
+        1006,
+        1374
+      ],
+      "pdf_page_bbox": [
+        371.35,
+        553.45,
+        463.66,
+        633.04
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：如果能证明 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle O P D { \\cong } \\triangle O P E"
+          },
+          {
+            "type": "text",
+            "content": "，就可以得到"
+          }
+        ]
+      },
+      "bbox": [
+        169,
+        864,
+        683,
+        883
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        367,
+        2653,
+        1484,
+        2711
+      ],
+      "model_image_bbox": [
+        191,
+        1382,
+        773,
+        1412
+      ],
+      "pdf_page_bbox": [
+        88.14,
+        636.73,
+        356.22,
+        650.73
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.3-5"
+          }
+        ]
+      },
+      "bbox": [
+        761,
+        864,
+        852,
+        881
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        1654,
+        2653,
+        1852,
+        2705
+      ],
+      "model_image_bbox": [
+        861,
+        1382,
+        964,
+        1409
+      ],
+      "pdf_page_bbox": [
+        396.9,
+        636.73,
+        444.36,
+        649.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "equation_inline",
+            "content": "P D { = } P E"
+          },
+          {
+            "type": "text",
+            "content": "．由题意可知， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle { O P D }"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle C P E"
+          },
+          {
+            "type": "text",
+            "content": "具备“角角边”的条件."
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        894,
+        798,
+        914
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        271,
+        2745,
+        1734,
+        2806
+      ],
+      "model_image_bbox": [
+        141,
+        1430,
+        903,
+        1462
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        658.84,
+        416.2,
+        673.57
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        784,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        408,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        692,
+        939,
+        869,
+        954
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        1504,
+        2883,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        783,
+        1502,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        360.91,
+        692.0,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "49"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        939,
+        909,
+        953
+      ],
+      "reading_order": 23,
+      "original_image_bbox": [
+        1921,
+        2883,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1502,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        692.0,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        991
+      ],
+      "reading_order": 24,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3043
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1585
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        730.32
+      ]
+    }
+  ]
+}

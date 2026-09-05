@@ -1,0 +1,277 @@
+{
+  "page_id": 84,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "拓广探索"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        147,
+        79,
+        262,
+        102
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        319,
+        242,
+        569,
+        313
+      ],
+      "model_image_bbox": [
+        166,
+        126,
+        296,
+        163
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        58.22,
+        136.65,
+        75.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "8.如图，分别作出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle P Q R"
+          },
+          {
+            "type": "text",
+            "content": "关于直线m（直线m上各点的横坐标都为1）和直线n（直线n上各点的纵坐标都为—1）对称的图形．它们的对称点的坐标之间分别有什么关系？"
+          }
+        ]
+      },
+      "bbox": [
+        147,
+        111,
+        894,
+        184
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        319,
+        340,
+        1943,
+        565
+      ],
+      "model_image_bbox": [
+        166,
+        177,
+        1012,
+        294
+      ],
+      "pdf_page_bbox": [
+        76.67,
+        81.8,
+        466.27,
+        135.6
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/f1ff48733c3eb7ac931d67bc1765aa979702f2d5dda205f0ea93a2418f3ed7a7.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": [
+          {
+            "type": "text",
+            "content": "(第8题）"
+          }
+        ]
+      },
+      "bbox": [
+        343,
+        196,
+        692,
+        446
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        745,
+        601,
+        1504,
+        1369
+      ],
+      "model_image_bbox": [
+        388,
+        313,
+        783,
+        713
+      ],
+      "pdf_page_bbox": [
+        178.89,
+        144.44,
+        360.91,
+        328.68
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十五章轴对称"
+          }
+        ]
+      },
+      "bbox": [
+        727,
+        937,
+        869,
+        954
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1580,
+        2877,
+        1889,
+        2929
+      ],
+      "model_image_bbox": [
+        822,
+        1499,
+        983,
+        1526
+      ],
+      "pdf_page_bbox": [
+        379.17,
+        690.52,
+        453.23,
+        703.05
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "77"
+          }
+        ]
+      },
+      "bbox": [
+        884,
+        937,
+        909,
+        953
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1921,
+        2877,
+        1976,
+        2926
+      ],
+      "model_image_bbox": [
+        1000,
+        1499,
+        1028,
+        1524
+      ],
+      "pdf_page_bbox": [
+        461.05,
+        690.52,
+        474.09,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        784,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.28,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

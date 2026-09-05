@@ -1,0 +1,974 @@
+{
+  "page_id": 49,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "BC，可知点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点B重合."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        67,
+        368,
+        88
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        176,
+        205,
+        800,
+        270
+      ],
+      "model_image_bbox": [
+        91,
+        107,
+        416,
+        140
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        49.38,
+        191.93,
+        64.85
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "为了判断点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点A是否重合，我们讨论射线CA上除点C，A外的点与点B的连线和边AB的大小关系."
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        97,
+        592,
+        175
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        169,
+        297,
+        1287,
+        537
+      ],
+      "model_image_bbox": [
+        88,
+        155,
+        670,
+        280
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        71.48,
+        308.76,
+        128.97
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a2cdeb51d0f4c4edbc58055ba5d77d1920b8c3f1aad0a4f2efe4527988699b31.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        631,
+        97,
+        850,
+        237
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        1371,
+        297,
+        1847,
+        727
+      ],
+      "model_image_bbox": [
+        714,
+        155,
+        962,
+        379
+      ],
+      "pdf_page_bbox": [
+        329.1,
+        71.48,
+        443.32,
+        174.66
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "设点M在直角边AC（不包括端点）上，连接BM，则 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B M A > \\angle C , \\angle B M A"
+          },
+          {
+            "type": "text",
+            "content": "是钝角.若过点M且垂直于BM的直线与线段AB相交于点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "M ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "则有 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { > } B M ^ { \\prime } { > } B M"
+          },
+          {
+            "type": "text",
+            "content": "，设点N在线段CA的延长线上，连接BN，同理可得 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B N { > } A B"
+          },
+          {
+            "type": "text",
+            "content": "．因此，在射线CA上，与点B的连线长度等于AB的点只有一个.再由点 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "在射线CA上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } { = } A B"
+          },
+          {
+            "type": "text",
+            "content": "，可知点"
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与点A重合.这样， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "的三个顶点与"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的三个顶点分别重合， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "能够完全重合，因而 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime } { \\overset { \\sim } { = } } \\triangle A B C"
+          }
+        ]
+      },
+      "bbox": [
+        78,
+        182,
+        599,
+        460
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        169,
+        558,
+        1302,
+        1412
+      ],
+      "model_image_bbox": [
+        88,
+        291,
+        678,
+        736
+      ],
+      "pdf_page_bbox": [
+        40.68,
+        134.13,
+        312.41,
+        339.0
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.2-22"
+          }
+        ]
+      },
+      "bbox": [
+        678,
+        255,
+        778,
+        270
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        1473,
+        783,
+        1691,
+        829
+      ],
+      "model_image_bbox": [
+        767,
+        408,
+        880,
+        432
+      ],
+      "pdf_page_bbox": [
+        353.61,
+        187.92,
+        405.77,
+        198.98
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在今后的学习中，我们将用勾股定理证明这个判定方法."
+          }
+        ]
+      },
+      "bbox": [
+        641,
+        375,
+        857,
+        444
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1393,
+        1151,
+        1863,
+        1363
+      ],
+      "model_image_bbox": [
+        725,
+        600,
+        970,
+        710
+      ],
+      "pdf_page_bbox": [
+        334.31,
+        276.36,
+        446.97,
+        327.21
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "一般地，有如下判定直角三角形全等的方法："
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        467,
+        579,
+        487
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        271,
+        1434,
+        1258,
+        1495
+      ],
+      "model_image_bbox": [
+        141,
+        747,
+        655,
+        779
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        344.16,
+        301.98,
+        358.9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "斜边和一直角边分别相等的两个直角三角形全等（可以简写成“斜边、直角边”或“HL”)."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        494,
+        872,
+        543
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        176,
+        1517,
+        1895,
+        1667
+      ],
+      "model_image_bbox": [
+        91,
+        790,
+        987,
+        868
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        364.05,
+        454.79,
+        400.16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "例6如图14.2-23， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C \\bot B C , \\ B D \\bot A D"
+          },
+          {
+            "type": "text",
+            "content": "，垂足分别为C，D， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C ="
+          },
+          {
+            "type": "text",
+            "content": "BD.求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = A D"
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        552,
+        869,
+        600
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        176,
+        1695,
+        1889,
+        1842
+      ],
+      "model_image_bbox": [
+        91,
+        883,
+        983,
+        960
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        406.8,
+        453.23,
+        442.17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "分析：如果能证明 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "R { \\mathrm { t } } \\triangle A B C { \\cong } { \\mathrm { R t } } \\triangle B A D"
+          },
+          {
+            "type": "text",
+            "content": "，就可以得出 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "B C = A D"
+          },
+          {
+            "type": "text",
+            "content": "·由题意可知， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle B A D"
+          },
+          {
+            "type": "text",
+            "content": "具备“斜边、直角边”的条件."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        609,
+        869,
+        657
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        176,
+        1870,
+        1889,
+        2017
+      ],
+      "model_image_bbox": [
+        91,
+        974,
+        983,
+        1051
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        448.8,
+        453.23,
+        484.18
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "证明： "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\because A C \\bot B C , \\ B D \\bot A D"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        666,
+        464,
+        685
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        271,
+        2045,
+        1008,
+        2103
+      ],
+      "model_image_bbox": [
+        141,
+        1065,
+        525,
+        1096
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        490.81,
+        242.0,
+        504.81
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "∴∠C=∠D=90°."
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        694,
+        343,
+        713
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        276,
+        2131,
+        745,
+        2189
+      ],
+      "model_image_bbox": [
+        143,
+        1110,
+        388,
+        1140
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        511.44,
+        178.89,
+        525.45
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "和 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\mathrm { R t } \\triangle B A D"
+          },
+          {
+            "type": "text",
+            "content": "中，"
+          }
+        ]
+      },
+      "bbox": [
+        125,
+        722,
+        432,
+        741
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        271,
+        2217,
+        939,
+        2275
+      ],
+      "model_image_bbox": [
+        141,
+        1155,
+        489,
+        1185
+      ],
+      "pdf_page_bbox": [
+        65.19,
+        532.08,
+        225.31,
+        546.08
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/8bcb6ab0add761bc41395cb7ac8d1b00a87ce4cf940eafd5d0903b1a5a792f00.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        658,
+        666,
+        869,
+        744
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        1430,
+        2045,
+        1889,
+        2284
+      ],
+      "model_image_bbox": [
+        744,
+        1065,
+        983,
+        1190
+      ],
+      "pdf_page_bbox": [
+        343.18,
+        490.81,
+        453.23,
+        548.29
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\scriptstyle { \\begin{array} { l } { \\displaystyle ( A B = B A , } \\\\ { \\displaystyle A C = B D , } \\end{array} }",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/a64f98ee60c4ec060448e0bfa92dbdd7a4620bb4116cf356cc35fc9d772373e0.jpg"
+        }
+      },
+      "bbox": [
+        171,
+        751,
+        292,
+        798
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        371,
+        2306,
+        634,
+        2450
+      ],
+      "model_image_bbox": [
+        193,
+        1201,
+        330,
+        1276
+      ],
+      "pdf_page_bbox": [
+        89.19,
+        553.45,
+        152.29,
+        588.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "图14.2-23"
+          }
+        ]
+      },
+      "bbox": [
+        702,
+        760,
+        805,
+        777
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1526,
+        2333,
+        1750,
+        2386
+      ],
+      "model_image_bbox": [
+        794,
+        1216,
+        911,
+        1243
+      ],
+      "pdf_page_bbox": [
+        366.13,
+        560.08,
+        419.85,
+        572.61
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore R t \\triangle A B C \\cong R t \\triangle B A D ( H L ) .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/2cb9bfc7439f1b1ccc2e87e7672e7bd7fd018c5b6fa57cf5592350bfa4708e8f.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        807,
+        471,
+        828
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        282,
+        2478,
+        1023,
+        2542
+      ],
+      "model_image_bbox": [
+        147,
+        1291,
+        533,
+        1324
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        594.72,
+        245.65,
+        610.2
+      ]
+    },
+    {
+      "type": "equation_interline",
+      "content": {
+        "math_content": "\\therefore B C = A D .",
+        "math_type": "latex",
+        "image_source": {
+          "path": "images/21077245cc4daea93ae4f0461d63baa870303a3bf1662a00a257667a0c166b41.jpg"
+        }
+      },
+      "bbox": [
+        130,
+        836,
+        277,
+        855
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        282,
+        2567,
+        602,
+        2625
+      ],
+      "model_image_bbox": [
+        147,
+        1337,
+        313,
+        1368
+      ],
+      "pdf_page_bbox": [
+        67.8,
+        616.09,
+        144.47,
+        630.09
+      ]
+    },
+    {
+      "type": "page_header",
+      "content": {
+        "page_header_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": []
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 20,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 21,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 22,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}

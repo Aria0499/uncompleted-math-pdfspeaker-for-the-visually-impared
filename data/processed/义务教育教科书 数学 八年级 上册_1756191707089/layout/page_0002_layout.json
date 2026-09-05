@@ -1,0 +1,265 @@
+{
+  "page_id": 2,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5750122070312,
+  "pdf_page_height": 737.008056640625,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "义务教育教科书"
+          }
+        ]
+      },
+      "bbox": [
+        570,
+        55,
+        891,
+        76
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        1239,
+        168,
+        1937,
+        233
+      ],
+      "model_image_bbox": [
+        645,
+        88,
+        1008,
+        121
+      ],
+      "pdf_page_bbox": [
+        297.3,
+        40.54,
+        464.72,
+        56.01
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "数 学"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        378,
+        166,
+        663,
+        256
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        821,
+        509,
+        1441,
+        786
+      ],
+      "model_image_bbox": [
+        427,
+        265,
+        750,
+        409
+      ],
+      "pdf_page_bbox": [
+        197.16,
+        122.34,
+        345.8,
+        188.67
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "八年级"
+          }
+        ]
+      },
+      "bbox": [
+        447,
+        392,
+        594,
+        427
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        971,
+        1203,
+        1291,
+        1311
+      ],
+      "model_image_bbox": [
+        506,
+        627,
+        672,
+        683
+      ],
+      "pdf_page_bbox": [
+        233.14,
+        288.91,
+        309.82,
+        314.7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "上册"
+          }
+        ]
+      },
+      "bbox": [
+        488,
+        440,
+        555,
+        467
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        1060,
+        1351,
+        1206,
+        1434
+      ],
+      "model_image_bbox": [
+        552,
+        704,
+        628,
+        747
+      ],
+      "pdf_page_bbox": [
+        254.53,
+        324.28,
+        289.47,
+        344.18
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社课程教材研究所编著"
+          }
+        ]
+      },
+      "bbox": [
+        339,
+        513,
+        702,
+        532
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        736,
+        1575,
+        1526,
+        1633
+      ],
+      "model_image_bbox": [
+        383,
+        820,
+        794,
+        851
+      ],
+      "pdf_page_bbox": [
+        176.81,
+        378.09,
+        366.15,
+        392.09
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社·北京·"
+          }
+        ]
+      },
+      "bbox": [
+        407,
+        876,
+        633,
+        921
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        884,
+        2690,
+        1376,
+        2828
+      ],
+      "model_image_bbox": [
+        460,
+        1401,
+        716,
+        1473
+      ],
+      "pdf_page_bbox": [
+        212.28,
+        645.62,
+        330.16,
+        678.78
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        361,
+        963,
+        641,
+        993
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        784,
+        2957,
+        1393,
+        3049
+      ],
+      "model_image_bbox": [
+        408,
+        1540,
+        725,
+        1588
+      ],
+      "pdf_page_bbox": [
+        188.29,
+        709.74,
+        334.33,
+        731.85
+      ]
+    }
+  ]
+}

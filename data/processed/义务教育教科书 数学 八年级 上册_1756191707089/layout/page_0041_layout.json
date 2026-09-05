@@ -1,0 +1,870 @@
+{
+  "page_id": 41,
+  "original_image_width": 2174,
+  "original_image_height": 3071,
+  "model_image_width": 1132,
+  "model_image_height": 1600,
+  "pdf_page_weight": 521.5520629882812,
+  "pdf_page_height": 736.9520263671875,
+  "layout_engine": "mineru",
+  "blocks": [
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ],
+        "level": 1
+      },
+      "bbox": [
+        358,
+        3,
+        638,
+        31
+      ],
+      "reading_order": 1,
+      "original_image_bbox": [
+        778,
+        9,
+        1387,
+        95
+      ],
+      "model_image_bbox": [
+        405,
+        4,
+        722,
+        49
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        2.21,
+        332.75,
+        22.85
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/214334590e9ff0886ba00e41ee43a2c91f6ac40ca2ac13b32becfa75d89b8779.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        69,
+        135,
+        93
+      ],
+      "reading_order": 2,
+      "original_image_bbox": [
+        213,
+        211,
+        293,
+        285
+      ],
+      "model_image_bbox": [
+        110,
+        110,
+        152,
+        148
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        50.85,
+        70.41,
+        68.54
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "思考"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        98,
+        69,
+        199,
+        93
+      ],
+      "reading_order": 3,
+      "original_image_bbox": [
+        213,
+        211,
+        432,
+        285
+      ],
+      "model_image_bbox": [
+        110,
+        110,
+        225,
+        148
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        50.85,
+        103.79,
+        68.54
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "我们知道，如果两个三角形的两边和它们的夹角分别相等，那么这两个三角形全等.如果两个三角形的两边和其中一边的对角分别相等，那么这两个三角形全等吗？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        104,
+        847,
+        182
+      ],
+      "reading_order": 4,
+      "original_image_bbox": [
+        223,
+        319,
+        1841,
+        558
+      ],
+      "model_image_bbox": [
+        116,
+        166,
+        958,
+        291
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        76.64,
+        441.75,
+        134.13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.2-5， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "满足两边和其中一边的对角分别相等，即 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B = A B"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A C = A D"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = \\angle B"
+          },
+          {
+            "type": "text",
+            "content": ",但 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B D"
+          },
+          {
+            "type": "text",
+            "content": "显然不全等．这说明，两边和其中一边的对角分别相等的两个三角形不一定全等."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        197,
+        668,
+        305
+      ],
+      "reading_order": 5,
+      "original_image_bbox": [
+        176,
+        604,
+        1452,
+        936
+      ],
+      "model_image_bbox": [
+        91,
+        315,
+        756,
+        488
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        145.18,
+        348.4,
+        224.77
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/45d74bd3efa105915593fe02ffb55611ff474c3a5b2dcceeaff8ff22008e0dc3.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-5"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        685,
+        197,
+        869,
+        289
+      ],
+      "reading_order": 6,
+      "original_image_bbox": [
+        1489,
+        604,
+        1889,
+        887
+      ],
+      "model_image_bbox": [
+        775,
+        315,
+        983,
+        462
+      ],
+      "pdf_page_bbox": [
+        357.26,
+        145.18,
+        453.23,
+        212.98
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "练习"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        100,
+        321,
+        206,
+        345
+      ],
+      "reading_order": 7,
+      "original_image_bbox": [
+        217,
+        985,
+        447,
+        1059
+      ],
+      "model_image_bbox": [
+        113,
+        513,
+        233,
+        552
+      ],
+      "pdf_page_bbox": [
+        52.16,
+        236.56,
+        107.44,
+        254.25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "1.如图，有一池塘，要测池塘两端A，B的距离，可先在平地上取一个点C，从点C不经过池塘可以直接到达点A和点B.连接AC并延长到点D，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C D { = } C A"
+          },
+          {
+            "type": "text",
+            "content": "．连接BC并延长到点E，使 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "C E { = } C B"
+          },
+          {
+            "type": "text",
+            "content": ".连接DE，那么量出DE的长就是A，B的距离．为什么？"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        359,
+        850,
+        465
+      ],
+      "reading_order": 8,
+      "original_image_bbox": [
+        223,
+        1102,
+        1847,
+        1428
+      ],
+      "model_image_bbox": [
+        116,
+        574,
+        962,
+        744
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        264.57,
+        443.32,
+        342.68
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/9d088a5f6c495944237e6c9308f592ff67debf90ad5b13c36ecd99734bd4f0e4.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第1题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        228,
+        470,
+        469,
+        572
+      ],
+      "reading_order": 9,
+      "original_image_bbox": [
+        495,
+        1443,
+        1019,
+        1756
+      ],
+      "model_image_bbox": [
+        258,
+        752,
+        530,
+        915
+      ],
+      "pdf_page_bbox": [
+        118.91,
+        346.37,
+        244.61,
+        421.54
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/a043cbd1bc05edaa0e676ceb99fc7f7869a06ffb0ea38120af9dcbcb4c6763d4.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "（第2题）"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        533,
+        477,
+        722,
+        572
+      ],
+      "reading_order": 10,
+      "original_image_bbox": [
+        1158,
+        1464,
+        1569,
+        1756
+      ],
+      "model_image_bbox": [
+        603,
+        763,
+        817,
+        915
+      ],
+      "pdf_page_bbox": [
+        277.99,
+        351.53,
+        376.56,
+        421.54
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "2.如图，点E，F在BC上，BE=CF， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B { = } D C"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B = \\angle C ."
+          },
+          {
+            "type": "text",
+            "content": "求证 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A = \\angle D ."
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        611,
+        847,
+        630
+      ],
+      "reading_order": 11,
+      "original_image_bbox": [
+        223,
+        1876,
+        1841,
+        1934
+      ],
+      "model_image_bbox": [
+        116,
+        977,
+        958,
+        1008
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        450.28,
+        441.75,
+        464.28
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "前面我们研究了两个三角形的两边和一角分别相等的情况．接下来研究两个三角形的两角和一边分别相等的情况."
+          }
+        ]
+      },
+      "bbox": [
+        81,
+        670,
+        869,
+        720
+      ],
+      "reading_order": 12,
+      "original_image_bbox": [
+        176,
+        2057,
+        1889,
+        2211
+      ],
+      "model_image_bbox": [
+        91,
+        1072,
+        983,
+        1152
+      ],
+      "pdf_page_bbox": [
+        42.25,
+        493.76,
+        453.23,
+        530.61
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/c081d6cc619fef583193bc5e735ac7d6c6d23aedd4dd92f0a6f2b1fcdb64e527.jpg"
+        },
+        "image_caption": [],
+        "image_footnote": []
+      },
+      "bbox": [
+        98,
+        730,
+        135,
+        755
+      ],
+      "reading_order": 13,
+      "original_image_bbox": [
+        213,
+        2241,
+        293,
+        2318
+      ],
+      "model_image_bbox": [
+        110,
+        1168,
+        152,
+        1208
+      ],
+      "pdf_page_bbox": [
+        51.11,
+        537.97,
+        70.41,
+        556.4
+      ]
+    },
+    {
+      "type": "title",
+      "content": {
+        "title_content": [
+          {
+            "type": "text",
+            "content": "探究3"
+          }
+        ],
+        "level": 2
+      },
+      "bbox": [
+        137,
+        732,
+        213,
+        753
+      ],
+      "reading_order": 14,
+      "original_image_bbox": [
+        297,
+        2247,
+        463,
+        2312
+      ],
+      "model_image_bbox": [
+        155,
+        1171,
+        241,
+        1204
+      ],
+      "pdf_page_bbox": [
+        71.45,
+        539.45,
+        111.09,
+        554.92
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "paragraph_content": [
+          {
+            "type": "text",
+            "content": "如图14.2-6，直观上， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A B , \\angle A , \\angle B"
+          },
+          {
+            "type": "text",
+            "content": "的大小确定了， "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "的形状、大小也就确定了．也就是说，在 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }"
+          },
+          {
+            "type": "text",
+            "content": "与 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "中，如果 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "A ^ { \\prime } B ^ { \\prime } ="
+          },
+          {
+            "type": "text",
+            "content": "AB, "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle A ^ { \\prime } { = } \\angle A"
+          },
+          {
+            "type": "text",
+            "content": ", "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\angle B ^ { \\prime } { = } \\angle B"
+          },
+          {
+            "type": "text",
+            "content": "，那么 "
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime } \\cong"
+          },
+          {
+            "type": "equation_inline",
+            "content": "\\triangle A B C"
+          },
+          {
+            "type": "text",
+            "content": "，这个判断正确吗?"
+          }
+        ]
+      },
+      "bbox": [
+        103,
+        767,
+        587,
+        901
+      ],
+      "reading_order": 15,
+      "original_image_bbox": [
+        223,
+        2355,
+        1276,
+        2766
+      ],
+      "model_image_bbox": [
+        116,
+        1227,
+        664,
+        1441
+      ],
+      "pdf_page_bbox": [
+        53.72,
+        565.24,
+        306.15,
+        663.99
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "image_source": {
+          "path": "images/327719bb95268510d0558a13e87ad7a980e6a0398e247a4388f67994bff21f79.jpg"
+        },
+        "image_caption": [
+          {
+            "type": "text",
+            "content": "图14.2-6"
+          }
+        ],
+        "image_footnote": []
+      },
+      "bbox": [
+        604,
+        765,
+        845,
+        861
+      ],
+      "reading_order": 16,
+      "original_image_bbox": [
+        1313,
+        2349,
+        1837,
+        2644
+      ],
+      "model_image_bbox": [
+        683,
+        1224,
+        956,
+        1377
+      ],
+      "pdf_page_bbox": [
+        315.02,
+        563.77,
+        440.71,
+        634.52
+      ]
+    },
+    {
+      "type": "page_number",
+      "content": {
+        "page_number_content": [
+          {
+            "type": "text",
+            "content": "34"
+          }
+        ]
+      },
+      "bbox": [
+        88,
+        939,
+        113,
+        953
+      ],
+      "reading_order": 17,
+      "original_image_bbox": [
+        191,
+        2883,
+        245,
+        2926
+      ],
+      "model_image_bbox": [
+        99,
+        1502,
+        127,
+        1524
+      ],
+      "pdf_page_bbox": [
+        45.9,
+        692.0,
+        58.94,
+        702.32
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "第十四章全等三角形"
+          }
+        ]
+      },
+      "bbox": [
+        127,
+        937,
+        304,
+        954
+      ],
+      "reading_order": 18,
+      "original_image_bbox": [
+        276,
+        2877,
+        660,
+        2929
+      ],
+      "model_image_bbox": [
+        143,
+        1499,
+        344,
+        1526
+      ],
+      "pdf_page_bbox": [
+        66.24,
+        690.52,
+        158.55,
+        703.05
+      ]
+    },
+    {
+      "type": "page_footer",
+      "content": {
+        "page_footer_content": [
+          {
+            "type": "text",
+            "content": "人民教育出版社"
+          }
+        ]
+      },
+      "bbox": [
+        358,
+        963,
+        638,
+        993
+      ],
+      "reading_order": 19,
+      "original_image_bbox": [
+        778,
+        2957,
+        1387,
+        3049
+      ],
+      "model_image_bbox": [
+        405,
+        1540,
+        722,
+        1588
+      ],
+      "pdf_page_bbox": [
+        186.72,
+        709.68,
+        332.75,
+        731.79
+      ]
+    }
+  ]
+}
