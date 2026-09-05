@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>首页 - 教材语音化仿真系统</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body class="page-center">
+  <div class="hero">
+    <h1>初中数学教材智能语音化仿真系统</h1>
+    <p>面向视障群体的教材上传、解析、点读、重复、语速调节与音频导出平台。</p>
+    <form class="hero-form" action="/" method="post" enctype="multipart/form-data">
+      <label for="file">上传教材 PDF</label>
+      <input id="file" type="file" name="file" accept=".pdf" required>
+      <div class="actions">
+        <button type="submit">上传并进入阅读</button>
+        <a class="link-btn" href="/books">查看教材列表</a>
+      </div>
+    </form>
+  </div>
+</body>
+</html>

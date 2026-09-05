@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ book.title }} - 阅读页</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  <div class="reader-layout">
+    <div class="reader-content">
+      <div class="page-meta">
+        <h2>{{ book.title }}</h2>
+        <a class="back-link" href="/books">← 返回列表</a>
+      </div>
+
+      <div class="page-nav">
+        {% if prev_page %}
+          <a href="/books/{{ book.id }}/page/{{ prev_page }}"><button class="secondary">上一页</button></a>
+        {% else %}
+          <button class="secondary" disabled>上一页</button>
+        {% endif %}
+        <div class="page-nav-info">第 {{ page_num }} / {{ total_pages }} 页</div>
+        {% if next_page %}
+          <a href="/books/{{ book.id }}/page/{{ next_page }}"><button class="secondary">下一页</button></a>
+        {% else %}
+          <button class="secondary" disabled>下一页</button>
+        {% endif %}
+      </div>
+
+      <div class="card page-view-card">
+        {% if page and page.image_url %}
+          <div class="page-view" style="--page-ratio: {{ page.image_ratio }};" id="pageView">
+            <div class="page-layer">
+              <img class="page-image" src="{{ page.image_url }}" alt="教材页面">
+            </div>
+            <div class="block-layer" id="blockLayer">
+              {% for block in page.blocks %}
+                <div class="block" data-text="{{ block.text }}" style="left: {{ block.left_pct }}%; top: {{ block.top_pct }}%; width: {{ block.width_pct }}%; height: {{ block.height_pct }}%;"></div>
+              {% endfor %}
+            </div>
+          </div>
+        {% else %}
+          <div class="empty-page">
+            <h3>当前页无版面图</h3>
+            <pre>{{ page.text if page else '暂无内容' }}</pre>
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <aside class="reader-sidebar" id="readerControls">
+      <h3 class="sidebar-title">阅读控制</h3>
+
+      <!-- 语速调节：保留 #rate / #rateValue 供 TTS 引擎接入 -->
+      <div class="card speed-card">
+        <div class="card-header">
+          <span class="card-icon" aria-hidden="true">速</span>
+          <h4>语速调节</h4>
+        </div>
+        <label for="rate">朗读语速</label>
+        <div class="speed-control">
+          <input id="rate" type="range" min="120" max="260" value="180" aria-label="语速">
+          <span id="rateValue" class="speed-value">180</span>
+        </div>
+      </div>
+
+      <!-- 播放控制：保留 onclick 与 #status，供后续 TTS SDK 替换 -->
+      <div class="card playback-card" id="playbackPanel">
+        <div class="card-header">
+          <span class="card-icon" aria-hidden="true">播</span>
+          <h4>播放控制</h4>
+        </div>
+        <div class="playback-actions">
+          <button class="btn-block" id="btnSpeak" onclick="speakSelected()">点读当前选中内容</button>
+          <div class="playback-toolbar">
+            <button class="secondary" id="btnRepeat" onclick="repeatSelected()">重复播放</button>
+            <button class="secondary" id="btnExport" onclick="exportSelected()">导出音频</button>
+          </div>
+        </div>
+        <div id="status" class="status is-waiting">请选择版块或内容</div>
+      </div>
+
+      <!-- 文本预览：保留 page.text 展示，供多模态理解结果对照 -->
+      <div class="card text-card">
+        <div class="card-header">
+          <span class="card-icon" aria-hidden="true">文</span>
+          <h4>当前页文本</h4>
+        </div>
+        <p class="text-preview muted" id="pageTextPreview">{{ page.text if page else '' }}</p>
+      </div>
+    </aside>
+  </div>
+
+  <script>
+    let selectedText = '';
+    let selectedBlock = null;
+    const rateInput = document.getElementById('rate');
+    const rateValue = document.getElementById('rateValue');
+    const status = document.getElementById('status');
+
+    rateInput.addEventListener('input', () => {
+      rateValue.textContent = rateInput.value;
+    });
+
+    function setStatus(message, type) {
+      status.textContent = message;
+      status.classList.remove('is-waiting', 'is-error');
+      if (type === 'waiting') status.classList.add('is-waiting');
+      else if (type === 'error') status.classList.add('is-error');
+    }
+
+    document.querySelectorAll('.block').forEach(block => {
+      block.addEventListener('click', () => {
+        if (selectedBlock) selectedBlock.classList.remove('is-selected');
+        selectedBlock = block;
+        block.classList.add('is-selected');
+        selectedText = block.dataset.text;
+        setStatus('已选中版块内容', 'success');
+      });
+    });
+
+    function getRate() {
+      return parseInt(rateInput.value, 10);
+    }
+
+    /* ── TTS 接口：POST /api/speak ── */
+    function speakSelected() {
+      if (!selectedText) {
+        setStatus('请先点击页面中的版块', 'error');
+        return;
+      }
+      setStatus('正在朗读…', 'waiting');
+      fetch('/api/speak', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: selectedText, rate: getRate() })
+      }).then(r => r.json()).then(data => {
+        setStatus(data.success ? '朗读完成' : (data.message || '朗读失败'), data.success ? 'success' : 'error');
+      }).catch(() => setStatus('朗读请求失败', 'error'));
+    }
+
+    function repeatSelected() {
+      speakSelected();
+    }
+
+    /* ── 音频导出接口：POST /api/export ── */
+    function exportSelected() {
+      if (!selectedText) {
+        setStatus('请先选择要导出的内容', 'error');
+        return;
+      }
+      setStatus('正在导出音频…', 'waiting');
+      fetch('/api/export', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: selectedText, rate: getRate(), filename: 'reader_export' })
+      }).then(r => r.json()).then(data => {
+        setStatus(data.success ? '音频已导出' : (data.message || '导出失败'), data.success ? 'success' : 'error');
+        if (data.success) window.open(data.url, '_blank');
+      }).catch(() => setStatus('导出请求失败', 'error'));
+    }
+  </script>
+</body>
+</html>

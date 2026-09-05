@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>初中数学教材智能语音化仿真系统</title>
+  <style>
+    :root {
+      --bg-1: #040b16;
+      --bg-2: #0f172a;
+      --bg-3: #111827;
+      --panel: rgba(15, 23, 42, 0.76);
+      --card: rgba(15, 23, 42, 0.9);
+      --line: rgba(148, 163, 184, 0.18);
+      --text: #ebf3ff;
+      --muted: #9bb0c9;
+      --accent: #7dd3fc;
+      --accent-strong: #3b82f6;
+      --accent-soft: rgba(125, 211, 252, 0.12);
+      --success: #34d399;
+      --shadow: 0 20px 45px rgba(2, 6, 23, 0.54);
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Microsoft YaHei", Arial, sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(125, 211, 252, 0.14), transparent 25%),
+        radial-gradient(circle at bottom right, rgba(59, 130, 246, 0.12), transparent 30%),
+        linear-gradient(135deg, var(--bg-1), var(--bg-2), var(--bg-3));
+      color: var(--text);
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 320px minmax(0, 1fr);
+      min-height: 100vh;
+    }
+
+    .sidebar {
+      background: rgba(8, 15, 25, 0.92);
+      border-right: 1px solid var(--line);
+      color: var(--text);
+      padding: 26px 20px;
+      box-shadow: inset -1px 0 0 rgba(148, 163, 184, 0.12);
+    }
+
+    .sidebar h2 {
+      margin: 0 0 8px;
+      font-size: 1.7rem;
+    }
+
+    .sidebar p { color: var(--muted); line-height: 1.7; }
+
+    .main {
+      padding: 28px 30px 40px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px 20px;
+      box-shadow: var(--shadow);
+      margin-bottom: 18px;
+      backdrop-filter: blur(10px);
+    }
+
+    form {
+      margin-top: 18px;
+      display: grid;
+      gap: 12px;
+    }
+
+    label {
+      font-weight: 600;
+      color: #dfeaff;
+    }
+
+    input[type="file"], input[type="range"] {
+      width: 100%;
+      font-size: 1rem;
+    }
+
+    input[type="file"] {
+      border: 1px dashed rgba(125, 211, 252, 0.4);
+      background: rgba(15, 23, 42, 0.5);
+      color: var(--text);
+      border-radius: 12px;
+      padding: 12px 14px;
+    }
+
+    button {
+      appearance: none;
+      border: none;
+      border-radius: 12px;
+      padding: 10px 14px;
+      color: #03131f;
+      cursor: pointer;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+      box-shadow: 0 12px 24px rgba(59, 130, 246, 0.24);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    button:hover { transform: translateY(-1px); }
+    button.secondary {
+      color: var(--text);
+      background: rgba(148, 163, 184, 0.15);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      box-shadow: none;
+    }
+
+    .book-list {
+      display: grid;
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    .book-list a {
+      text-decoration: none;
+    }
+
+    .book-list button {
+      width: 100%;
+      text-align: left;
+      margin: 0;
+      background: rgba(30, 41, 59, 0.82);
+      color: var(--text);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+      box-shadow: none;
+    }
+
+    .book-list button:hover {
+      background: rgba(59, 130, 246, 0.16);
+      border-color: rgba(125, 211, 252, 0.4);
+    }
+
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+
+    input[type="range"] {
+      accent-color: var(--accent-strong);
+      max-width: 220px;
+    }
+
+    .status {
+      margin-top: 12px;
+      color: var(--success);
+      font-weight: 700;
+    }
+
+    .muted { color: var(--muted); }
+
+    .pages {
+      display: grid;
+      gap: 14px;
+    }
+
+    .page-item {
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px;
+      background: rgba(15, 23, 42, 0.68);
+    }
+
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: rgba(10, 16, 26, 0.8);
+      color: #dfeaff;
+      padding: 14px 16px;
+      border-radius: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.14);
+      line-height: 1.8;
+      margin: 12px 0 0;
+      cursor: pointer;
+    }
+
+    .page-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+
+    ul {
+      margin: 12px 0 0 18px;
+      padding: 0;
+      color: var(--muted);
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h2>教材语音化仿真系统</h2>
+      <p class="muted">面向视障群体的初中数学教材辅助阅读与朗读</p>
+      <form action="/" method="post" enctype="multipart/form-data">
+        <label>上传教材 PDF</label>
+        <input type="file" name="file" accept=".pdf" required>
+        <button type="submit">上传并解析</button>
+      </form>
+      <div class="card">
+        <h3>教材列表</h3>
+        <div class="book-list">
+          {% for book in books %}
+            <a href="/?book_id={{ book.id }}"><button type="button">{{ book.title }}</button></a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="card">
+        <h3>功能说明</h3>
+        <ul>
+          <li>上传教材 PDF</li>
+          <li>自动解析内容并生成可朗读文本</li>
+          <li>点读当前段落、重复播放、语速调节</li>
+          <li>导出为音频文件</li>
+        </ul>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="card">
+        <h1>{{ current_book.title if current_book else '请先选择教材' }}</h1>
+        <div class="controls">
+          <label>语速：</label>
+          <input id="rate" type="range" min="120" max="260" value="180">
+          <span id="rateValue">180</span>
+          <button onclick="speakSelection()">点读当前段落</button>
+          <button class="secondary" onclick="repeatSelection()">重复播放</button>
+          <button class="secondary" onclick="exportAudio()">导出音频</button>
+        </div>
+        <div id="status" class="status">就绪</div>
+      </div>
+      <div class="card">
+        <h3>页面内容</h3>
+        <div class="pages">
+          {% set pages = current_book.pages if current_book else [] %}
+          {% for page in pages %}
+            <div class="page-item">
+              <strong>第 {{ page.label }} 页</strong>
+              <pre>{{ page.text }}</pre>
+              <div class="page-actions">
+                <button onclick="speakText('{{ page.text | replace("'", "\\'") }}')">朗读本页</button>
+                <button class="secondary" onclick="speakText('{{ (page.segments[0] if page.segments else page.text) | replace("'", "\\'") }}')">朗读首段</button>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </main>
+  </div>
+  <script>
+    const rateInput = document.getElementById('rate');
+    const rateValue = document.getElementById('rateValue');
+    const status = document.getElementById('status');
+    let selectedText = '';
+
+    rateInput.addEventListener('input', () => {
+      rateValue.textContent = rateInput.value;
+    });
+
+    function setStatus(message) {
+      status.textContent = message;
+    }
+
+    function getRate() {
+      return parseInt(rateInput.value, 10);
+    }
+
+    function speakText(text) {
+      selectedText = text;
+      fetch('/api/speak', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text, rate: getRate() })
+      }).then(r => r.json()).then(data => {
+        if (data.success) setStatus('朗读完成');
+        else setStatus(data.message || '朗读失败');
+      }).catch(() => setStatus('朗读失败'));
+    }
+
+    function speakSelection() {
+      if (!selectedText) {
+        setStatus('请先选择或朗读一段内容');
+        return;
+      }
+      speakText(selectedText);
+    }
+
+    function repeatSelection() {
+      if (!selectedText) {
+        setStatus('没有可重复的内容');
+        return;
+      }
+      speakText(selectedText);
+    }
+
+    function exportAudio() {
+      if (!selectedText) {
+        setStatus('请先选择要导出的内容');
+        return;
+      }
+      fetch('/api/export', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: selectedText, rate: getRate(), filename: 'demo_export' })
+      }).then(r => r.json()).then(data => {
+        if (data.success) {
+          setStatus('音频已导出');
+          window.open(data.url, '_blank');
+        } else {
+          setStatus(data.message || '导出失败');
+        }
+      }).catch(() => setStatus('导出失败'));
+    }
+
+    document.querySelectorAll('.page-item pre').forEach(pre => {
+      pre.addEventListener('click', () => {
+        selectedText = pre.textContent;
+        setStatus('已选中当前段落');
+      });
+    });
+  </script>
+</body>
+</html>

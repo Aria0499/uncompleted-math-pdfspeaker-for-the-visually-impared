@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>书籍列表 - 教材语音化仿真系统</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <h1>教材列表</h1>
+      <a href="/">← 返回首页</a>
+    </div>
+    {% for book in books %}
+      <div class="card book-item">
+        <h3>
+          {{ book.title }}
+          {% if book.source == 'processed' %}
+            <span class="badge">已解析</span>
+          {% else %}
+            <span class="badge">已上传</span>
+          {% endif %}
+        </h3>
+        <p>包含 {{ book.pages|length }} 页内容</p>
+        <a class="book-link" href="/books/{{ book.id }}">进入阅读</a>
+      </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
